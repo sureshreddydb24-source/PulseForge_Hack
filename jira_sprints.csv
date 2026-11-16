@@ -1,0 +1,116 @@
+sprint_id,sprint_name,project_id,start_date,end_date,sprint_status,committed_story_points,completed_story_points
+PROJ-SPR-01,PulseForge Platform Sprint 1,1001,2026-01-05,2026-01-18,Completed,10,7
+PROJ-SPR-02,PulseForge Platform Sprint 2,1001,2026-01-19,2026-02-01,Completed,29,23
+PROJ-SPR-03,PulseForge Platform Sprint 3,1001,2026-02-02,2026-02-15,Completed,26,18
+PROJ-SPR-04,PulseForge Platform Sprint 4,1001,2026-02-16,2026-03-01,Completed,27,27
+PROJ-SPR-05,PulseForge Platform Sprint 5,1001,2026-03-02,2026-03-15,Completed,23,20
+PROJ-SPR-06,PulseForge Platform Sprint 6,1001,2026-03-16,2026-03-29,Completed,33,32
+PROJ-SPR-07,PulseForge Platform Sprint 7,1001,2026-03-30,2026-04-12,Completed,0,0
+PROJ-SPR-08,PulseForge Platform Sprint 8,1001,2026-04-13,2026-04-26,Completed,23,18
+PROJ-SPR-09,PulseForge Platform Sprint 9,1001,2026-04-27,2026-05-10,Completed,28,15
+PROJ-SPR-10,PulseForge Platform Sprint 10,1001,2026-05-11,2026-05-24,Completed,13,0
+PROJ-SPR-11,PulseForge Platform Sprint 11,1001,2026-05-25,2026-06-07,Completed,17,12
+PROJ-SPR-12,PulseForge Platform Sprint 12,1001,2026-06-08,2026-06-21,Completed,52,18
+PROJ-SPR-13,PulseForge Platform Sprint 13,1001,2026-06-22,2026-07-05,Completed,30,20
+PROJ-SPR-14,PulseForge Platform Sprint 14,1001,2026-07-06,2026-07-19,Completed,19,6
+PROJ-SPR-15,PulseForge Platform Sprint 15,1001,2026-07-20,2026-08-02,Completed,16,13
+PROJ-SPR-16,PulseForge Platform Sprint 16,1001,2026-08-03,2026-08-16,Completed,17,14
+PROJ-SPR-17,PulseForge Platform Sprint 17,1001,2026-08-17,2026-08-30,Completed,29,21
+PROJ-SPR-18,PulseForge Platform Sprint 18,1001,2026-08-31,2026-09-13,Completed,19,17
+PROJ-SPR-19,PulseForge Platform Sprint 19,1001,2026-09-14,2026-09-27,Completed,24,21
+PROJ-SPR-20,PulseForge Platform Sprint 20,1001,2026-09-28,2026-10-11,Completed,4,0
+PROJ-SPR-21,PulseForge Platform Sprint 21,1001,2026-10-12,2026-10-25,Completed,3,0
+PROJ-SPR-22,PulseForge Platform Sprint 22,1001,2026-10-26,2026-11-08,Completed,3,3
+PROJ-SPR-23,PulseForge Platform Sprint 23,1001,2026-11-09,2026-11-22,Active,1,0
+DATA-SPR-01,Data Pipeline Modernization Sprint 1,1002,2026-01-05,2026-01-18,Completed,18,18
+DATA-SPR-02,Data Pipeline Modernization Sprint 2,1002,2026-01-19,2026-02-01,Completed,43,22
+DATA-SPR-03,Data Pipeline Modernization Sprint 3,1002,2026-02-02,2026-02-15,Completed,12,4
+DATA-SPR-04,Data Pipeline Modernization Sprint 4,1002,2026-02-16,2026-03-01,Completed,9,9
+DATA-SPR-05,Data Pipeline Modernization Sprint 5,1002,2026-03-02,2026-03-15,Completed,12,1
+DATA-SPR-06,Data Pipeline Modernization Sprint 6,1002,2026-03-16,2026-03-29,Completed,24,18
+DATA-SPR-07,Data Pipeline Modernization Sprint 7,1002,2026-03-30,2026-04-12,Completed,17,4
+DATA-SPR-08,Data Pipeline Modernization Sprint 8,1002,2026-04-13,2026-04-26,Completed,26,18
+DATA-SPR-09,Data Pipeline Modernization Sprint 9,1002,2026-04-27,2026-05-10,Completed,8,3
+DATA-SPR-10,Data Pipeline Modernization Sprint 10,1002,2026-05-11,2026-05-24,Completed,20,7
+DATA-SPR-11,Data Pipeline Modernization Sprint 11,1002,2026-05-25,2026-06-07,Completed,20,20
+DATA-SPR-12,Data Pipeline Modernization Sprint 12,1002,2026-06-08,2026-06-21,Completed,24,8
+DATA-SPR-13,Data Pipeline Modernization Sprint 13,1002,2026-06-22,2026-07-05,Completed,30,5
+DATA-SPR-14,Data Pipeline Modernization Sprint 14,1002,2026-07-06,2026-07-19,Completed,3,0
+DATA-SPR-15,Data Pipeline Modernization Sprint 15,1002,2026-07-20,2026-08-02,Completed,56,40
+DATA-SPR-16,Data Pipeline Modernization Sprint 16,1002,2026-08-03,2026-08-16,Completed,40,22
+DATA-SPR-17,Data Pipeline Modernization Sprint 17,1002,2026-08-17,2026-08-30,Completed,16,5
+DATA-SPR-18,Data Pipeline Modernization Sprint 18,1002,2026-08-31,2026-09-13,Completed,13,5
+DATA-SPR-19,Data Pipeline Modernization Sprint 19,1002,2026-09-14,2026-09-27,Completed,10,8
+DATA-SPR-20,Data Pipeline Modernization Sprint 20,1002,2026-09-28,2026-10-11,Completed,48,44
+DATA-SPR-21,Data Pipeline Modernization Sprint 21,1002,2026-10-12,2026-10-25,Completed,38,24
+DATA-SPR-22,Data Pipeline Modernization Sprint 22,1002,2026-10-26,2026-11-08,Completed,7,7
+DATA-SPR-23,Data Pipeline Modernization Sprint 23,1002,2026-11-09,2026-11-22,Active,0,0
+MOB-SPR-01,Mobile App Revamp Sprint 1,1003,2026-01-05,2026-01-18,Completed,6,0
+MOB-SPR-02,Mobile App Revamp Sprint 2,1003,2026-01-19,2026-02-01,Completed,10,0
+MOB-SPR-03,Mobile App Revamp Sprint 3,1003,2026-02-02,2026-02-15,Completed,14,0
+MOB-SPR-04,Mobile App Revamp Sprint 4,1003,2026-02-16,2026-03-01,Completed,44,29
+MOB-SPR-05,Mobile App Revamp Sprint 5,1003,2026-03-02,2026-03-15,Completed,50,42
+MOB-SPR-06,Mobile App Revamp Sprint 6,1003,2026-03-16,2026-03-29,Completed,16,16
+MOB-SPR-07,Mobile App Revamp Sprint 7,1003,2026-03-30,2026-04-12,Completed,2,2
+MOB-SPR-08,Mobile App Revamp Sprint 8,1003,2026-04-13,2026-04-26,Completed,34,31
+MOB-SPR-09,Mobile App Revamp Sprint 9,1003,2026-04-27,2026-05-10,Completed,16,7
+MOB-SPR-10,Mobile App Revamp Sprint 10,1003,2026-05-11,2026-05-24,Completed,7,3
+MOB-SPR-11,Mobile App Revamp Sprint 11,1003,2026-05-25,2026-06-07,Completed,12,11
+MOB-SPR-12,Mobile App Revamp Sprint 12,1003,2026-06-08,2026-06-21,Completed,17,1
+MOB-SPR-13,Mobile App Revamp Sprint 13,1003,2026-06-22,2026-07-05,Completed,8,2
+MOB-SPR-14,Mobile App Revamp Sprint 14,1003,2026-07-06,2026-07-19,Completed,11,2
+MOB-SPR-15,Mobile App Revamp Sprint 15,1003,2026-07-20,2026-08-02,Completed,8,7
+MOB-SPR-16,Mobile App Revamp Sprint 16,1003,2026-08-03,2026-08-16,Completed,13,0
+MOB-SPR-17,Mobile App Revamp Sprint 17,1003,2026-08-17,2026-08-30,Completed,13,13
+MOB-SPR-18,Mobile App Revamp Sprint 18,1003,2026-08-31,2026-09-13,Completed,6,1
+MOB-SPR-19,Mobile App Revamp Sprint 19,1003,2026-09-14,2026-09-27,Completed,6,0
+MOB-SPR-20,Mobile App Revamp Sprint 20,1003,2026-09-28,2026-10-11,Completed,18,3
+MOB-SPR-21,Mobile App Revamp Sprint 21,1003,2026-10-12,2026-10-25,Completed,34,10
+MOB-SPR-22,Mobile App Revamp Sprint 22,1003,2026-10-26,2026-11-08,Completed,3,3
+MOB-SPR-23,Mobile App Revamp Sprint 23,1003,2026-11-09,2026-11-22,Active,13,0
+CRM-SPR-01,Customer Portal Sprint 1,1004,2026-01-05,2026-01-18,Completed,16,8
+CRM-SPR-02,Customer Portal Sprint 2,1004,2026-01-19,2026-02-01,Completed,8,8
+CRM-SPR-03,Customer Portal Sprint 3,1004,2026-02-02,2026-02-15,Completed,23,4
+CRM-SPR-04,Customer Portal Sprint 4,1004,2026-02-16,2026-03-01,Completed,9,7
+CRM-SPR-05,Customer Portal Sprint 5,1004,2026-03-02,2026-03-15,Completed,11,3
+CRM-SPR-06,Customer Portal Sprint 6,1004,2026-03-16,2026-03-29,Completed,3,3
+CRM-SPR-07,Customer Portal Sprint 7,1004,2026-03-30,2026-04-12,Completed,26,21
+CRM-SPR-08,Customer Portal Sprint 8,1004,2026-04-13,2026-04-26,Completed,10,4
+CRM-SPR-09,Customer Portal Sprint 9,1004,2026-04-27,2026-05-10,Completed,25,17
+CRM-SPR-10,Customer Portal Sprint 10,1004,2026-05-11,2026-05-24,Completed,19,15
+CRM-SPR-11,Customer Portal Sprint 11,1004,2026-05-25,2026-06-07,Completed,27,14
+CRM-SPR-12,Customer Portal Sprint 12,1004,2026-06-08,2026-06-21,Completed,53,14
+CRM-SPR-13,Customer Portal Sprint 13,1004,2026-06-22,2026-07-05,Completed,16,5
+CRM-SPR-14,Customer Portal Sprint 14,1004,2026-07-06,2026-07-19,Completed,38,10
+CRM-SPR-15,Customer Portal Sprint 15,1004,2026-07-20,2026-08-02,Completed,14,3
+CRM-SPR-16,Customer Portal Sprint 16,1004,2026-08-03,2026-08-16,Completed,28,17
+CRM-SPR-17,Customer Portal Sprint 17,1004,2026-08-17,2026-08-30,Completed,26,20
+CRM-SPR-18,Customer Portal Sprint 18,1004,2026-08-31,2026-09-13,Completed,29,14
+CRM-SPR-19,Customer Portal Sprint 19,1004,2026-09-14,2026-09-27,Completed,16,5
+CRM-SPR-20,Customer Portal Sprint 20,1004,2026-09-28,2026-10-11,Completed,19,10
+CRM-SPR-21,Customer Portal Sprint 21,1004,2026-10-12,2026-10-25,Completed,18,15
+CRM-SPR-22,Customer Portal Sprint 22,1004,2026-10-26,2026-11-08,Completed,0,0
+CRM-SPR-23,Customer Portal Sprint 23,1004,2026-11-09,2026-11-22,Active,9,0
+OPS-SPR-01,DevOps Automation Sprint 1,1005,2026-01-05,2026-01-18,Completed,11,11
+OPS-SPR-02,DevOps Automation Sprint 2,1005,2026-01-19,2026-02-01,Completed,14,9
+OPS-SPR-03,DevOps Automation Sprint 3,1005,2026-02-02,2026-02-15,Completed,49,33
+OPS-SPR-04,DevOps Automation Sprint 4,1005,2026-02-16,2026-03-01,Completed,25,25
+OPS-SPR-05,DevOps Automation Sprint 5,1005,2026-03-02,2026-03-15,Completed,19,5
+OPS-SPR-06,DevOps Automation Sprint 6,1005,2026-03-16,2026-03-29,Completed,6,5
+OPS-SPR-07,DevOps Automation Sprint 7,1005,2026-03-30,2026-04-12,Completed,14,7
+OPS-SPR-08,DevOps Automation Sprint 8,1005,2026-04-13,2026-04-26,Completed,37,24
+OPS-SPR-09,DevOps Automation Sprint 9,1005,2026-04-27,2026-05-10,Completed,8,3
+OPS-SPR-10,DevOps Automation Sprint 10,1005,2026-05-11,2026-05-24,Completed,16,2
+OPS-SPR-11,DevOps Automation Sprint 11,1005,2026-05-25,2026-06-07,Completed,15,12
+OPS-SPR-12,DevOps Automation Sprint 12,1005,2026-06-08,2026-06-21,Completed,56,32
+OPS-SPR-13,DevOps Automation Sprint 13,1005,2026-06-22,2026-07-05,Completed,12,9
+OPS-SPR-14,DevOps Automation Sprint 14,1005,2026-07-06,2026-07-19,Completed,24,10
+OPS-SPR-15,DevOps Automation Sprint 15,1005,2026-07-20,2026-08-02,Completed,5,5
+OPS-SPR-16,DevOps Automation Sprint 16,1005,2026-08-03,2026-08-16,Completed,19,17
+OPS-SPR-17,DevOps Automation Sprint 17,1005,2026-08-17,2026-08-30,Completed,43,24
+OPS-SPR-18,DevOps Automation Sprint 18,1005,2026-08-31,2026-09-13,Completed,19,16
+OPS-SPR-19,DevOps Automation Sprint 19,1005,2026-09-14,2026-09-27,Completed,0,0
+OPS-SPR-20,DevOps Automation Sprint 20,1005,2026-09-28,2026-10-11,Completed,27,27
+OPS-SPR-21,DevOps Automation Sprint 21,1005,2026-10-12,2026-10-25,Completed,23,8
+OPS-SPR-22,DevOps Automation Sprint 22,1005,2026-10-26,2026-11-08,Completed,0,0
+OPS-SPR-23,DevOps Automation Sprint 23,1005,2026-11-09,2026-11-22,Active,0,0

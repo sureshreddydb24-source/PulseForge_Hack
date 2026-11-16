@@ -1,0 +1,82 @@
+certification_id,employee_id,certification_name,certification_provider,skill_category,issue_date,expiry_date,certification_status,credential_id,verification_status
+CERT00001,EMP005,Databricks Certified Data Engineer Associate,Databricks,Data Engineering,2026-02-05,2028-02-05,Active,D-490541,Verified
+CERT00002,EMP007,Databricks Certified Data Engineer Associate,Databricks,Data Engineering,2026-02-04,2028-02-04,Active,D-511985,Verified
+CERT00003,EMP008,Databricks Certified Data Engineer Associate,Databricks,Data Engineering,2026-01-30,2028-01-30,Active,D-916962,Verified
+CERT00004,EMP100,Databricks Certified Data Engineer Associate,Databricks,Data Engineering,2026-04-15,2028-04-15,Active,D-692494,Verified
+CERT00005,EMP105,Databricks Certified Data Engineer Associate,Databricks,Data Engineering,2026-02-01,2028-02-01,Active,D-844418,Verified
+CERT00006,EMP108,Databricks Certified Data Engineer Associate,Databricks,Data Engineering,,,In Progress,,Pending
+CERT00007,EMP109,Databricks Certified Data Engineer Associate,Databricks,Data Engineering,2026-05-07,2028-05-07,Active,D-824401,Verified
+CERT00008,EMP110,Databricks Certified Data Engineer Associate,Databricks,Data Engineering,2026-04-06,2028-04-06,Active,D-563202,Verified
+CERT00009,EMP119,Databricks Certified Data Engineer Associate,Databricks,Data Engineering,2026-05-10,2028-05-10,Active,D-334252,Verified
+CERT00010,EMP208,Databricks Certified Data Engineer Associate,Databricks,Data Engineering,2026-04-16,2028-04-16,Active,D-275970,Verified
+CERT00011,EMP212,Databricks Certified Data Engineer Associate,Databricks,Data Engineering,2026-05-18,2028-05-18,Active,D-774014,Verified
+CERT00012,EMP301,Databricks Certified Data Engineer Associate,Databricks,Data Engineering,2026-02-04,2028-02-04,Active,D-109201,Verified
+CERT00013,EMP001,Certified Director,Institute of Directors,Leadership,2019-12-25,,Active,IOD-956387,Verified
+CERT00014,EMP003,AWS Certified Solutions Architect - Associate,Amazon Web Services,Cloud,2025-09-17,2028-09-17,Active,AWS-491435,Verified
+CERT00015,EMP004,Databricks Certified Data Engineer Professional,Databricks,Data Engineering,2024-07-09,2026-07-09,Expired,D-939089,Verified
+CERT00016,EMP004,Google Associate Android Developer,Google,Mobile Development,2020-11-25,2023-11-25,Expired,G-576633,Verified
+CERT00017,EMP004,Databricks Certified Machine Learning Associate,Databricks,Machine Learning,,,In Progress,,Pending
+CERT00018,EMP005,ServiceNow Certified System Administrator,ServiceNow,ServiceNow,2025-05-13,2027-05-13,Active,S-302022,Verified
+CERT00019,EMP005,Cisco CCNA,Cisco,Networking,2024-09-27,2027-09-27,Active,C-956621,Verified
+CERT00020,EMP005,ITIL 4 Foundation,PeopleCert,IT Service Management,2023-07-26,,Active,P-637675,Verified
+CERT00021,EMP006,ServiceNow Certified System Administrator,ServiceNow,ServiceNow,2021-11-27,2023-11-27,Expired,S-911718,Verified
+CERT00022,EMP006,Cisco CCNA,Cisco,Networking,2019-09-02,2022-09-02,Expired,C-417905,Pending
+CERT00023,EMP006,CompTIA Security+,CompTIA,Security,,,In Progress,,Pending
+CERT00024,EMP007,CIPD Level 5 Associate Diploma,CIPD,Human Resources,2024-02-08,,Active,C-375132,Verified
+CERT00025,EMP008,ACCA Professional,ACCA,Accounting,2019-09-11,,Active,A-104976,Verified
+CERT00026,EMP100,Certified Kubernetes Application Developer,Linux Foundation,Cloud Native,2019-06-30,2022-06-30,Expired,LF-494912,Verified
+CERT00027,EMP101,Certified Kubernetes Application Developer,Linux Foundation,Cloud Native,2020-05-09,2023-05-09,Expired,LF-850680,Verified
+CERT00028,EMP102,Microsoft Azure Fundamentals,Microsoft,Cloud,2024-07-31,,Active,M-339874,Verified
+CERT00029,EMP102,Certified Kubernetes Application Developer,Linux Foundation,Cloud Native,2020-10-13,2023-10-13,Expired,LF-716993,Verified
+CERT00030,EMP102,Databricks Certified Data Engineer Associate,Databricks,Data Engineering,2020-07-07,2022-07-07,Expired,D-189008,Verified
+CERT00031,EMP103,Professional Scrum Master I,Scrum.org,Agile,2024-11-13,,Active,S-495015,Verified
+CERT00032,EMP104,Databricks Certified Data Engineer Associate,Databricks,Data Engineering,2026-01-10,2028-01-10,Active,D-733788,Verified
+CERT00033,EMP107,Professional Scrum Master I,Scrum.org,Agile,2022-07-25,,Active,S-124484,Verified
+CERT00034,EMP107,Certified Kubernetes Application Developer,Linux Foundation,Cloud Native,2020-07-26,2023-07-26,Expired,LF-829078,Verified
+CERT00035,EMP107,AWS Certified Solutions Architect - Associate,Amazon Web Services,Cloud,,,In Progress,,Pending
+CERT00036,EMP108,AWS Certified Solutions Architect - Associate,Amazon Web Services,Cloud,2026-02-02,2029-02-02,Active,AWS-735925,Verified
+CERT00037,EMP108,Professional Scrum Master I,Scrum.org,Agile,2024-07-28,,Active,S-930527,Verified
+CERT00038,EMP109,Microsoft Azure Fundamentals,Microsoft,Cloud,,,In Progress,,Pending
+CERT00039,EMP110,Databricks Certified Data Engineer Professional,Databricks,Data Engineering,,,In Progress,,Pending
+CERT00040,EMP110,Databricks Certified Machine Learning Associate,Databricks,Machine Learning,2021-01-23,2023-01-23,Expired,D-141883,Verified
+CERT00041,EMP110,Google Associate Android Developer,Google,Mobile Development,,,In Progress,,Pending
+CERT00042,EMP111,Databricks Certified Machine Learning Associate,Databricks,Machine Learning,,,In Progress,,Pending
+CERT00043,EMP111,Google Associate Android Developer,Google,Mobile Development,,,In Progress,,Pending
+CERT00044,EMP112,Google Associate Android Developer,Google,Mobile Development,2020-08-15,2023-08-15,Expired,G-437134,Verified
+CERT00045,EMP112,Databricks Certified Data Engineer Professional,Databricks,Data Engineering,2021-06-12,2023-06-12,Expired,D-767278,Pending
+CERT00046,EMP112,Databricks Certified Machine Learning Associate,Databricks,Machine Learning,2021-04-24,2023-04-24,Expired,D-332911,Verified
+CERT00047,EMP114,Google Associate Android Developer,Google,Mobile Development,,,In Progress,,Pending
+CERT00048,EMP114,Databricks Certified Data Engineer Professional,Databricks,Data Engineering,2024-07-31,2026-07-31,Expired,D-832463,Verified
+CERT00049,EMP115,AWS Certified Data Engineer - Associate,Amazon Web Services,Cloud,2024-06-05,2027-06-05,Active,AWS-315786,Verified
+CERT00050,EMP116,Databricks Certified Data Engineer Professional,Databricks,Data Engineering,2024-08-29,2026-08-29,Expired,D-143654,Verified
+CERT00051,EMP117,AWS Certified Data Engineer - Associate,Amazon Web Services,Cloud,2022-12-20,2025-12-20,Expired,AWS-377086,Verified
+CERT00052,EMP117,Databricks Certified Data Engineer Associate,Databricks,Data Engineering,2024-11-27,2026-11-27,Active,D-318787,Verified
+CERT00053,EMP118,Databricks Certified Machine Learning Associate,Databricks,Machine Learning,,,In Progress,,Pending
+CERT00054,EMP118,Databricks Certified Data Engineer Professional,Databricks,Data Engineering,2026-06-13,2028-06-13,Active,D-779198,Verified
+CERT00055,EMP118,AWS Certified Data Engineer - Associate,Amazon Web Services,Cloud,2021-07-18,2024-07-18,Expired,AWS-951561,Verified
+CERT00056,EMP119,AWS Certified Data Engineer - Associate,Amazon Web Services,Cloud,2019-10-06,2022-10-06,Expired,AWS-429699,Verified
+CERT00057,EMP119,Google Associate Android Developer,Google,Mobile Development,2023-06-25,2026-06-25,Expired,G-175869,Verified
+CERT00058,EMP200,Cisco CCNA,Cisco,Networking,2026-08-16,2029-08-16,Active,C-380292,Verified
+CERT00059,EMP201,CompTIA Security+,CompTIA,Security,2022-03-31,2025-03-31,Expired,C-543878,Verified
+CERT00060,EMP201,Cisco CCNA,Cisco,Networking,2026-06-14,2029-06-14,Active,C-933498,Verified
+CERT00061,EMP201,Microsoft Certified: Identity and Access Administrator,Microsoft,Security,2019-03-30,2020-03-30,Expired,M-423825,Verified
+CERT00062,EMP203,ITIL 4 Foundation,PeopleCert,IT Service Management,,,In Progress,,Pending
+CERT00063,EMP203,Microsoft Certified: Identity and Access Administrator,Microsoft,Security,2024-08-18,2025-08-18,Expired,M-496173,Pending
+CERT00064,EMP204,CompTIA Security+,CompTIA,Security,2026-04-13,2029-04-13,Active,C-321367,Verified
+CERT00065,EMP205,Microsoft Certified: Identity and Access Administrator,Microsoft,Security,2024-01-20,2025-01-20,Expired,M-193653,Verified
+CERT00066,EMP205,Cisco CCNA,Cisco,Networking,,,In Progress,,Pending
+CERT00067,EMP206,CompTIA Security+,CompTIA,Security,2022-02-26,2025-02-26,Expired,C-128302,Verified
+CERT00068,EMP207,CompTIA Security+,CompTIA,Security,,,In Progress,,Pending
+CERT00069,EMP208,CompTIA Security+,CompTIA,Security,2019-08-20,2022-08-20,Expired,C-785668,Pending
+CERT00070,EMP208,Cisco CCNA,Cisco,Networking,2021-06-05,2024-06-05,Expired,C-748062,Verified
+CERT00071,EMP209,Cisco CCNA,Cisco,Networking,2024-10-23,2027-10-23,Active,C-233694,Verified
+CERT00072,EMP209,Microsoft Certified: Identity and Access Administrator,Microsoft,Security,2025-01-27,2026-01-27,Expired,M-549193,Verified
+CERT00073,EMP210,ServiceNow Certified System Administrator,ServiceNow,ServiceNow,2020-04-13,2022-04-13,Expired,S-922017,Verified
+CERT00074,EMP212,ServiceNow Certified System Administrator,ServiceNow,ServiceNow,,,In Progress,,Pending
+CERT00075,EMP300,CIPD Level 5 Associate Diploma,CIPD,Human Resources,2025-12-06,,Active,C-101194,Verified
+CERT00076,EMP300,SHRM Certified Professional,SHRM,Human Resources,,,In Progress,,Pending
+CERT00077,EMP310,ACCA Professional,ACCA,Accounting,2019-12-31,,Active,A-514266,Verified
+CERT00078,EMP312,ACCA Professional,ACCA,Accounting,2020-08-10,,Active,A-942963,Pending
+CERT00079,EMP303,SHRM Certified Professional,SHRM,Human Resources,,,In Progress,,Pending
+CERT00080,EMP304,CIPD Level 5 Associate Diploma,CIPD,Human Resources,2025-12-09,,Active,C-434860,Verified
+CERT00081,EMP314,Chartered Financial Analyst Level I,CFA Institute,Finance,,,In Progress,,Pending

@@ -1,0 +1,1297 @@
+worklog_id,issue_id,employee_id,employee_name,work_date,time_spent_hours,work_description,created_date
+900001,50001,EMP112,Siddharth Kumar,2026-01-18,6.0,Worked on OPS-101 - refactor admin console caching module,2026-01-18
+900002,50001,EMP117,Lakshmi Suresh,2026-01-18,2.0,Worked on OPS-101 - refactor admin console caching module,2026-01-20
+900003,50001,EMP117,Lakshmi Suresh,2026-01-24,1.0,Validated OPS-101 - refactor admin console caching module,2026-01-24
+900004,50004,EMP118,Nikhil Bose,2026-07-25,8.0,Design discussion on PROJ-101 - enable dashboard on admin console,2026-07-27
+900005,50005,EMP101,Priya Nair,2026-07-20,1.5,Reproduced issue: OPS-102 - incorrect reporting results in data warehouse,2026-07-20
+900006,50005,EMP101,Priya Nair,2026-07-30,2.5,Applied fix for OPS-102 - incorrect reporting results in data warehouse,2026-07-30
+900007,50005,EMP101,Priya Nair,2026-07-31,3.0,Investigated root cause of OPS-102 - incorrect reporting results in data warehouse,2026-08-01
+900008,50006,EMP105,Ananya Gupta,2026-10-25,2.0,Validated CRM-101 - refactor backend service audit logging module,2026-10-25
+900009,50006,EMP105,Ananya Gupta,2026-10-20,5.0,Validated CRM-101 - refactor backend service audit logging module,2026-10-21
+900010,50006,EMP105,Ananya Gupta,2026-10-14,2.0,Worked on CRM-101 - refactor backend service audit logging module,2026-10-15
+900011,50006,EMP105,Ananya Gupta,2026-10-23,3.0,Validated CRM-101 - refactor backend service audit logging module,2026-10-23
+900012,50008,EMP108,Arjun Patel,2026-03-15,3.0,Implemented changes for OPS-103 - implement login flow for admin console,2026-03-15
+900013,50008,EMP113,Neha Singh,2026-02-19,1.0,Design discussion on OPS-103 - implement login flow for admin console,2026-02-22
+900014,50008,EMP108,Arjun Patel,2026-03-09,3.0,Design discussion on OPS-103 - implement login flow for admin console,2026-03-09
+900015,50008,EMP108,Arjun Patel,2026-03-18,1.0,Code review for OPS-103 - implement login flow for admin console,2026-03-18
+900016,50008,EMP108,Arjun Patel,2026-02-21,2.5,Design discussion on OPS-103 - implement login flow for admin console,2026-02-21
+900017,50009,EMP109,Divya Menon,2026-11-10,3.0,Worked on MOB-102 - update documentation for mobile app,2026-11-12
+900018,50009,EMP111,Kavya Pillai,2026-11-03,5.0,Worked on MOB-102 - update documentation for mobile app,2026-11-04
+900019,50009,EMP107,Meera Joshi,2026-11-07,2.0,Validated MOB-102 - update documentation for mobile app,2026-11-07
+900020,50009,EMP107,Meera Joshi,2026-11-13,5.0,Validated MOB-102 - update documentation for mobile app,2026-11-13
+900021,50010,EMP103,Sneha Reddy,2026-10-08,6.0,Code review for DATA-102 - enable api integration on web portal,2026-10-09
+900022,50010,EMP103,Sneha Reddy,2026-10-11,4.0,Implemented changes for DATA-102 - enable api integration on web portal,2026-10-12
+900023,50010,EMP103,Sneha Reddy,2026-10-08,2.0,Developed DATA-102 - enable api integration on web portal,2026-10-08
+900024,50010,EMP103,Sneha Reddy,2026-10-15,2.5,Developed DATA-102 - enable api integration on web portal,2026-10-15
+900025,50010,EMP103,Sneha Reddy,2026-10-14,8.0,Code review for DATA-102 - enable api integration on web portal,2026-10-14
+900026,50010,EMP116,Manish Agarwal,2026-10-15,0.5,Wrote unit tests for DATA-102 - enable api integration on web portal,2026-10-16
+900027,50010,EMP117,Lakshmi Suresh,2026-10-12,4.0,Developed DATA-102 - enable api integration on web portal,2026-10-12
+900028,50011,EMP109,Divya Menon,2026-01-13,2.0,"Wrote unit tests for DATA-103 - as a user, i want api integration in mobile app",2026-01-13
+900029,50011,EMP109,Divya Menon,2026-01-22,1.0,"Developed DATA-103 - as a user, i want api integration in mobile app",2026-01-23
+900030,50011,EMP109,Divya Menon,2026-01-29,3.0,"Design discussion on DATA-103 - as a user, i want api integration in mobile app",2026-01-29
+900031,50011,EMP109,Divya Menon,2026-01-18,1.5,"Code review for DATA-103 - as a user, i want api integration in mobile app",2026-01-19
+900032,50011,EMP119,Isha Kapoor,2026-01-23,1.0,"Wrote unit tests for DATA-103 - as a user, i want api integration in mobile app",2026-01-23
+900033,50011,EMP114,Aditya Mishra,2026-01-27,1.0,"Implemented changes for DATA-103 - as a user, i want api integration in mobile app",2026-01-27
+900034,50012,EMP109,Divya Menon,2026-04-17,1.5,Worked on OPS-104 - update documentation for data warehouse,2026-04-17
+900035,50013,EMP116,Manish Agarwal,2026-08-17,6.0,Developed OPS-105 - enable data export on web portal,2026-08-17
+900036,50013,EMP109,Divya Menon,2026-08-15,1.0,Code review for OPS-105 - enable data export on web portal,2026-08-18
+900037,50014,EMP111,Kavya Pillai,2026-02-22,6.0,"Code review for OPS-106 - as a user, i want audit logging in mobile app",2026-02-22
+900038,50014,EMP103,Sneha Reddy,2026-03-06,2.0,"Implemented changes for OPS-106 - as a user, i want audit logging in mobile app",2026-03-07
+900039,50014,EMP107,Meera Joshi,2026-02-21,3.0,"Developed OPS-106 - as a user, i want audit logging in mobile app",2026-02-21
+900040,50015,EMP107,Meera Joshi,2026-09-09,8.0,Updated docs for PROJ-102 - refactor backend service file upload module,2026-09-09
+900041,50015,EMP107,Meera Joshi,2026-09-05,3.0,Worked on PROJ-102 - refactor backend service file upload module,2026-09-08
+900042,50016,EMP104,Vikram Iyer,2026-11-07,2.0,Validated MOB-103 - update documentation for mobile app,2026-11-07
+900043,50016,EMP104,Vikram Iyer,2026-11-11,5.0,Updated docs for MOB-103 - update documentation for mobile app,2026-11-12
+900044,50017,EMP103,Sneha Reddy,2026-06-25,2.0,"Wrote unit tests for CRM-103 - as a user, i want payment processing in web portal",2026-06-26
+900045,50018,EMP114,Aditya Mishra,2026-10-03,4.0,Validated OPS-107 - update documentation for admin console,2026-10-03
+900046,50019,EMP101,Priya Nair,2026-06-21,1.5,Applied fix for OPS-108 - backend service crashes when using search,2026-06-22
+900047,50019,EMP101,Priya Nair,2026-07-07,1.5,Regression testing for OPS-108 - backend service crashes when using search,2026-07-09
+900048,50019,EMP101,Priya Nair,2026-06-30,6.0,Applied fix for OPS-108 - backend service crashes when using search,2026-06-30
+900049,50020,EMP106,Karthik Rao,2026-08-19,6.0,"Implemented changes for PROJ-103 - as a user, i want reporting in mobile app",2026-08-20
+900050,50020,EMP106,Karthik Rao,2026-08-17,2.0,"Developed PROJ-103 - as a user, i want reporting in mobile app",2026-08-18
+900051,50020,EMP106,Karthik Rao,2026-08-18,8.0,"Code review for PROJ-103 - as a user, i want reporting in mobile app",2026-08-18
+900052,50020,EMP106,Karthik Rao,2026-08-18,0.5,"Code review for PROJ-103 - as a user, i want reporting in mobile app",2026-08-19
+900053,50020,EMP118,Nikhil Bose,2026-08-19,6.0,"Implemented changes for PROJ-103 - as a user, i want reporting in mobile app",2026-08-19
+900054,50021,EMP107,Meera Joshi,2026-04-09,5.0,Applied fix for PROJ-104 - incorrect role-based access results in web portal,2026-04-09
+900055,50021,EMP107,Meera Joshi,2026-03-28,5.0,Investigated root cause of PROJ-104 - incorrect role-based access results in web portal,2026-03-28
+900056,50021,EMP107,Meera Joshi,2026-04-03,6.0,Regression testing for PROJ-104 - incorrect role-based access results in web portal,2026-04-04
+900057,50021,EMP107,Meera Joshi,2026-03-27,0.5,Applied fix for PROJ-104 - incorrect role-based access results in web portal,2026-03-29
+900058,50022,EMP104,Vikram Iyer,2026-03-18,6.0,Worked on OPS-109 - refactor admin console data export module,2026-03-18
+900059,50022,EMP104,Vikram Iyer,2026-03-17,8.0,Configured settings for OPS-109 - refactor admin console data export module,2026-03-17
+900060,50023,EMP114,Aditya Mishra,2026-10-30,5.0,"Design discussion on DATA-104 - as a user, i want role-based access in backend service",2026-10-30
+900061,50023,EMP116,Manish Agarwal,2026-11-11,2.5,"Design discussion on DATA-104 - as a user, i want role-based access in backend service",2026-11-13
+900062,50023,EMP106,Karthik Rao,2026-11-09,4.0,"Developed DATA-104 - as a user, i want role-based access in backend service",2026-11-09
+900063,50023,EMP114,Aditya Mishra,2026-10-24,2.0,"Wrote unit tests for DATA-104 - as a user, i want role-based access in backend service",2026-10-24
+900064,50023,EMP114,Aditya Mishra,2026-11-04,1.0,"Implemented changes for DATA-104 - as a user, i want role-based access in backend service",2026-11-04
+900065,50024,EMP112,Siddharth Kumar,2026-09-26,1.5,Wrote unit tests for CRM-104 - implement audit logging for etl pipeline,2026-09-26
+900066,50026,EMP102,Rahul Verma,2026-05-08,2.0,"Implemented changes for OPS-110 - as a user, i want audit logging in etl pipeline",2026-05-08
+900067,50027,EMP101,Priya Nair,2026-03-28,4.0,"Implemented changes for MOB-104 - as a user, i want api integration in backend service",2026-03-28
+900068,50027,EMP101,Priya Nair,2026-03-21,0.5,"Code review for MOB-104 - as a user, i want api integration in backend service",2026-03-22
+900069,50027,EMP101,Priya Nair,2026-03-27,4.0,"Code review for MOB-104 - as a user, i want api integration in backend service",2026-03-28
+900070,50027,EMP101,Priya Nair,2026-03-24,1.0,"Developed MOB-104 - as a user, i want api integration in backend service",2026-03-24
+900071,50027,EMP107,Meera Joshi,2026-03-21,2.5,"Developed MOB-104 - as a user, i want api integration in backend service",2026-03-21
+900072,50028,EMP114,Aditya Mishra,2026-01-13,2.5,Wrote unit tests for DATA-105 - enable role-based access on backend service,2026-01-14
+900073,50028,EMP114,Aditya Mishra,2026-01-25,3.0,Developed DATA-105 - enable role-based access on backend service,2026-01-25
+900074,50029,EMP109,Divya Menon,2026-05-11,1.0,Reproduced issue: CRM-106 - fix caching failure in data warehouse,2026-05-11
+900075,50029,EMP102,Rahul Verma,2026-05-14,2.0,Investigated root cause of CRM-106 - fix caching failure in data warehouse,2026-05-14
+900076,50030,EMP114,Aditya Mishra,2026-07-04,6.0,Validated PROJ-105 - refactor mobile app dashboard module,2026-07-04
+900077,50030,EMP108,Arjun Patel,2026-07-08,2.0,Worked on PROJ-105 - refactor mobile app dashboard module,2026-07-08
+900078,50030,EMP108,Arjun Patel,2026-07-05,2.5,Updated docs for PROJ-105 - refactor mobile app dashboard module,2026-07-05
+900079,50030,EMP119,Isha Kapoor,2026-07-10,6.0,Configured settings for PROJ-105 - refactor mobile app dashboard module,2026-07-10
+900080,50030,EMP119,Isha Kapoor,2026-07-04,0.5,Worked on PROJ-105 - refactor mobile app dashboard module,2026-07-07
+900081,50030,EMP119,Isha Kapoor,2026-07-20,2.0,Validated PROJ-105 - refactor mobile app dashboard module,2026-07-20
+900082,50031,EMP103,Sneha Reddy,2026-06-15,4.0,Regression testing for PROJ-106 - fix file upload failure in mobile app,2026-06-16
+900083,50031,EMP118,Nikhil Bose,2026-06-11,2.5,Applied fix for PROJ-106 - fix file upload failure in mobile app,2026-06-14
+900084,50032,EMP109,Divya Menon,2026-04-13,1.5,Regression testing for CRM-107 - fix search failure in data warehouse,2026-04-15
+900085,50032,EMP101,Priya Nair,2026-04-13,1.0,Reproduced issue: CRM-107 - fix search failure in data warehouse,2026-04-13
+900086,50033,EMP103,Sneha Reddy,2026-05-21,4.0,Updated docs for OPS-111 - refactor etl pipeline api integration module,2026-05-22
+900087,50033,EMP103,Sneha Reddy,2026-06-10,5.0,Configured settings for OPS-111 - refactor etl pipeline api integration module,2026-06-10
+900088,50033,EMP103,Sneha Reddy,2026-06-02,3.0,Updated docs for OPS-111 - refactor etl pipeline api integration module,2026-06-02
+900089,50033,EMP117,Lakshmi Suresh,2026-05-29,2.5,Configured settings for OPS-111 - refactor etl pipeline api integration module,2026-05-29
+900090,50034,EMP110,Rohan Das,2026-09-09,5.0,Stakeholder sync on OPS-112 - etl pipeline data export initiative,2026-09-09
+900091,50034,EMP110,Rohan Das,2026-09-05,0.5,Planning and breakdown for OPS-112 - etl pipeline data export initiative,2026-09-05
+900092,50034,EMP110,Rohan Das,2026-09-01,8.0,Planning and breakdown for OPS-112 - etl pipeline data export initiative,2026-09-01
+900093,50035,EMP107,Meera Joshi,2026-08-01,1.0,"Design discussion on PROJ-107 - as a user, i want notifications in data warehouse",2026-08-02
+900094,50035,EMP104,Vikram Iyer,2026-08-06,5.0,"Implemented changes for PROJ-107 - as a user, i want notifications in data warehouse",2026-08-07
+900095,50035,EMP107,Meera Joshi,2026-07-22,6.0,"Wrote unit tests for PROJ-107 - as a user, i want notifications in data warehouse",2026-07-22
+900096,50037,EMP102,Rahul Verma,2026-01-31,8.0,Investigated root cause of CRM-108 - incorrect audit logging results in etl pipeline,2026-02-01
+900097,50037,EMP118,Nikhil Bose,2026-01-22,0.5,Applied fix for CRM-108 - incorrect audit logging results in etl pipeline,2026-01-22
+900098,50037,EMP102,Rahul Verma,2026-01-18,5.0,Investigated root cause of CRM-108 - incorrect audit logging results in etl pipeline,2026-01-18
+900099,50038,EMP104,Vikram Iyer,2026-03-22,2.5,Worked on MOB-106 - configure login flow for backend service,2026-03-22
+900100,50040,EMP107,Meera Joshi,2026-09-30,1.0,Worked on OPS-113 - refactor etl pipeline login flow module,2026-10-02
+900101,50040,EMP107,Meera Joshi,2026-09-29,1.0,Updated docs for OPS-113 - refactor etl pipeline login flow module,2026-09-29
+900102,50041,EMP110,Rohan Das,2026-05-31,5.0,Regression testing for PROJ-108 - fix notifications failure in web portal,2026-05-31
+900103,50041,EMP102,Rahul Verma,2026-06-09,2.5,Investigated root cause of PROJ-108 - fix notifications failure in web portal,2026-06-11
+900104,50042,EMP106,Karthik Rao,2026-06-29,2.5,"Design discussion on OPS-114 - as a user, i want role-based access in mobile app",2026-06-29
+900105,50042,EMP106,Karthik Rao,2026-06-27,5.0,"Code review for OPS-114 - as a user, i want role-based access in mobile app",2026-06-27
+900106,50043,EMP102,Rahul Verma,2026-07-15,2.5,Design discussion on PROJ-109 - implement search for data warehouse,2026-07-16
+900107,50045,EMP107,Meera Joshi,2026-10-20,6.0,Implemented changes for OPS-115 - enable reporting on admin console,2026-10-23
+900108,50045,EMP107,Meera Joshi,2026-10-19,0.5,Code review for OPS-115 - enable reporting on admin console,2026-10-21
+900109,50045,EMP107,Meera Joshi,2026-11-02,5.0,Code review for OPS-115 - enable reporting on admin console,2026-11-05
+900110,50046,EMP112,Siddharth Kumar,2026-02-03,8.0,Developed OPS-116 - enable notifications on etl pipeline,2026-02-03
+900111,50046,EMP112,Siddharth Kumar,2026-01-28,3.0,Implemented changes for OPS-116 - enable notifications on etl pipeline,2026-01-28
+900112,50047,EMP116,Manish Agarwal,2026-06-10,3.0,Implemented changes for DATA-106 - implement login flow for etl pipeline,2026-06-12
+900113,50047,EMP105,Ananya Gupta,2026-06-24,1.5,Developed DATA-106 - implement login flow for etl pipeline,2026-06-24
+900114,50047,EMP114,Aditya Mishra,2026-06-18,1.5,Wrote unit tests for DATA-106 - implement login flow for etl pipeline,2026-06-18
+900115,50048,EMP103,Sneha Reddy,2026-09-11,0.5,Code review for CRM-109 - enable audit logging on etl pipeline,2026-09-12
+900116,50048,EMP103,Sneha Reddy,2026-09-14,2.0,Developed CRM-109 - enable audit logging on etl pipeline,2026-09-14
+900117,50049,EMP109,Divya Menon,2026-08-24,4.0,Worked on MOB-109 - update documentation for web portal,2026-08-24
+900118,50050,EMP108,Arjun Patel,2026-10-27,0.5,"Code review for PROJ-110 - as a user, i want role-based access in web portal",2026-10-27
+900119,50050,EMP113,Neha Singh,2026-10-30,2.5,"Wrote unit tests for PROJ-110 - as a user, i want role-based access in web portal",2026-10-30
+900120,50050,EMP113,Neha Singh,2026-11-01,4.0,"Developed PROJ-110 - as a user, i want role-based access in web portal",2026-11-02
+900121,50051,EMP117,Lakshmi Suresh,2026-10-08,1.0,"Developed CRM-110 - as a user, i want caching in admin console",2026-10-08
+900122,50051,EMP113,Neha Singh,2026-10-07,1.5,"Code review for CRM-110 - as a user, i want caching in admin console",2026-10-08
+900123,50051,EMP103,Sneha Reddy,2026-10-14,1.5,"Implemented changes for CRM-110 - as a user, i want caching in admin console",2026-10-16
+900124,50051,EMP103,Sneha Reddy,2026-10-05,2.5,"Code review for CRM-110 - as a user, i want caching in admin console",2026-10-05
+900125,50052,EMP103,Sneha Reddy,2026-07-07,4.0,"Developed OPS-117 - as a user, i want reporting in mobile app",2026-07-07
+900126,50052,EMP103,Sneha Reddy,2026-07-05,6.0,"Wrote unit tests for OPS-117 - as a user, i want reporting in mobile app",2026-07-05
+900127,50053,EMP115,Pooja Krishnan,2026-10-31,5.0,"Wrote unit tests for DATA-107 - as a user, i want payment processing in admin console",2026-11-03
+900128,50053,EMP115,Pooja Krishnan,2026-10-27,1.5,"Code review for DATA-107 - as a user, i want payment processing in admin console",2026-10-27
+900129,50053,EMP115,Pooja Krishnan,2026-10-31,2.5,"Design discussion on DATA-107 - as a user, i want payment processing in admin console",2026-10-31
+900130,50054,EMP113,Neha Singh,2026-06-15,6.0,Applied fix for MOB-110 - fix api integration failure in admin console,2026-06-15
+900131,50055,EMP116,Manish Agarwal,2026-02-07,2.5,Updated docs for OPS-118 - refactor admin console role-based access module,2026-02-07
+900132,50055,EMP116,Manish Agarwal,2026-02-03,2.0,Worked on OPS-118 - refactor admin console role-based access module,2026-02-03
+900133,50056,EMP112,Siddharth Kumar,2026-10-12,4.0,Updated docs for DATA-108 - update documentation for data warehouse,2026-10-13
+900134,50056,EMP100,Aarav Sharma,2026-10-04,5.0,Validated DATA-108 - update documentation for data warehouse,2026-10-04
+900135,50056,EMP101,Priya Nair,2026-10-12,6.0,Validated DATA-108 - update documentation for data warehouse,2026-10-14
+900136,50057,EMP110,Rohan Das,2026-05-31,1.5,"Design discussion on PROJ-111 - as a user, i want reporting in etl pipeline",2026-05-31
+900137,50057,EMP103,Sneha Reddy,2026-06-09,5.0,"Developed PROJ-111 - as a user, i want reporting in etl pipeline",2026-06-10
+900138,50057,EMP110,Rohan Das,2026-05-30,1.5,"Implemented changes for PROJ-111 - as a user, i want reporting in etl pipeline",2026-05-30
+900139,50058,EMP109,Divya Menon,2026-10-05,6.0,Regression testing for MOB-111 - fix audit logging failure in backend service,2026-10-06
+900140,50058,EMP117,Lakshmi Suresh,2026-10-04,2.5,Applied fix for MOB-111 - fix audit logging failure in backend service,2026-10-04
+900141,50058,EMP117,Lakshmi Suresh,2026-10-08,0.5,Investigated root cause of MOB-111 - fix audit logging failure in backend service,2026-10-09
+900142,50058,EMP117,Lakshmi Suresh,2026-10-15,3.0,Applied fix for MOB-111 - fix audit logging failure in backend service,2026-10-15
+900143,50060,EMP105,Ananya Gupta,2026-01-27,2.5,"Developed DATA-109 - as a user, i want notifications in etl pipeline",2026-01-30
+900144,50060,EMP105,Ananya Gupta,2026-02-03,4.0,"Developed DATA-109 - as a user, i want notifications in etl pipeline",2026-02-05
+900145,50061,EMP109,Divya Menon,2026-09-11,2.0,Stakeholder sync on DATA-110 - deliver data export across backend service,2026-09-13
+900146,50061,EMP109,Divya Menon,2026-09-08,3.0,Progress review of DATA-110 - deliver data export across backend service,2026-09-09
+900147,50061,EMP109,Divya Menon,2026-08-29,6.0,Planning and breakdown for DATA-110 - deliver data export across backend service,2026-08-30
+900148,50063,EMP111,Kavya Pillai,2026-09-22,2.0,Updated docs for CRM-113 - update documentation for web portal,2026-09-22
+900149,50063,EMP111,Kavya Pillai,2026-09-23,8.0,Validated CRM-113 - update documentation for web portal,2026-09-23
+900150,50064,EMP104,Vikram Iyer,2026-03-24,0.5,Configured settings for DATA-111 - refactor data warehouse dashboard module,2026-03-24
+900151,50064,EMP101,Priya Nair,2026-03-23,8.0,Configured settings for DATA-111 - refactor data warehouse dashboard module,2026-03-23
+900152,50064,EMP104,Vikram Iyer,2026-04-08,4.0,Validated DATA-111 - refactor data warehouse dashboard module,2026-04-08
+900153,50064,EMP110,Rohan Das,2026-04-09,1.0,Configured settings for DATA-111 - refactor data warehouse dashboard module,2026-04-09
+900154,50067,EMP102,Rahul Verma,2026-10-27,3.0,Wrote unit tests for MOB-112 - enable reporting on admin console,2026-10-28
+900155,50067,EMP102,Rahul Verma,2026-10-15,1.0,Code review for MOB-112 - enable reporting on admin console,2026-10-15
+900156,50067,EMP102,Rahul Verma,2026-10-18,2.0,Wrote unit tests for MOB-112 - enable reporting on admin console,2026-10-18
+900157,50067,EMP102,Rahul Verma,2026-10-24,4.0,Developed MOB-112 - enable reporting on admin console,2026-10-25
+900158,50068,EMP111,Kavya Pillai,2026-03-05,5.0,Implemented changes for PROJ-113 - enable file upload on etl pipeline,2026-03-05
+900159,50068,EMP111,Kavya Pillai,2026-03-14,4.0,Implemented changes for PROJ-113 - enable file upload on etl pipeline,2026-03-14
+900160,50068,EMP112,Siddharth Kumar,2026-02-28,5.0,Developed PROJ-113 - enable file upload on etl pipeline,2026-02-28
+900161,50068,EMP101,Priya Nair,2026-03-07,1.0,Design discussion on PROJ-113 - enable file upload on etl pipeline,2026-03-07
+900162,50068,EMP111,Kavya Pillai,2026-03-07,8.0,Developed PROJ-113 - enable file upload on etl pipeline,2026-03-07
+900163,50070,EMP109,Divya Menon,2026-06-01,8.0,"Developed DATA-113 - as a user, i want login flow in etl pipeline",2026-06-01
+900164,50070,EMP109,Divya Menon,2026-05-31,5.0,"Wrote unit tests for DATA-113 - as a user, i want login flow in etl pipeline",2026-05-31
+900165,50070,EMP109,Divya Menon,2026-06-06,1.5,"Wrote unit tests for DATA-113 - as a user, i want login flow in etl pipeline",2026-06-07
+900166,50070,EMP109,Divya Menon,2026-06-18,2.5,"Implemented changes for DATA-113 - as a user, i want login flow in etl pipeline",2026-06-20
+900167,50071,EMP111,Kavya Pillai,2026-08-15,8.0,Developed CRM-114 - enable dashboard on web portal,2026-08-15
+900168,50071,EMP111,Kavya Pillai,2026-08-16,2.0,Wrote unit tests for CRM-114 - enable dashboard on web portal,2026-08-17
+900169,50073,EMP111,Kavya Pillai,2026-02-06,4.0,Investigated root cause of CRM-116 - fix file upload failure in etl pipeline,2026-02-06
+900170,50074,EMP104,Vikram Iyer,2026-02-15,4.0,"Wrote unit tests for OPS-120 - as a user, i want api integration in backend service",2026-02-15
+900171,50075,EMP115,Pooja Krishnan,2026-05-23,8.0,Configured settings for DATA-114 - configure caching for admin console,2026-05-23
+900172,50075,EMP115,Pooja Krishnan,2026-05-22,2.5,Updated docs for DATA-114 - configure caching for admin console,2026-05-23
+900173,50075,EMP115,Pooja Krishnan,2026-05-27,2.5,Configured settings for DATA-114 - configure caching for admin console,2026-05-27
+900174,50075,EMP115,Pooja Krishnan,2026-05-24,1.5,Updated docs for DATA-114 - configure caching for admin console,2026-05-24
+900175,50076,EMP102,Rahul Verma,2026-02-20,2.0,"Design discussion on DATA-115 - as a user, i want notifications in etl pipeline",2026-02-20
+900176,50076,EMP102,Rahul Verma,2026-03-10,5.0,"Developed DATA-115 - as a user, i want notifications in etl pipeline",2026-03-11
+900177,50076,EMP102,Rahul Verma,2026-03-05,2.0,"Wrote unit tests for DATA-115 - as a user, i want notifications in etl pipeline",2026-03-07
+900178,50076,EMP101,Priya Nair,2026-02-27,0.5,"Implemented changes for DATA-115 - as a user, i want notifications in etl pipeline",2026-02-27
+900179,50076,EMP102,Rahul Verma,2026-03-08,1.0,"Code review for DATA-115 - as a user, i want notifications in etl pipeline",2026-03-08
+900180,50077,EMP114,Aditya Mishra,2026-05-25,0.5,Investigated root cause of MOB-113 - fix search failure in mobile app,2026-05-25
+900181,50077,EMP116,Manish Agarwal,2026-05-28,2.0,Investigated root cause of MOB-113 - fix search failure in mobile app,2026-05-29
+900182,50077,EMP116,Manish Agarwal,2026-05-10,2.5,Investigated root cause of MOB-113 - fix search failure in mobile app,2026-05-10
+900183,50077,EMP116,Manish Agarwal,2026-05-26,0.5,Reproduced issue: MOB-113 - fix search failure in mobile app,2026-05-28
+900184,50080,EMP117,Lakshmi Suresh,2026-10-08,5.0,"Design discussion on DATA-117 - as a user, i want notifications in etl pipeline",2026-10-08
+900185,50080,EMP117,Lakshmi Suresh,2026-10-11,4.0,"Design discussion on DATA-117 - as a user, i want notifications in etl pipeline",2026-10-11
+900186,50080,EMP117,Lakshmi Suresh,2026-10-13,1.5,"Wrote unit tests for DATA-117 - as a user, i want notifications in etl pipeline",2026-10-13
+900187,50081,EMP102,Rahul Verma,2026-04-23,4.0,Worked on PROJ-114 - update documentation for admin console,2026-04-24
+900188,50081,EMP102,Rahul Verma,2026-04-24,4.0,Validated PROJ-114 - update documentation for admin console,2026-04-26
+900189,50081,EMP102,Rahul Verma,2026-04-23,4.0,Validated PROJ-114 - update documentation for admin console,2026-04-24
+900190,50081,EMP102,Rahul Verma,2026-04-22,1.5,Validated PROJ-114 - update documentation for admin console,2026-04-22
+900191,50081,EMP102,Rahul Verma,2026-04-22,3.0,Validated PROJ-114 - update documentation for admin console,2026-04-22
+900192,50081,EMP102,Rahul Verma,2026-04-22,6.0,Configured settings for PROJ-114 - update documentation for admin console,2026-04-22
+900193,50081,EMP102,Rahul Verma,2026-04-23,8.0,Updated docs for PROJ-114 - update documentation for admin console,2026-04-23
+900194,50082,EMP114,Aditya Mishra,2026-08-20,1.5,Design discussion on MOB-115 - implement file upload for web portal,2026-08-20
+900195,50082,EMP114,Aditya Mishra,2026-08-19,5.0,Implemented changes for MOB-115 - implement file upload for web portal,2026-08-19
+900196,50082,EMP114,Aditya Mishra,2026-08-31,5.0,Code review for MOB-115 - implement file upload for web portal,2026-09-02
+900197,50082,EMP114,Aditya Mishra,2026-09-01,1.0,Design discussion on MOB-115 - implement file upload for web portal,2026-09-02
+900198,50082,EMP114,Aditya Mishra,2026-09-01,2.0,Design discussion on MOB-115 - implement file upload for web portal,2026-09-01
+900199,50082,EMP114,Aditya Mishra,2026-08-31,5.0,Implemented changes for MOB-115 - implement file upload for web portal,2026-08-31
+900200,50082,EMP114,Aditya Mishra,2026-08-18,6.0,Implemented changes for MOB-115 - implement file upload for web portal,2026-08-18
+900201,50083,EMP116,Manish Agarwal,2026-09-02,2.0,Worked on MOB-116 - configure search for backend service,2026-09-02
+900202,50083,EMP101,Priya Nair,2026-09-10,1.0,Validated MOB-116 - configure search for backend service,2026-09-11
+900203,50083,EMP116,Manish Agarwal,2026-09-08,2.5,Validated MOB-116 - configure search for backend service,2026-09-09
+900204,50083,EMP116,Manish Agarwal,2026-09-03,3.0,Validated MOB-116 - configure search for backend service,2026-09-03
+900205,50085,EMP114,Aditya Mishra,2026-02-17,5.0,"Implemented changes for OPS-121 - as a user, i want data export in admin console",2026-02-20
+900206,50085,EMP114,Aditya Mishra,2026-02-17,5.0,"Implemented changes for OPS-121 - as a user, i want data export in admin console",2026-02-18
+900207,50086,EMP108,Arjun Patel,2026-07-30,4.0,Code review for DATA-119 - implement caching for backend service,2026-07-30
+900208,50086,EMP108,Arjun Patel,2026-08-05,0.5,Developed DATA-119 - implement caching for backend service,2026-08-05
+900209,50086,EMP108,Arjun Patel,2026-07-30,3.0,Design discussion on DATA-119 - implement caching for backend service,2026-08-01
+900210,50087,EMP112,Siddharth Kumar,2026-04-04,1.5,Planning and breakdown for PROJ-115 - deliver api integration across admin console,2026-04-06
+900211,50087,EMP119,Isha Kapoor,2026-04-11,1.0,Planning and breakdown for PROJ-115 - deliver api integration across admin console,2026-04-12
+900212,50087,EMP112,Siddharth Kumar,2026-04-03,1.5,Progress review of PROJ-115 - deliver api integration across admin console,2026-04-03
+900213,50087,EMP112,Siddharth Kumar,2026-03-26,3.0,Progress review of PROJ-115 - deliver api integration across admin console,2026-03-26
+900214,50087,EMP112,Siddharth Kumar,2026-03-24,8.0,Stakeholder sync on PROJ-115 - deliver api integration across admin console,2026-03-24
+900215,50087,EMP114,Aditya Mishra,2026-03-23,5.0,Planning and breakdown for PROJ-115 - deliver api integration across admin console,2026-03-23
+900216,50088,EMP119,Isha Kapoor,2026-06-24,0.5,Configured settings for DATA-120 - refactor backend service notifications module,2026-06-24
+900217,50088,EMP119,Isha Kapoor,2026-06-22,2.5,Updated docs for DATA-120 - refactor backend service notifications module,2026-06-23
+900218,50088,EMP105,Ananya Gupta,2026-06-25,6.0,Worked on DATA-120 - refactor backend service notifications module,2026-06-25
+900219,50089,EMP114,Aditya Mishra,2026-08-23,1.0,Code review for CRM-117 - implement api integration for etl pipeline,2026-08-23
+900220,50089,EMP112,Siddharth Kumar,2026-08-29,2.5,Wrote unit tests for CRM-117 - implement api integration for etl pipeline,2026-08-30
+900221,50089,EMP118,Nikhil Bose,2026-08-10,1.0,Wrote unit tests for CRM-117 - implement api integration for etl pipeline,2026-08-10
+900222,50090,EMP115,Pooja Krishnan,2026-07-19,6.0,Code review for OPS-122 - enable reporting on etl pipeline,2026-07-19
+900223,50092,EMP110,Rohan Das,2026-05-20,2.0,Configured settings for CRM-119 - refactor backend service reporting module,2026-05-21
+900224,50092,EMP117,Lakshmi Suresh,2026-06-02,3.0,Worked on CRM-119 - refactor backend service reporting module,2026-06-02
+900225,50092,EMP117,Lakshmi Suresh,2026-05-27,0.5,Worked on CRM-119 - refactor backend service reporting module,2026-05-28
+900226,50092,EMP117,Lakshmi Suresh,2026-05-31,6.0,Updated docs for CRM-119 - refactor backend service reporting module,2026-05-31
+900227,50093,EMP111,Kavya Pillai,2026-03-26,1.5,Applied fix for CRM-120 - backend service crashes when using file upload,2026-03-26
+900228,50093,EMP111,Kavya Pillai,2026-03-23,0.5,Applied fix for CRM-120 - backend service crashes when using file upload,2026-03-23
+900229,50093,EMP111,Kavya Pillai,2026-03-22,1.5,Reproduced issue: CRM-120 - backend service crashes when using file upload,2026-03-22
+900230,50093,EMP111,Kavya Pillai,2026-03-16,0.5,Reproduced issue: CRM-120 - backend service crashes when using file upload,2026-03-19
+900231,50094,EMP108,Arjun Patel,2026-05-30,6.0,Validated CRM-121 - refactor mobile app data export module,2026-05-31
+900232,50094,EMP108,Arjun Patel,2026-05-23,6.0,Worked on CRM-121 - refactor mobile app data export module,2026-05-23
+900233,50094,EMP108,Arjun Patel,2026-05-26,1.0,Worked on CRM-121 - refactor mobile app data export module,2026-05-26
+900234,50095,EMP113,Neha Singh,2026-03-19,2.0,Design discussion on PROJ-116 - implement file upload for data warehouse,2026-03-19
+900235,50095,EMP113,Neha Singh,2026-03-24,4.0,Design discussion on PROJ-116 - implement file upload for data warehouse,2026-03-25
+900236,50095,EMP113,Neha Singh,2026-03-20,0.5,Wrote unit tests for PROJ-116 - implement file upload for data warehouse,2026-03-20
+900237,50095,EMP113,Neha Singh,2026-03-16,4.0,Wrote unit tests for PROJ-116 - implement file upload for data warehouse,2026-03-16
+900238,50095,EMP113,Neha Singh,2026-03-26,2.0,Developed PROJ-116 - implement file upload for data warehouse,2026-03-26
+900239,50095,EMP113,Neha Singh,2026-03-26,3.0,Code review for PROJ-116 - implement file upload for data warehouse,2026-03-26
+900240,50095,EMP113,Neha Singh,2026-03-20,4.0,Design discussion on PROJ-116 - implement file upload for data warehouse,2026-03-21
+900241,50096,EMP102,Rahul Verma,2026-01-27,6.0,Developed PROJ-117 - enable data export on admin console,2026-01-27
+900242,50096,EMP102,Rahul Verma,2026-01-27,2.0,Implemented changes for PROJ-117 - enable data export on admin console,2026-01-28
+900243,50096,EMP102,Rahul Verma,2026-01-29,4.0,Code review for PROJ-117 - enable data export on admin console,2026-01-29
+900244,50097,EMP118,Nikhil Bose,2026-09-24,6.0,Progress review of MOB-117 - deliver search across backend service,2026-09-24
+900245,50097,EMP118,Nikhil Bose,2026-08-26,2.0,Progress review of MOB-117 - deliver search across backend service,2026-08-26
+900246,50097,EMP106,Karthik Rao,2026-09-19,1.0,Progress review of MOB-117 - deliver search across backend service,2026-09-20
+900247,50097,EMP104,Vikram Iyer,2026-08-27,1.0,Progress review of MOB-117 - deliver search across backend service,2026-08-27
+900248,50097,EMP111,Kavya Pillai,2026-09-03,0.5,Planning and breakdown for MOB-117 - deliver search across backend service,2026-09-04
+900249,50097,EMP118,Nikhil Bose,2026-08-27,0.5,Planning and breakdown for MOB-117 - deliver search across backend service,2026-08-28
+900250,50097,EMP111,Kavya Pillai,2026-09-06,6.0,Progress review of MOB-117 - deliver search across backend service,2026-09-07
+900251,50097,EMP118,Nikhil Bose,2026-09-18,2.0,Planning and breakdown for MOB-117 - deliver search across backend service,2026-09-18
+900252,50098,EMP114,Aditya Mishra,2026-07-06,2.5,Validated DATA-121 - configure file upload for mobile app,2026-07-06
+900253,50099,EMP105,Ananya Gupta,2026-01-14,3.0,Stakeholder sync on PROJ-118 - backend service role-based access initiative,2026-01-14
+900254,50100,EMP101,Priya Nair,2026-08-08,0.5,Reproduced issue: DATA-122 - fix role-based access failure in backend service,2026-08-10
+900255,50100,EMP119,Isha Kapoor,2026-08-16,2.5,Investigated root cause of DATA-122 - fix role-based access failure in backend service,2026-08-16
+900256,50100,EMP101,Priya Nair,2026-07-31,1.0,Reproduced issue: DATA-122 - fix role-based access failure in backend service,2026-07-31
+900257,50101,EMP104,Vikram Iyer,2026-08-18,1.0,"Design discussion on CRM-122 - as a user, i want file upload in admin console",2026-08-19
+900258,50101,EMP105,Ananya Gupta,2026-09-01,2.0,"Code review for CRM-122 - as a user, i want file upload in admin console",2026-09-01
+900259,50102,EMP111,Kavya Pillai,2026-10-27,1.5,Regression testing for OPS-123 - fix payment processing failure in web portal,2026-10-27
+900260,50103,EMP115,Pooja Krishnan,2026-09-20,8.0,Configured settings for OPS-124 - configure reporting for data warehouse,2026-09-20
+900261,50103,EMP115,Pooja Krishnan,2026-08-31,2.0,Validated OPS-124 - configure reporting for data warehouse,2026-09-02
+900262,50103,EMP115,Pooja Krishnan,2026-09-24,1.0,Validated OPS-124 - configure reporting for data warehouse,2026-09-25
+900263,50103,EMP115,Pooja Krishnan,2026-09-16,1.0,Updated docs for OPS-124 - configure reporting for data warehouse,2026-09-16
+900264,50103,EMP115,Pooja Krishnan,2026-09-06,1.0,Validated OPS-124 - configure reporting for data warehouse,2026-09-08
+900265,50103,EMP100,Aarav Sharma,2026-09-05,2.5,Validated OPS-124 - configure reporting for data warehouse,2026-09-05
+900266,50103,EMP116,Manish Agarwal,2026-08-30,2.0,Validated OPS-124 - configure reporting for data warehouse,2026-08-30
+900267,50105,EMP111,Kavya Pillai,2026-02-17,3.0,"Design discussion on CRM-123 - as a user, i want role-based access in data warehouse",2026-02-17
+900268,50105,EMP111,Kavya Pillai,2026-03-15,3.0,"Implemented changes for CRM-123 - as a user, i want role-based access in data warehouse",2026-03-16
+900269,50105,EMP111,Kavya Pillai,2026-03-03,1.5,"Code review for CRM-123 - as a user, i want role-based access in data warehouse",2026-03-03
+900270,50106,EMP100,Aarav Sharma,2026-10-17,2.5,Updated docs for DATA-123 - refactor data warehouse dashboard module,2026-10-17
+900271,50106,EMP100,Aarav Sharma,2026-10-14,2.0,Updated docs for DATA-123 - refactor data warehouse dashboard module,2026-10-15
+900272,50106,EMP100,Aarav Sharma,2026-10-21,3.0,Configured settings for DATA-123 - refactor data warehouse dashboard module,2026-10-21
+900273,50107,EMP103,Sneha Reddy,2026-01-23,1.0,Implemented changes for OPS-125 - implement data export for web portal,2026-01-26
+900274,50107,EMP100,Aarav Sharma,2026-01-23,2.5,Wrote unit tests for OPS-125 - implement data export for web portal,2026-01-24
+900275,50107,EMP100,Aarav Sharma,2026-01-22,1.0,Code review for OPS-125 - implement data export for web portal,2026-01-23
+900276,50108,EMP114,Aditya Mishra,2026-06-18,4.0,Configured settings for DATA-124 - refactor etl pipeline data export module,2026-06-18
+900277,50108,EMP116,Manish Agarwal,2026-07-07,0.5,Configured settings for DATA-124 - refactor etl pipeline data export module,2026-07-07
+900278,50109,EMP105,Ananya Gupta,2026-07-25,2.0,Validated OPS-126 - configure reporting for data warehouse,2026-07-25
+900279,50109,EMP105,Ananya Gupta,2026-07-26,8.0,Configured settings for OPS-126 - configure reporting for data warehouse,2026-07-27
+900280,50110,EMP107,Meera Joshi,2026-09-02,3.0,Stakeholder sync on CRM-124 - etl pipeline dashboard initiative,2026-09-02
+900281,50110,EMP107,Meera Joshi,2026-09-02,2.0,Stakeholder sync on CRM-124 - etl pipeline dashboard initiative,2026-09-04
+900282,50110,EMP107,Meera Joshi,2026-09-19,4.0,Stakeholder sync on CRM-124 - etl pipeline dashboard initiative,2026-09-19
+900283,50110,EMP107,Meera Joshi,2026-09-18,6.0,Progress review of CRM-124 - etl pipeline dashboard initiative,2026-09-20
+900284,50110,EMP107,Meera Joshi,2026-09-26,3.0,Planning and breakdown for CRM-124 - etl pipeline dashboard initiative,2026-09-26
+900285,50110,EMP107,Meera Joshi,2026-09-14,1.0,Planning and breakdown for CRM-124 - etl pipeline dashboard initiative,2026-09-16
+900286,50110,EMP107,Meera Joshi,2026-09-05,2.0,Progress review of CRM-124 - etl pipeline dashboard initiative,2026-09-05
+900287,50110,EMP107,Meera Joshi,2026-09-26,6.0,Planning and breakdown for CRM-124 - etl pipeline dashboard initiative,2026-09-26
+900288,50111,EMP102,Rahul Verma,2026-05-22,3.0,Reproduced issue: MOB-118 - fix file upload failure in mobile app,2026-05-23
+900289,50111,EMP102,Rahul Verma,2026-05-25,1.5,Regression testing for MOB-118 - fix file upload failure in mobile app,2026-05-25
+900290,50111,EMP102,Rahul Verma,2026-05-22,8.0,Reproduced issue: MOB-118 - fix file upload failure in mobile app,2026-05-23
+900291,50112,EMP106,Karthik Rao,2026-04-27,0.5,Developed DATA-125 - implement file upload for data warehouse,2026-04-27
+900292,50112,EMP106,Karthik Rao,2026-05-02,3.0,Design discussion on DATA-125 - implement file upload for data warehouse,2026-05-03
+900293,50112,EMP106,Karthik Rao,2026-04-26,4.0,Design discussion on DATA-125 - implement file upload for data warehouse,2026-04-26
+900294,50112,EMP112,Siddharth Kumar,2026-05-03,1.5,Developed DATA-125 - implement file upload for data warehouse,2026-05-03
+900295,50112,EMP106,Karthik Rao,2026-05-04,2.0,Implemented changes for DATA-125 - implement file upload for data warehouse,2026-05-05
+900296,50113,EMP115,Pooja Krishnan,2026-06-30,2.5,Configured settings for OPS-127 - update documentation for etl pipeline,2026-06-30
+900297,50113,EMP115,Pooja Krishnan,2026-07-02,2.0,Updated docs for OPS-127 - update documentation for etl pipeline,2026-07-02
+900298,50113,EMP115,Pooja Krishnan,2026-06-25,1.5,Validated OPS-127 - update documentation for etl pipeline,2026-06-28
+900299,50114,EMP108,Arjun Patel,2026-11-03,2.5,"Code review for MOB-119 - as a user, i want api integration in mobile app",2026-11-03
+900300,50114,EMP104,Vikram Iyer,2026-11-05,1.0,"Code review for MOB-119 - as a user, i want api integration in mobile app",2026-11-06
+900301,50115,EMP112,Siddharth Kumar,2026-09-30,8.0,Reproduced issue: OPS-128 - fix reporting failure in etl pipeline,2026-09-30
+900302,50116,EMP106,Karthik Rao,2026-09-10,0.5,Investigated root cause of PROJ-120 - fix role-based access failure in backend service,2026-09-11
+900303,50117,EMP109,Divya Menon,2026-10-08,8.0,Implemented changes for PROJ-121 - implement notifications for web portal,2026-10-09
+900304,50117,EMP105,Ananya Gupta,2026-10-24,1.5,Implemented changes for PROJ-121 - implement notifications for web portal,2026-10-24
+900305,50118,EMP114,Aditya Mishra,2026-06-08,8.0,Worked on CRM-125 - configure data export for etl pipeline,2026-06-09
+900306,50118,EMP114,Aditya Mishra,2026-06-11,2.5,Configured settings for CRM-125 - configure data export for etl pipeline,2026-06-12
+900307,50119,EMP100,Aarav Sharma,2026-06-24,5.0,Worked on PROJ-122 - update documentation for data warehouse,2026-06-25
+900308,50119,EMP100,Aarav Sharma,2026-06-27,1.5,Validated PROJ-122 - update documentation for data warehouse,2026-06-27
+900309,50120,EMP102,Rahul Verma,2026-02-05,1.5,Wrote unit tests for PROJ-123 - enable reporting on admin console,2026-02-05
+900310,50120,EMP102,Rahul Verma,2026-01-26,0.5,Implemented changes for PROJ-123 - enable reporting on admin console,2026-01-26
+900311,50120,EMP114,Aditya Mishra,2026-02-08,2.5,Wrote unit tests for PROJ-123 - enable reporting on admin console,2026-02-08
+900312,50120,EMP102,Rahul Verma,2026-02-03,1.0,Implemented changes for PROJ-123 - enable reporting on admin console,2026-02-06
+900313,50120,EMP102,Rahul Verma,2026-02-10,0.5,Design discussion on PROJ-123 - enable reporting on admin console,2026-02-11
+900314,50120,EMP102,Rahul Verma,2026-01-31,1.0,Design discussion on PROJ-123 - enable reporting on admin console,2026-02-01
+900315,50121,EMP118,Nikhil Bose,2026-10-10,4.0,Applied fix for DATA-126 - incorrect payment processing results in data warehouse,2026-10-10
+900316,50121,EMP118,Nikhil Bose,2026-10-13,6.0,Applied fix for DATA-126 - incorrect payment processing results in data warehouse,2026-10-13
+900317,50121,EMP118,Nikhil Bose,2026-10-13,6.0,Investigated root cause of DATA-126 - incorrect payment processing results in data warehouse,2026-10-13
+900318,50121,EMP109,Divya Menon,2026-10-13,4.0,Reproduced issue: DATA-126 - incorrect payment processing results in data warehouse,2026-10-14
+900319,50122,EMP111,Kavya Pillai,2026-08-02,1.0,Updated docs for CRM-126 - refactor admin console api integration module,2026-08-03
+900320,50122,EMP107,Meera Joshi,2026-08-18,8.0,Worked on CRM-126 - refactor admin console api integration module,2026-08-18
+900321,50122,EMP107,Meera Joshi,2026-07-28,6.0,Validated CRM-126 - refactor admin console api integration module,2026-07-28
+900322,50123,EMP112,Siddharth Kumar,2026-02-14,2.0,Regression testing for OPS-129 - fix payment processing failure in backend service,2026-02-14
+900323,50125,EMP119,Isha Kapoor,2026-08-20,8.0,"Wrote unit tests for OPS-130 - as a user, i want caching in web portal",2026-08-22
+900324,50125,EMP119,Isha Kapoor,2026-08-06,5.0,"Implemented changes for OPS-130 - as a user, i want caching in web portal",2026-08-06
+900325,50125,EMP119,Isha Kapoor,2026-08-09,4.0,"Developed OPS-130 - as a user, i want caching in web portal",2026-08-11
+900326,50126,EMP102,Rahul Verma,2026-06-11,6.0,"Code review for DATA-127 - as a user, i want caching in backend service",2026-06-12
+900327,50126,EMP105,Ananya Gupta,2026-06-20,0.5,"Wrote unit tests for DATA-127 - as a user, i want caching in backend service",2026-06-20
+900328,50126,EMP102,Rahul Verma,2026-06-25,0.5,"Wrote unit tests for DATA-127 - as a user, i want caching in backend service",2026-06-27
+900329,50126,EMP102,Rahul Verma,2026-06-08,4.0,"Design discussion on DATA-127 - as a user, i want caching in backend service",2026-06-09
+900330,50126,EMP102,Rahul Verma,2026-06-19,0.5,"Wrote unit tests for DATA-127 - as a user, i want caching in backend service",2026-06-19
+900331,50127,EMP100,Aarav Sharma,2026-07-05,1.0,"Wrote unit tests for MOB-120 - as a user, i want api integration in admin console",2026-07-05
+900332,50127,EMP100,Aarav Sharma,2026-06-26,4.0,"Developed MOB-120 - as a user, i want api integration in admin console",2026-06-27
+900333,50128,EMP112,Siddharth Kumar,2026-09-16,1.0,Applied fix for DATA-128 - incorrect dashboard results in etl pipeline,2026-09-19
+900334,50128,EMP104,Vikram Iyer,2026-09-28,8.0,Applied fix for DATA-128 - incorrect dashboard results in etl pipeline,2026-09-28
+900335,50129,EMP105,Ananya Gupta,2026-04-23,3.0,Applied fix for OPS-131 - etl pipeline crashes when using login flow,2026-04-25
+900336,50129,EMP105,Ananya Gupta,2026-04-22,6.0,Regression testing for OPS-131 - etl pipeline crashes when using login flow,2026-04-22
+900337,50129,EMP105,Ananya Gupta,2026-04-24,0.5,Investigated root cause of OPS-131 - etl pipeline crashes when using login flow,2026-04-26
+900338,50130,EMP113,Neha Singh,2026-09-27,8.0,Investigated root cause of DATA-129 - incorrect search results in data warehouse,2026-09-28
+900339,50131,EMP107,Meera Joshi,2026-02-19,5.0,Design discussion on PROJ-125 - enable notifications on etl pipeline,2026-02-20
+900340,50131,EMP107,Meera Joshi,2026-02-07,5.0,Wrote unit tests for PROJ-125 - enable notifications on etl pipeline,2026-02-09
+900341,50132,EMP117,Lakshmi Suresh,2026-08-24,1.5,Wrote unit tests for OPS-132 - implement file upload for admin console,2026-08-24
+900342,50132,EMP117,Lakshmi Suresh,2026-09-04,8.0,Code review for OPS-132 - implement file upload for admin console,2026-09-06
+900343,50133,EMP102,Rahul Verma,2026-06-22,8.0,Reproduced issue: CRM-127 - mobile app crashes when using file upload,2026-06-25
+900344,50133,EMP100,Aarav Sharma,2026-06-26,2.5,Regression testing for CRM-127 - mobile app crashes when using file upload,2026-06-26
+900345,50133,EMP107,Meera Joshi,2026-06-19,4.0,Applied fix for CRM-127 - mobile app crashes when using file upload,2026-06-19
+900346,50134,EMP101,Priya Nair,2026-03-01,2.5,Regression testing for MOB-121 - incorrect login flow results in backend service,2026-03-01
+900347,50134,EMP101,Priya Nair,2026-03-02,1.5,Applied fix for MOB-121 - incorrect login flow results in backend service,2026-03-02
+900348,50135,EMP117,Lakshmi Suresh,2026-05-07,5.0,Code review for DATA-130 - enable caching on web portal,2026-05-08
+900349,50135,EMP105,Ananya Gupta,2026-05-03,4.0,Implemented changes for DATA-130 - enable caching on web portal,2026-05-03
+900350,50135,EMP105,Ananya Gupta,2026-05-09,2.0,Code review for DATA-130 - enable caching on web portal,2026-05-11
+900351,50136,EMP117,Lakshmi Suresh,2026-09-10,2.5,Worked on PROJ-126 - configure api integration for backend service,2026-09-11
+900352,50137,EMP111,Kavya Pillai,2026-06-07,3.0,Developed MOB-122 - enable payment processing on mobile app,2026-06-07
+900353,50137,EMP111,Kavya Pillai,2026-06-15,2.5,Design discussion on MOB-122 - enable payment processing on mobile app,2026-06-15
+900354,50138,EMP119,Isha Kapoor,2026-04-19,2.0,Applied fix for CRM-128 - data warehouse crashes when using payment processing,2026-04-19
+900355,50138,EMP119,Isha Kapoor,2026-04-22,3.0,Reproduced issue: CRM-128 - data warehouse crashes when using payment processing,2026-04-23
+900356,50138,EMP119,Isha Kapoor,2026-04-18,2.0,Investigated root cause of CRM-128 - data warehouse crashes when using payment processing,2026-04-20
+900357,50139,EMP100,Aarav Sharma,2026-10-22,5.0,Investigated root cause of MOB-123 - mobile app crashes when using notifications,2026-10-22
+900358,50139,EMP100,Aarav Sharma,2026-11-07,2.5,Investigated root cause of MOB-123 - mobile app crashes when using notifications,2026-11-07
+900359,50139,EMP100,Aarav Sharma,2026-10-25,8.0,Regression testing for MOB-123 - mobile app crashes when using notifications,2026-10-28
+900360,50140,EMP108,Arjun Patel,2026-09-12,2.5,Wrote unit tests for PROJ-127 - implement reporting for backend service,2026-09-14
+900361,50140,EMP108,Arjun Patel,2026-09-24,8.0,Implemented changes for PROJ-127 - implement reporting for backend service,2026-09-25
+900362,50140,EMP108,Arjun Patel,2026-08-29,1.5,Wrote unit tests for PROJ-127 - implement reporting for backend service,2026-08-29
+900363,50140,EMP108,Arjun Patel,2026-08-30,3.0,Wrote unit tests for PROJ-127 - implement reporting for backend service,2026-08-30
+900364,50141,EMP102,Rahul Verma,2026-05-14,1.0,Updated docs for CRM-129 - refactor web portal caching module,2026-05-16
+900365,50141,EMP117,Lakshmi Suresh,2026-05-12,6.0,Validated CRM-129 - refactor web portal caching module,2026-05-13
+900366,50141,EMP117,Lakshmi Suresh,2026-05-12,2.0,Configured settings for CRM-129 - refactor web portal caching module,2026-05-12
+900367,50142,EMP118,Nikhil Bose,2026-08-16,0.5,Worked on DATA-131 - refactor admin console file upload module,2026-08-18
+900368,50142,EMP101,Priya Nair,2026-08-16,5.0,Worked on DATA-131 - refactor admin console file upload module,2026-08-17
+900369,50142,EMP118,Nikhil Bose,2026-08-17,2.0,Updated docs for DATA-131 - refactor admin console file upload module,2026-08-18
+900370,50143,EMP118,Nikhil Bose,2026-03-15,3.0,Code review for MOB-124 - implement reporting for etl pipeline,2026-03-15
+900371,50143,EMP118,Nikhil Bose,2026-03-17,1.5,Wrote unit tests for MOB-124 - implement reporting for etl pipeline,2026-03-17
+900372,50143,EMP118,Nikhil Bose,2026-03-16,0.5,Wrote unit tests for MOB-124 - implement reporting for etl pipeline,2026-03-18
+900373,50143,EMP118,Nikhil Bose,2026-03-16,1.5,Implemented changes for MOB-124 - implement reporting for etl pipeline,2026-03-17
+900374,50143,EMP118,Nikhil Bose,2026-03-19,1.5,Wrote unit tests for MOB-124 - implement reporting for etl pipeline,2026-03-21
+900375,50143,EMP112,Siddharth Kumar,2026-03-15,5.0,Code review for MOB-124 - implement reporting for etl pipeline,2026-03-16
+900376,50143,EMP118,Nikhil Bose,2026-03-16,3.0,Implemented changes for MOB-124 - implement reporting for etl pipeline,2026-03-16
+900377,50144,EMP107,Meera Joshi,2026-05-23,5.0,Applied fix for MOB-125 - incorrect role-based access results in mobile app,2026-05-23
+900378,50144,EMP107,Meera Joshi,2026-05-26,4.0,Applied fix for MOB-125 - incorrect role-based access results in mobile app,2026-05-26
+900379,50144,EMP107,Meera Joshi,2026-05-30,2.5,Reproduced issue: MOB-125 - incorrect role-based access results in mobile app,2026-05-30
+900380,50145,EMP110,Rohan Das,2026-08-30,5.0,Worked on CRM-130 - configure login flow for etl pipeline,2026-08-30
+900381,50146,EMP101,Priya Nair,2026-04-01,2.0,Design discussion on MOB-126 - enable api integration on admin console,2026-04-03
+900382,50147,EMP103,Sneha Reddy,2026-03-17,3.0,Validated DATA-132 - configure login flow for data warehouse,2026-03-18
+900383,50147,EMP107,Meera Joshi,2026-03-16,2.5,Validated DATA-132 - configure login flow for data warehouse,2026-03-16
+900384,50147,EMP101,Priya Nair,2026-03-26,2.5,Configured settings for DATA-132 - configure login flow for data warehouse,2026-03-27
+900385,50147,EMP100,Aarav Sharma,2026-03-20,3.0,Configured settings for DATA-132 - configure login flow for data warehouse,2026-03-21
+900386,50148,EMP107,Meera Joshi,2026-02-26,4.0,Investigated root cause of MOB-127 - incorrect audit logging results in web portal,2026-02-26
+900387,50148,EMP106,Karthik Rao,2026-02-26,1.5,Applied fix for MOB-127 - incorrect audit logging results in web portal,2026-02-26
+900388,50148,EMP107,Meera Joshi,2026-02-25,2.0,Investigated root cause of MOB-127 - incorrect audit logging results in web portal,2026-02-26
+900389,50148,EMP119,Isha Kapoor,2026-03-01,1.5,Applied fix for MOB-127 - incorrect audit logging results in web portal,2026-03-02
+900390,50149,EMP103,Sneha Reddy,2026-02-13,2.0,"Developed MOB-128 - as a user, i want file upload in mobile app",2026-02-13
+900391,50149,EMP103,Sneha Reddy,2026-02-18,0.5,"Design discussion on MOB-128 - as a user, i want file upload in mobile app",2026-02-18
+900392,50150,EMP104,Vikram Iyer,2026-04-09,5.0,Developed DATA-133 - implement reporting for admin console,2026-04-11
+900393,50150,EMP104,Vikram Iyer,2026-04-06,2.5,Implemented changes for DATA-133 - implement reporting for admin console,2026-04-06
+900394,50150,EMP104,Vikram Iyer,2026-04-04,3.0,Design discussion on DATA-133 - implement reporting for admin console,2026-04-04
+900395,50151,EMP104,Vikram Iyer,2026-07-10,1.0,Planning and breakdown for PROJ-128 - deliver payment processing across etl pipeline,2026-07-13
+900396,50152,EMP106,Karthik Rao,2026-08-03,4.0,Worked on MOB-129 - configure payment processing for admin console,2026-08-04
+900397,50152,EMP106,Karthik Rao,2026-07-27,5.0,Validated MOB-129 - configure payment processing for admin console,2026-07-30
+900398,50152,EMP106,Karthik Rao,2026-08-09,1.5,Worked on MOB-129 - configure payment processing for admin console,2026-08-10
+900399,50153,EMP107,Meera Joshi,2026-08-17,1.0,Updated docs for PROJ-129 - refactor data warehouse notifications module,2026-08-17
+900400,50153,EMP111,Kavya Pillai,2026-08-08,2.0,Updated docs for PROJ-129 - refactor data warehouse notifications module,2026-08-08
+900401,50153,EMP111,Kavya Pillai,2026-08-17,5.0,Configured settings for PROJ-129 - refactor data warehouse notifications module,2026-08-18
+900402,50154,EMP112,Siddharth Kumar,2026-09-21,0.5,Updated docs for PROJ-130 - refactor etl pipeline dashboard module,2026-09-22
+900403,50154,EMP112,Siddharth Kumar,2026-10-03,2.5,Worked on PROJ-130 - refactor etl pipeline dashboard module,2026-10-03
+900404,50154,EMP112,Siddharth Kumar,2026-09-30,6.0,Configured settings for PROJ-130 - refactor etl pipeline dashboard module,2026-10-02
+900405,50154,EMP104,Vikram Iyer,2026-10-02,1.5,Worked on PROJ-130 - refactor etl pipeline dashboard module,2026-10-03
+900406,50155,EMP104,Vikram Iyer,2026-02-20,8.0,Design discussion on DATA-134 - enable api integration on data warehouse,2026-02-20
+900407,50155,EMP104,Vikram Iyer,2026-02-08,3.0,Wrote unit tests for DATA-134 - enable api integration on data warehouse,2026-02-09
+900408,50155,EMP104,Vikram Iyer,2026-02-17,8.0,Code review for DATA-134 - enable api integration on data warehouse,2026-02-18
+900409,50156,EMP101,Priya Nair,2026-09-26,3.0,Implemented changes for PROJ-131 - implement file upload for web portal,2026-09-26
+900410,50156,EMP100,Aarav Sharma,2026-09-27,1.5,Developed PROJ-131 - implement file upload for web portal,2026-09-27
+900411,50156,EMP100,Aarav Sharma,2026-09-22,0.5,Implemented changes for PROJ-131 - implement file upload for web portal,2026-09-22
+900412,50156,EMP100,Aarav Sharma,2026-09-28,5.0,Developed PROJ-131 - implement file upload for web portal,2026-09-29
+900413,50156,EMP101,Priya Nair,2026-09-17,8.0,Code review for PROJ-131 - implement file upload for web portal,2026-09-19
+900414,50156,EMP119,Isha Kapoor,2026-09-24,0.5,Design discussion on PROJ-131 - implement file upload for web portal,2026-09-25
+900415,50158,EMP103,Sneha Reddy,2026-05-04,0.5,Updated docs for MOB-130 - configure audit logging for etl pipeline,2026-05-04
+900416,50159,EMP117,Lakshmi Suresh,2026-08-08,8.0,Design discussion on PROJ-132 - implement data export for backend service,2026-08-08
+900417,50160,EMP116,Manish Agarwal,2026-06-16,1.5,"Wrote unit tests for DATA-135 - as a user, i want caching in web portal",2026-06-16
+900418,50160,EMP116,Manish Agarwal,2026-06-02,4.0,"Design discussion on DATA-135 - as a user, i want caching in web portal",2026-06-04
+900419,50160,EMP116,Manish Agarwal,2026-06-05,6.0,"Code review for DATA-135 - as a user, i want caching in web portal",2026-06-06
+900420,50161,EMP118,Nikhil Bose,2026-05-28,4.0,Implemented changes for MOB-131 - enable data export on etl pipeline,2026-05-28
+900421,50162,EMP109,Divya Menon,2026-08-14,2.5,Validated CRM-132 - configure data export for admin console,2026-08-16
+900422,50162,EMP109,Divya Menon,2026-08-11,3.0,Configured settings for CRM-132 - configure data export for admin console,2026-08-11
+900423,50162,EMP109,Divya Menon,2026-08-15,8.0,Validated CRM-132 - configure data export for admin console,2026-08-15
+900424,50163,EMP105,Ananya Gupta,2026-07-26,3.0,Wrote unit tests for PROJ-133 - enable reporting on mobile app,2026-07-26
+900425,50163,EMP118,Nikhil Bose,2026-07-26,0.5,Implemented changes for PROJ-133 - enable reporting on mobile app,2026-07-26
+900426,50164,EMP114,Aditya Mishra,2026-03-20,0.5,Regression testing for MOB-132 - fix data export failure in web portal,2026-03-20
+900427,50164,EMP111,Kavya Pillai,2026-03-16,1.5,Regression testing for MOB-132 - fix data export failure in web portal,2026-03-16
+900428,50164,EMP114,Aditya Mishra,2026-03-20,2.0,Reproduced issue: MOB-132 - fix data export failure in web portal,2026-03-20
+900429,50164,EMP116,Manish Agarwal,2026-03-16,5.0,Reproduced issue: MOB-132 - fix data export failure in web portal,2026-03-17
+900430,50166,EMP111,Kavya Pillai,2026-06-18,1.0,Developed DATA-136 - enable reporting on web portal,2026-06-18
+900431,50166,EMP111,Kavya Pillai,2026-06-15,5.0,Wrote unit tests for DATA-136 - enable reporting on web portal,2026-06-15
+900432,50166,EMP118,Nikhil Bose,2026-06-09,2.5,Design discussion on DATA-136 - enable reporting on web portal,2026-06-09
+900433,50166,EMP111,Kavya Pillai,2026-06-13,5.0,Code review for DATA-136 - enable reporting on web portal,2026-06-15
+900434,50166,EMP111,Kavya Pillai,2026-06-11,6.0,Design discussion on DATA-136 - enable reporting on web portal,2026-06-11
+900435,50168,EMP106,Karthik Rao,2026-03-11,2.5,Configured settings for PROJ-134 - update documentation for web portal,2026-03-11
+900436,50168,EMP106,Karthik Rao,2026-03-09,4.0,Configured settings for PROJ-134 - update documentation for web portal,2026-03-09
+900437,50168,EMP106,Karthik Rao,2026-03-10,8.0,Configured settings for PROJ-134 - update documentation for web portal,2026-03-10
+900438,50168,EMP106,Karthik Rao,2026-03-11,0.5,Worked on PROJ-134 - update documentation for web portal,2026-03-13
+900439,50168,EMP106,Karthik Rao,2026-03-12,2.5,Updated docs for PROJ-134 - update documentation for web portal,2026-03-14
+900440,50168,EMP106,Karthik Rao,2026-03-11,6.0,Validated PROJ-134 - update documentation for web portal,2026-03-11
+900441,50168,EMP106,Karthik Rao,2026-03-10,3.0,Validated PROJ-134 - update documentation for web portal,2026-03-10
+900442,50169,EMP105,Ananya Gupta,2026-05-29,3.0,"Design discussion on CRM-134 - as a user, i want data export in mobile app",2026-05-29
+900443,50169,EMP105,Ananya Gupta,2026-05-29,4.0,"Wrote unit tests for CRM-134 - as a user, i want data export in mobile app",2026-05-31
+900444,50169,EMP105,Ananya Gupta,2026-05-30,1.0,"Implemented changes for CRM-134 - as a user, i want data export in mobile app",2026-05-31
+900445,50169,EMP105,Ananya Gupta,2026-05-30,2.5,"Design discussion on CRM-134 - as a user, i want data export in mobile app",2026-06-02
+900446,50169,EMP105,Ananya Gupta,2026-05-30,6.0,"Wrote unit tests for CRM-134 - as a user, i want data export in mobile app",2026-05-31
+900447,50170,EMP102,Rahul Verma,2026-05-05,2.0,"Design discussion on PROJ-135 - as a user, i want caching in mobile app",2026-05-06
+900448,50170,EMP113,Neha Singh,2026-04-28,8.0,"Design discussion on PROJ-135 - as a user, i want caching in mobile app",2026-04-28
+900449,50170,EMP102,Rahul Verma,2026-04-19,0.5,"Developed PROJ-135 - as a user, i want caching in mobile app",2026-04-20
+900450,50170,EMP102,Rahul Verma,2026-04-17,4.0,"Developed PROJ-135 - as a user, i want caching in mobile app",2026-04-19
+900451,50172,EMP107,Meera Joshi,2026-05-09,6.0,Updated docs for OPS-133 - refactor mobile app search module,2026-05-09
+900452,50172,EMP117,Lakshmi Suresh,2026-05-12,8.0,Configured settings for OPS-133 - refactor mobile app search module,2026-05-15
+900453,50172,EMP107,Meera Joshi,2026-05-08,6.0,Worked on OPS-133 - refactor mobile app search module,2026-05-08
+900454,50172,EMP107,Meera Joshi,2026-05-08,6.0,Validated OPS-133 - refactor mobile app search module,2026-05-08
+900455,50173,EMP118,Nikhil Bose,2026-01-19,8.0,Updated docs for DATA-137 - update documentation for etl pipeline,2026-01-20
+900456,50173,EMP118,Nikhil Bose,2026-01-22,1.5,Worked on DATA-137 - update documentation for etl pipeline,2026-01-22
+900457,50173,EMP118,Nikhil Bose,2026-01-20,8.0,Worked on DATA-137 - update documentation for etl pipeline,2026-01-22
+900458,50173,EMP118,Nikhil Bose,2026-01-26,0.5,Worked on DATA-137 - update documentation for etl pipeline,2026-01-27
+900459,50174,EMP118,Nikhil Bose,2026-09-30,5.0,Investigated root cause of PROJ-136 - incorrect data export results in web portal,2026-10-03
+900460,50174,EMP107,Meera Joshi,2026-09-13,1.5,Applied fix for PROJ-136 - incorrect data export results in web portal,2026-09-13
+900461,50175,EMP118,Nikhil Bose,2026-03-09,4.0,Reproduced issue: DATA-138 - admin console crashes when using search,2026-03-09
+900462,50175,EMP115,Pooja Krishnan,2026-02-13,4.0,Applied fix for DATA-138 - admin console crashes when using search,2026-02-13
+900463,50175,EMP118,Nikhil Bose,2026-02-23,5.0,Investigated root cause of DATA-138 - admin console crashes when using search,2026-02-25
+900464,50176,EMP110,Rohan Das,2026-07-08,1.5,Developed CRM-136 - enable file upload on admin console,2026-07-08
+900465,50177,EMP118,Nikhil Bose,2026-05-21,6.0,"Wrote unit tests for CRM-137 - as a user, i want notifications in admin console",2026-05-21
+900466,50177,EMP118,Nikhil Bose,2026-05-02,4.0,"Code review for CRM-137 - as a user, i want notifications in admin console",2026-05-05
+900467,50178,EMP114,Aditya Mishra,2026-02-15,2.0,Validated MOB-134 - configure dashboard for mobile app,2026-02-15
+900468,50178,EMP114,Aditya Mishra,2026-02-08,1.5,Configured settings for MOB-134 - configure dashboard for mobile app,2026-02-08
+900469,50179,EMP112,Siddharth Kumar,2026-09-13,1.5,Validated CRM-138 - configure reporting for data warehouse,2026-09-13
+900470,50179,EMP112,Siddharth Kumar,2026-09-14,3.0,Configured settings for CRM-138 - configure reporting for data warehouse,2026-09-14
+900471,50179,EMP112,Siddharth Kumar,2026-09-19,8.0,Configured settings for CRM-138 - configure reporting for data warehouse,2026-09-20
+900472,50179,EMP112,Siddharth Kumar,2026-09-22,2.0,Validated CRM-138 - configure reporting for data warehouse,2026-09-22
+900473,50180,EMP108,Arjun Patel,2026-10-31,8.0,Updated docs for MOB-135 - configure notifications for etl pipeline,2026-11-02
+900474,50180,EMP105,Ananya Gupta,2026-10-24,2.0,Configured settings for MOB-135 - configure notifications for etl pipeline,2026-10-25
+900475,50181,EMP105,Ananya Gupta,2026-04-17,2.5,Regression testing for CRM-139 - fix search failure in backend service,2026-04-17
+900476,50181,EMP105,Ananya Gupta,2026-04-21,4.0,Investigated root cause of CRM-139 - fix search failure in backend service,2026-04-21
+900477,50182,EMP104,Vikram Iyer,2026-03-04,1.0,Worked on CRM-140 - update documentation for web portal,2026-03-04
+900478,50182,EMP104,Vikram Iyer,2026-03-13,2.5,Configured settings for CRM-140 - update documentation for web portal,2026-03-14
+900479,50182,EMP104,Vikram Iyer,2026-03-09,2.5,Configured settings for CRM-140 - update documentation for web portal,2026-03-09
+900480,50183,EMP109,Divya Menon,2026-02-25,5.0,Progress review of PROJ-137 - deliver role-based access across data warehouse,2026-02-25
+900481,50183,EMP104,Vikram Iyer,2026-02-24,3.0,Progress review of PROJ-137 - deliver role-based access across data warehouse,2026-02-24
+900482,50183,EMP109,Divya Menon,2026-03-03,4.0,Planning and breakdown for PROJ-137 - deliver role-based access across data warehouse,2026-03-03
+900483,50183,EMP109,Divya Menon,2026-03-03,4.0,Stakeholder sync on PROJ-137 - deliver role-based access across data warehouse,2026-03-03
+900484,50183,EMP103,Sneha Reddy,2026-02-22,2.5,Progress review of PROJ-137 - deliver role-based access across data warehouse,2026-02-22
+900485,50183,EMP109,Divya Menon,2026-03-03,4.0,Planning and breakdown for PROJ-137 - deliver role-based access across data warehouse,2026-03-04
+900486,50183,EMP109,Divya Menon,2026-02-26,2.5,Planning and breakdown for PROJ-137 - deliver role-based access across data warehouse,2026-02-26
+900487,50183,EMP109,Divya Menon,2026-02-20,1.5,Progress review of PROJ-137 - deliver role-based access across data warehouse,2026-02-20
+900488,50184,EMP107,Meera Joshi,2026-03-28,4.0,Design discussion on MOB-136 - implement payment processing for web portal,2026-03-28
+900489,50184,EMP107,Meera Joshi,2026-02-23,2.5,Developed MOB-136 - implement payment processing for web portal,2026-02-23
+900490,50184,EMP118,Nikhil Bose,2026-02-26,1.0,Developed MOB-136 - implement payment processing for web portal,2026-03-01
+900491,50185,EMP115,Pooja Krishnan,2026-02-16,1.0,Validated OPS-134 - update documentation for data warehouse,2026-02-17
+900492,50185,EMP115,Pooja Krishnan,2026-02-17,8.0,Configured settings for OPS-134 - update documentation for data warehouse,2026-02-20
+900493,50186,EMP106,Karthik Rao,2026-08-20,4.0,Wrote unit tests for DATA-139 - implement login flow for data warehouse,2026-08-22
+900494,50186,EMP116,Manish Agarwal,2026-08-25,6.0,Developed DATA-139 - implement login flow for data warehouse,2026-08-26
+900495,50186,EMP106,Karthik Rao,2026-08-18,6.0,Implemented changes for DATA-139 - implement login flow for data warehouse,2026-08-18
+900496,50186,EMP106,Karthik Rao,2026-08-18,6.0,Code review for DATA-139 - implement login flow for data warehouse,2026-08-18
+900497,50186,EMP106,Karthik Rao,2026-08-17,2.0,Design discussion on DATA-139 - implement login flow for data warehouse,2026-08-20
+900498,50186,EMP106,Karthik Rao,2026-08-15,3.0,Wrote unit tests for DATA-139 - implement login flow for data warehouse,2026-08-15
+900499,50187,EMP117,Lakshmi Suresh,2026-09-29,5.0,Regression testing for CRM-141 - backend service crashes when using reporting,2026-09-29
+900500,50187,EMP117,Lakshmi Suresh,2026-09-28,5.0,Applied fix for CRM-141 - backend service crashes when using reporting,2026-09-28
+900501,50188,EMP118,Nikhil Bose,2026-06-09,1.5,Design discussion on OPS-135 - implement search for admin console,2026-06-09
+900502,50188,EMP118,Nikhil Bose,2026-06-10,1.0,Design discussion on OPS-135 - implement search for admin console,2026-06-11
+900503,50188,EMP118,Nikhil Bose,2026-06-05,1.5,Design discussion on OPS-135 - implement search for admin console,2026-06-06
+900504,50188,EMP112,Siddharth Kumar,2026-06-26,2.5,Developed OPS-135 - implement search for admin console,2026-06-26
+900505,50188,EMP118,Nikhil Bose,2026-06-06,2.5,Code review for OPS-135 - implement search for admin console,2026-06-06
+900506,50189,EMP112,Siddharth Kumar,2026-08-07,1.0,Implemented changes for MOB-137 - enable payment processing on admin console,2026-08-07
+900507,50189,EMP112,Siddharth Kumar,2026-08-12,2.5,Implemented changes for MOB-137 - enable payment processing on admin console,2026-08-12
+900508,50192,EMP115,Pooja Krishnan,2026-02-01,3.0,"Design discussion on DATA-141 - as a user, i want data export in web portal",2026-02-02
+900509,50192,EMP106,Karthik Rao,2026-02-14,5.0,"Implemented changes for DATA-141 - as a user, i want data export in web portal",2026-02-17
+900510,50192,EMP106,Karthik Rao,2026-02-09,1.0,"Code review for DATA-141 - as a user, i want data export in web portal",2026-02-09
+900511,50192,EMP106,Karthik Rao,2026-02-07,1.0,"Implemented changes for DATA-141 - as a user, i want data export in web portal",2026-02-08
+900512,50192,EMP106,Karthik Rao,2026-01-30,1.5,"Code review for DATA-141 - as a user, i want data export in web portal",2026-01-31
+900513,50192,EMP106,Karthik Rao,2026-02-15,1.5,"Developed DATA-141 - as a user, i want data export in web portal",2026-02-16
+900514,50193,EMP119,Isha Kapoor,2026-10-19,3.0,Code review for CRM-142 - enable notifications on data warehouse,2026-10-19
+900515,50193,EMP119,Isha Kapoor,2026-10-16,3.0,Code review for CRM-142 - enable notifications on data warehouse,2026-10-16
+900516,50193,EMP119,Isha Kapoor,2026-10-14,4.0,Developed CRM-142 - enable notifications on data warehouse,2026-10-14
+900517,50194,EMP106,Karthik Rao,2026-05-21,2.5,Investigated root cause of OPS-136 - incorrect audit logging results in mobile app,2026-05-22
+900518,50195,EMP119,Isha Kapoor,2026-05-30,4.0,Worked on MOB-139 - refactor etl pipeline file upload module,2026-05-30
+900519,50195,EMP114,Aditya Mishra,2026-06-09,3.0,Worked on MOB-139 - refactor etl pipeline file upload module,2026-06-09
+900520,50196,EMP116,Manish Agarwal,2026-06-25,1.0,Investigated root cause of OPS-137 - incorrect audit logging results in admin console,2026-06-25
+900521,50196,EMP111,Kavya Pillai,2026-06-24,1.0,Regression testing for OPS-137 - incorrect audit logging results in admin console,2026-06-26
+900522,50198,EMP105,Ananya Gupta,2026-05-22,5.0,Design discussion on PROJ-138 - enable data export on backend service,2026-05-22
+900523,50198,EMP118,Nikhil Bose,2026-05-10,6.0,Code review for PROJ-138 - enable data export on backend service,2026-05-10
+900524,50198,EMP118,Nikhil Bose,2026-05-25,1.5,Wrote unit tests for PROJ-138 - enable data export on backend service,2026-05-28
+900525,50199,EMP109,Divya Menon,2026-10-19,3.0,Progress review of DATA-142 - deliver role-based access across mobile app,2026-10-20
+900526,50199,EMP109,Divya Menon,2026-11-05,3.0,Stakeholder sync on DATA-142 - deliver role-based access across mobile app,2026-11-05
+900527,50199,EMP109,Divya Menon,2026-10-22,3.0,Progress review of DATA-142 - deliver role-based access across mobile app,2026-10-22
+900528,50199,EMP100,Aarav Sharma,2026-10-24,5.0,Progress review of DATA-142 - deliver role-based access across mobile app,2026-10-24
+900529,50199,EMP109,Divya Menon,2026-11-08,6.0,Progress review of DATA-142 - deliver role-based access across mobile app,2026-11-08
+900530,50199,EMP111,Kavya Pillai,2026-11-03,5.0,Stakeholder sync on DATA-142 - deliver role-based access across mobile app,2026-11-03
+900531,50199,EMP109,Divya Menon,2026-10-25,2.0,Progress review of DATA-142 - deliver role-based access across mobile app,2026-10-25
+900532,50199,EMP109,Divya Menon,2026-10-25,2.5,Progress review of DATA-142 - deliver role-based access across mobile app,2026-10-27
+900533,50200,EMP108,Arjun Patel,2026-09-07,5.0,Applied fix for MOB-140 - fix dashboard failure in data warehouse,2026-09-07
+900534,50201,EMP104,Vikram Iyer,2026-03-27,1.0,Progress review of DATA-143 - deliver api integration across data warehouse,2026-03-27
+900535,50201,EMP104,Vikram Iyer,2026-03-28,4.0,Progress review of DATA-143 - deliver api integration across data warehouse,2026-03-28
+900536,50201,EMP104,Vikram Iyer,2026-03-26,6.0,Progress review of DATA-143 - deliver api integration across data warehouse,2026-03-26
+900537,50201,EMP104,Vikram Iyer,2026-03-31,6.0,Planning and breakdown for DATA-143 - deliver api integration across data warehouse,2026-04-02
+900538,50201,EMP104,Vikram Iyer,2026-03-29,1.5,Planning and breakdown for DATA-143 - deliver api integration across data warehouse,2026-03-29
+900539,50201,EMP104,Vikram Iyer,2026-03-31,3.0,Progress review of DATA-143 - deliver api integration across data warehouse,2026-03-31
+900540,50201,EMP104,Vikram Iyer,2026-03-22,0.5,Planning and breakdown for DATA-143 - deliver api integration across data warehouse,2026-03-22
+900541,50201,EMP104,Vikram Iyer,2026-03-22,1.0,Progress review of DATA-143 - deliver api integration across data warehouse,2026-03-22
+900542,50202,EMP108,Arjun Patel,2026-09-12,2.0,Investigated root cause of CRM-143 - fix notifications failure in admin console,2026-09-13
+900543,50202,EMP111,Kavya Pillai,2026-09-13,3.0,Investigated root cause of CRM-143 - fix notifications failure in admin console,2026-09-13
+900544,50203,EMP117,Lakshmi Suresh,2026-06-23,6.0,Reproduced issue: PROJ-139 - fix file upload failure in backend service,2026-06-23
+900545,50203,EMP117,Lakshmi Suresh,2026-06-18,3.0,Investigated root cause of PROJ-139 - fix file upload failure in backend service,2026-06-19
+900546,50204,EMP112,Siddharth Kumar,2026-02-19,0.5,Implemented changes for PROJ-140 - implement payment processing for backend service,2026-02-20
+900547,50204,EMP112,Siddharth Kumar,2026-02-10,0.5,Design discussion on PROJ-140 - implement payment processing for backend service,2026-02-11
+900548,50204,EMP112,Siddharth Kumar,2026-02-19,1.0,Developed PROJ-140 - implement payment processing for backend service,2026-02-19
+900549,50205,EMP111,Kavya Pillai,2026-05-09,4.0,Configured settings for CRM-144 - configure notifications for data warehouse,2026-05-11
+900550,50205,EMP111,Kavya Pillai,2026-05-05,2.5,Validated CRM-144 - configure notifications for data warehouse,2026-05-05
+900551,50206,EMP119,Isha Kapoor,2026-03-02,5.0,Developed OPS-139 - enable payment processing on web portal,2026-03-02
+900552,50206,EMP101,Priya Nair,2026-03-01,8.0,Wrote unit tests for OPS-139 - enable payment processing on web portal,2026-03-01
+900553,50207,EMP114,Aditya Mishra,2026-10-04,8.0,Worked on DATA-144 - configure caching for etl pipeline,2026-10-04
+900554,50207,EMP100,Aarav Sharma,2026-10-06,1.5,Worked on DATA-144 - configure caching for etl pipeline,2026-10-06
+900555,50207,EMP100,Aarav Sharma,2026-10-03,3.0,Validated DATA-144 - configure caching for etl pipeline,2026-10-04
+900556,50208,EMP110,Rohan Das,2026-07-07,5.0,Code review for DATA-145 - implement dashboard for admin console,2026-07-07
+900557,50208,EMP119,Isha Kapoor,2026-07-10,8.0,Developed DATA-145 - implement dashboard for admin console,2026-07-10
+900558,50208,EMP119,Isha Kapoor,2026-07-17,4.0,Code review for DATA-145 - implement dashboard for admin console,2026-07-17
+900559,50208,EMP119,Isha Kapoor,2026-07-11,8.0,Design discussion on DATA-145 - implement dashboard for admin console,2026-07-11
+900560,50209,EMP101,Priya Nair,2026-09-20,4.0,Design discussion on PROJ-141 - enable search on admin console,2026-09-22
+900561,50209,EMP100,Aarav Sharma,2026-10-07,2.0,Implemented changes for PROJ-141 - enable search on admin console,2026-10-08
+900562,50209,EMP100,Aarav Sharma,2026-10-03,3.0,Code review for PROJ-141 - enable search on admin console,2026-10-06
+900563,50209,EMP100,Aarav Sharma,2026-09-29,6.0,Wrote unit tests for PROJ-141 - enable search on admin console,2026-09-29
+900564,50210,EMP101,Priya Nair,2026-07-18,5.0,Progress review of CRM-145 - deliver notifications across web portal,2026-07-19
+900565,50210,EMP101,Priya Nair,2026-07-15,3.0,Planning and breakdown for CRM-145 - deliver notifications across web portal,2026-07-16
+900566,50210,EMP101,Priya Nair,2026-07-08,5.0,Stakeholder sync on CRM-145 - deliver notifications across web portal,2026-07-10
+900567,50210,EMP101,Priya Nair,2026-07-26,1.5,Progress review of CRM-145 - deliver notifications across web portal,2026-07-27
+900568,50210,EMP101,Priya Nair,2026-07-17,2.5,Progress review of CRM-145 - deliver notifications across web portal,2026-07-18
+900569,50210,EMP101,Priya Nair,2026-07-29,3.0,Planning and breakdown for CRM-145 - deliver notifications across web portal,2026-07-31
+900570,50210,EMP118,Nikhil Bose,2026-07-10,2.5,Progress review of CRM-145 - deliver notifications across web portal,2026-07-10
+900571,50212,EMP104,Vikram Iyer,2026-10-03,1.0,Regression testing for PROJ-142 - web portal crashes when using notifications,2026-10-04
+900572,50212,EMP104,Vikram Iyer,2026-09-14,2.5,Investigated root cause of PROJ-142 - web portal crashes when using notifications,2026-09-14
+900573,50212,EMP104,Vikram Iyer,2026-09-29,0.5,Applied fix for PROJ-142 - web portal crashes when using notifications,2026-09-29
+900574,50213,EMP113,Neha Singh,2026-06-26,2.5,Worked on PROJ-143 - update documentation for web portal,2026-06-28
+900575,50213,EMP113,Neha Singh,2026-06-17,8.0,Worked on PROJ-143 - update documentation for web portal,2026-06-20
+900576,50213,EMP113,Neha Singh,2026-07-05,0.5,Configured settings for PROJ-143 - update documentation for web portal,2026-07-06
+900577,50213,EMP113,Neha Singh,2026-06-14,0.5,Configured settings for PROJ-143 - update documentation for web portal,2026-06-15
+900578,50213,EMP113,Neha Singh,2026-06-15,4.0,Updated docs for PROJ-143 - update documentation for web portal,2026-06-16
+900579,50214,EMP115,Pooja Krishnan,2026-07-24,1.0,Updated docs for DATA-146 - refactor etl pipeline audit logging module,2026-07-25
+900580,50214,EMP115,Pooja Krishnan,2026-07-25,5.0,Worked on DATA-146 - refactor etl pipeline audit logging module,2026-07-25
+900581,50215,EMP118,Nikhil Bose,2026-10-23,0.5,Stakeholder sync on MOB-141 - web portal dashboard initiative,2026-10-26
+900582,50216,EMP110,Rohan Das,2026-02-26,1.5,Progress review of CRM-147 - etl pipeline role-based access initiative,2026-02-26
+900583,50216,EMP110,Rohan Das,2026-02-28,3.0,Stakeholder sync on CRM-147 - etl pipeline role-based access initiative,2026-02-28
+900584,50216,EMP110,Rohan Das,2026-03-19,6.0,Planning and breakdown for CRM-147 - etl pipeline role-based access initiative,2026-03-19
+900585,50217,EMP118,Nikhil Bose,2026-07-14,8.0,Updated docs for CRM-148 - update documentation for mobile app,2026-07-14
+900586,50217,EMP115,Pooja Krishnan,2026-06-25,2.5,Validated CRM-148 - update documentation for mobile app,2026-06-26
+900587,50217,EMP110,Rohan Das,2026-07-16,2.5,Configured settings for CRM-148 - update documentation for mobile app,2026-07-16
+900588,50218,EMP109,Divya Menon,2026-03-30,3.0,Applied fix for MOB-142 - incorrect reporting results in backend service,2026-03-30
+900589,50218,EMP107,Meera Joshi,2026-03-25,1.0,Investigated root cause of MOB-142 - incorrect reporting results in backend service,2026-03-26
+900590,50218,EMP109,Divya Menon,2026-03-07,6.0,Applied fix for MOB-142 - incorrect reporting results in backend service,2026-03-07
+900591,50219,EMP112,Siddharth Kumar,2026-06-29,3.0,Implemented changes for PROJ-144 - enable role-based access on mobile app,2026-07-01
+900592,50219,EMP105,Ananya Gupta,2026-06-27,2.0,Wrote unit tests for PROJ-144 - enable role-based access on mobile app,2026-06-27
+900593,50219,EMP115,Pooja Krishnan,2026-06-28,3.0,Wrote unit tests for PROJ-144 - enable role-based access on mobile app,2026-06-29
+900594,50219,EMP112,Siddharth Kumar,2026-06-29,0.5,Developed PROJ-144 - enable role-based access on mobile app,2026-06-30
+900595,50220,EMP116,Manish Agarwal,2026-09-10,4.0,Code review for PROJ-145 - enable reporting on data warehouse,2026-09-11
+900596,50220,EMP116,Manish Agarwal,2026-09-18,4.0,Implemented changes for PROJ-145 - enable reporting on data warehouse,2026-09-18
+900597,50220,EMP116,Manish Agarwal,2026-09-09,4.0,Implemented changes for PROJ-145 - enable reporting on data warehouse,2026-09-09
+900598,50221,EMP119,Isha Kapoor,2026-06-09,2.5,Stakeholder sync on CRM-149 - deliver dashboard across data warehouse,2026-06-10
+900599,50221,EMP115,Pooja Krishnan,2026-06-07,1.5,Stakeholder sync on CRM-149 - deliver dashboard across data warehouse,2026-06-10
+900600,50221,EMP108,Arjun Patel,2026-06-06,2.5,Planning and breakdown for CRM-149 - deliver dashboard across data warehouse,2026-06-07
+900601,50221,EMP119,Isha Kapoor,2026-06-11,2.0,Planning and breakdown for CRM-149 - deliver dashboard across data warehouse,2026-06-13
+900602,50221,EMP119,Isha Kapoor,2026-06-13,5.0,Planning and breakdown for CRM-149 - deliver dashboard across data warehouse,2026-06-13
+900603,50221,EMP119,Isha Kapoor,2026-06-07,3.0,Planning and breakdown for CRM-149 - deliver dashboard across data warehouse,2026-06-09
+900604,50223,EMP118,Nikhil Bose,2026-06-08,2.5,Worked on OPS-140 - refactor etl pipeline audit logging module,2026-06-11
+900605,50223,EMP104,Vikram Iyer,2026-05-31,2.5,Configured settings for OPS-140 - refactor etl pipeline audit logging module,2026-05-31
+900606,50224,EMP109,Divya Menon,2026-06-05,5.0,Regression testing for DATA-148 - incorrect notifications results in web portal,2026-06-06
+900607,50224,EMP109,Divya Menon,2026-06-07,4.0,Reproduced issue: DATA-148 - incorrect notifications results in web portal,2026-06-08
+900608,50224,EMP101,Priya Nair,2026-06-06,0.5,Investigated root cause of DATA-148 - incorrect notifications results in web portal,2026-06-06
+900609,50225,EMP116,Manish Agarwal,2026-07-26,1.0,Developed DATA-149 - implement file upload for etl pipeline,2026-07-26
+900610,50225,EMP116,Manish Agarwal,2026-07-29,1.0,Developed DATA-149 - implement file upload for etl pipeline,2026-07-29
+900611,50226,EMP116,Manish Agarwal,2026-04-21,2.0,Configured settings for CRM-150 - refactor admin console payment processing module,2026-04-21
+900612,50226,EMP107,Meera Joshi,2026-04-23,1.0,Updated docs for CRM-150 - refactor admin console payment processing module,2026-04-23
+900613,50227,EMP102,Rahul Verma,2026-03-29,2.0,Worked on PROJ-146 - configure reporting for backend service,2026-04-01
+900614,50227,EMP113,Neha Singh,2026-03-28,2.5,Worked on PROJ-146 - configure reporting for backend service,2026-03-28
+900615,50228,EMP109,Divya Menon,2026-02-14,6.0,Reproduced issue: OPS-141 - admin console crashes when using payment processing,2026-02-14
+900616,50229,EMP107,Meera Joshi,2026-07-30,5.0,"Design discussion on MOB-143 - as a user, i want audit logging in backend service",2026-07-30
+900617,50229,EMP107,Meera Joshi,2026-07-18,2.5,"Wrote unit tests for MOB-143 - as a user, i want audit logging in backend service",2026-07-19
+900618,50229,EMP107,Meera Joshi,2026-07-25,1.5,"Wrote unit tests for MOB-143 - as a user, i want audit logging in backend service",2026-07-25
+900619,50230,EMP104,Vikram Iyer,2026-06-18,6.0,Stakeholder sync on CRM-151 - mobile app payment processing initiative,2026-06-18
+900620,50230,EMP107,Meera Joshi,2026-06-24,2.0,Progress review of CRM-151 - mobile app payment processing initiative,2026-06-27
+900621,50230,EMP107,Meera Joshi,2026-06-18,0.5,Stakeholder sync on CRM-151 - mobile app payment processing initiative,2026-06-20
+900622,50230,EMP107,Meera Joshi,2026-06-23,5.0,Progress review of CRM-151 - mobile app payment processing initiative,2026-06-24
+900623,50230,EMP107,Meera Joshi,2026-06-25,0.5,Stakeholder sync on CRM-151 - mobile app payment processing initiative,2026-06-28
+900624,50230,EMP107,Meera Joshi,2026-06-25,8.0,Progress review of CRM-151 - mobile app payment processing initiative,2026-06-25
+900625,50230,EMP107,Meera Joshi,2026-06-24,1.0,Stakeholder sync on CRM-151 - mobile app payment processing initiative,2026-06-24
+900626,50231,EMP115,Pooja Krishnan,2026-06-23,6.0,Implemented changes for CRM-152 - implement dashboard for etl pipeline,2026-06-23
+900627,50232,EMP117,Lakshmi Suresh,2026-04-01,5.0,Code review for DATA-150 - enable audit logging on web portal,2026-04-03
+900628,50232,EMP117,Lakshmi Suresh,2026-04-08,1.5,Developed DATA-150 - enable audit logging on web portal,2026-04-08
+900629,50232,EMP116,Manish Agarwal,2026-04-04,6.0,Implemented changes for DATA-150 - enable audit logging on web portal,2026-04-04
+900630,50233,EMP112,Siddharth Kumar,2026-06-17,5.0,Configured settings for CRM-153 - update documentation for data warehouse,2026-06-17
+900631,50233,EMP112,Siddharth Kumar,2026-06-15,3.0,Validated CRM-153 - update documentation for data warehouse,2026-06-15
+900632,50233,EMP112,Siddharth Kumar,2026-06-17,4.0,Worked on CRM-153 - update documentation for data warehouse,2026-06-18
+900633,50235,EMP116,Manish Agarwal,2026-03-28,1.0,Code review for DATA-151 - enable reporting on backend service,2026-03-28
+900634,50235,EMP104,Vikram Iyer,2026-04-02,5.0,Wrote unit tests for DATA-151 - enable reporting on backend service,2026-04-03
+900635,50235,EMP104,Vikram Iyer,2026-03-24,1.5,Developed DATA-151 - enable reporting on backend service,2026-03-25
+900636,50237,EMP102,Rahul Verma,2026-03-11,6.0,Reproduced issue: OPS-142 - web portal crashes when using audit logging,2026-03-12
+900637,50237,EMP108,Arjun Patel,2026-02-25,0.5,Reproduced issue: OPS-142 - web portal crashes when using audit logging,2026-02-25
+900638,50238,EMP102,Rahul Verma,2026-06-26,2.5,"Code review for OPS-143 - as a user, i want api integration in data warehouse",2026-06-27
+900639,50238,EMP102,Rahul Verma,2026-06-26,1.0,"Design discussion on OPS-143 - as a user, i want api integration in data warehouse",2026-06-27
+900640,50239,EMP108,Arjun Patel,2026-06-25,4.0,Updated docs for CRM-154 - refactor etl pipeline notifications module,2026-06-25
+900641,50239,EMP108,Arjun Patel,2026-07-04,5.0,Validated CRM-154 - refactor etl pipeline notifications module,2026-07-06
+900642,50239,EMP108,Arjun Patel,2026-07-15,4.0,Validated CRM-154 - refactor etl pipeline notifications module,2026-07-16
+900643,50241,EMP117,Lakshmi Suresh,2026-08-05,1.5,Configured settings for OPS-144 - update documentation for mobile app,2026-08-06
+900644,50241,EMP118,Nikhil Bose,2026-08-04,2.0,Updated docs for OPS-144 - update documentation for mobile app,2026-08-04
+900645,50241,EMP102,Rahul Verma,2026-08-07,6.0,Validated OPS-144 - update documentation for mobile app,2026-08-07
+900646,50242,EMP100,Aarav Sharma,2026-04-07,5.0,Validated OPS-145 - configure notifications for data warehouse,2026-04-07
+900647,50242,EMP105,Ananya Gupta,2026-04-12,5.0,Configured settings for OPS-145 - configure notifications for data warehouse,2026-04-12
+900648,50243,EMP111,Kavya Pillai,2026-10-12,0.5,Configured settings for MOB-145 - configure login flow for etl pipeline,2026-10-12
+900649,50244,EMP108,Arjun Patel,2026-07-17,2.5,Reproduced issue: MOB-146 - fix reporting failure in admin console,2026-07-19
+900650,50244,EMP108,Arjun Patel,2026-07-30,2.0,Investigated root cause of MOB-146 - fix reporting failure in admin console,2026-07-30
+900651,50245,EMP103,Sneha Reddy,2026-01-23,2.0,Design discussion on CRM-155 - enable role-based access on data warehouse,2026-01-23
+900652,50245,EMP111,Kavya Pillai,2026-02-03,3.0,Wrote unit tests for CRM-155 - enable role-based access on data warehouse,2026-02-04
+900653,50245,EMP117,Lakshmi Suresh,2026-01-30,8.0,Implemented changes for CRM-155 - enable role-based access on data warehouse,2026-01-31
+900654,50246,EMP104,Vikram Iyer,2026-03-24,6.0,Investigated root cause of OPS-146 - incorrect caching results in backend service,2026-03-24
+900655,50246,EMP103,Sneha Reddy,2026-03-21,1.0,Reproduced issue: OPS-146 - incorrect caching results in backend service,2026-03-21
+900656,50246,EMP103,Sneha Reddy,2026-03-23,6.0,Regression testing for OPS-146 - incorrect caching results in backend service,2026-03-23
+900657,50248,EMP114,Aditya Mishra,2026-05-03,6.0,Code review for DATA-153 - implement role-based access for data warehouse,2026-05-04
+900658,50248,EMP114,Aditya Mishra,2026-04-29,6.0,Code review for DATA-153 - implement role-based access for data warehouse,2026-04-29
+900659,50249,EMP112,Siddharth Kumar,2026-04-27,3.0,Configured settings for DATA-154 - configure notifications for web portal,2026-04-27
+900660,50249,EMP112,Siddharth Kumar,2026-04-21,0.5,Worked on DATA-154 - configure notifications for web portal,2026-04-22
+900661,50250,EMP110,Rohan Das,2026-08-13,5.0,Code review for PROJ-148 - implement payment processing for admin console,2026-08-13
+900662,50250,EMP115,Pooja Krishnan,2026-08-14,8.0,Design discussion on PROJ-148 - implement payment processing for admin console,2026-08-15
+900663,50250,EMP115,Pooja Krishnan,2026-08-18,2.0,Developed PROJ-148 - implement payment processing for admin console,2026-08-18
+900664,50250,EMP115,Pooja Krishnan,2026-08-19,0.5,Implemented changes for PROJ-148 - implement payment processing for admin console,2026-08-20
+900665,50251,EMP115,Pooja Krishnan,2026-09-08,6.0,"Implemented changes for OPS-148 - as a user, i want caching in mobile app",2026-09-08
+900666,50252,EMP100,Aarav Sharma,2026-06-19,6.0,Applied fix for OPS-149 - incorrect audit logging results in mobile app,2026-06-20
+900667,50252,EMP100,Aarav Sharma,2026-06-18,5.0,Investigated root cause of OPS-149 - incorrect audit logging results in mobile app,2026-06-18
+900668,50252,EMP100,Aarav Sharma,2026-06-16,4.0,Applied fix for OPS-149 - incorrect audit logging results in mobile app,2026-06-19
+900669,50252,EMP100,Aarav Sharma,2026-06-19,5.0,Regression testing for OPS-149 - incorrect audit logging results in mobile app,2026-06-20
+900670,50254,EMP104,Vikram Iyer,2026-04-25,5.0,Updated docs for PROJ-149 - configure file upload for mobile app,2026-04-25
+900671,50256,EMP114,Aditya Mishra,2026-04-23,2.5,Stakeholder sync on CRM-157 - deliver data export across etl pipeline,2026-04-23
+900672,50256,EMP114,Aditya Mishra,2026-04-27,2.0,Stakeholder sync on CRM-157 - deliver data export across etl pipeline,2026-04-27
+900673,50256,EMP110,Rohan Das,2026-05-08,2.5,Planning and breakdown for CRM-157 - deliver data export across etl pipeline,2026-05-08
+900674,50256,EMP114,Aditya Mishra,2026-04-19,1.5,Progress review of CRM-157 - deliver data export across etl pipeline,2026-04-19
+900675,50256,EMP114,Aditya Mishra,2026-05-05,1.0,Planning and breakdown for CRM-157 - deliver data export across etl pipeline,2026-05-06
+900676,50256,EMP103,Sneha Reddy,2026-04-27,6.0,Progress review of CRM-157 - deliver data export across etl pipeline,2026-04-30
+900677,50256,EMP114,Aditya Mishra,2026-05-15,5.0,Planning and breakdown for CRM-157 - deliver data export across etl pipeline,2026-05-15
+900678,50256,EMP114,Aditya Mishra,2026-05-01,8.0,Progress review of CRM-157 - deliver data export across etl pipeline,2026-05-03
+900679,50257,EMP102,Rahul Verma,2026-08-07,2.5,Implemented changes for DATA-155 - enable caching on backend service,2026-08-07
+900680,50257,EMP102,Rahul Verma,2026-08-14,8.0,Developed DATA-155 - enable caching on backend service,2026-08-14
+900681,50257,EMP111,Kavya Pillai,2026-08-07,2.5,Developed DATA-155 - enable caching on backend service,2026-08-09
+900682,50258,EMP107,Meera Joshi,2026-11-09,3.0,"Code review for MOB-147 - as a user, i want data export in data warehouse",2026-11-09
+900683,50258,EMP107,Meera Joshi,2026-11-04,6.0,"Wrote unit tests for MOB-147 - as a user, i want data export in data warehouse",2026-11-05
+900684,50259,EMP108,Arjun Patel,2026-08-22,8.0,Wrote unit tests for OPS-151 - enable payment processing on backend service,2026-08-23
+900685,50259,EMP108,Arjun Patel,2026-08-20,8.0,Developed OPS-151 - enable payment processing on backend service,2026-08-20
+900686,50259,EMP108,Arjun Patel,2026-08-23,3.0,Developed OPS-151 - enable payment processing on backend service,2026-08-23
+900687,50260,EMP112,Siddharth Kumar,2026-06-25,1.0,Reproduced issue: PROJ-150 - fix audit logging failure in etl pipeline,2026-06-25
+900688,50260,EMP112,Siddharth Kumar,2026-07-15,2.5,Investigated root cause of PROJ-150 - fix audit logging failure in etl pipeline,2026-07-15
+900689,50260,EMP112,Siddharth Kumar,2026-06-30,5.0,Reproduced issue: PROJ-150 - fix audit logging failure in etl pipeline,2026-06-30
+900690,50262,EMP107,Meera Joshi,2026-03-22,6.0,Investigated root cause of DATA-156 - fix api integration failure in mobile app,2026-03-22
+900691,50264,EMP109,Divya Menon,2026-05-04,1.5,Implemented changes for OPS-153 - implement file upload for web portal,2026-05-04
+900692,50264,EMP114,Aditya Mishra,2026-05-09,1.0,Developed OPS-153 - implement file upload for web portal,2026-05-09
+900693,50264,EMP114,Aditya Mishra,2026-04-23,8.0,Implemented changes for OPS-153 - implement file upload for web portal,2026-04-23
+900694,50264,EMP114,Aditya Mishra,2026-04-29,1.5,Implemented changes for OPS-153 - implement file upload for web portal,2026-04-29
+900695,50265,EMP113,Neha Singh,2026-07-26,1.0,Reproduced issue: MOB-148 - mobile app crashes when using caching,2026-07-27
+900696,50265,EMP105,Ananya Gupta,2026-07-17,8.0,Applied fix for MOB-148 - mobile app crashes when using caching,2026-07-17
+900697,50266,EMP117,Lakshmi Suresh,2026-04-03,0.5,Applied fix for DATA-157 - fix caching failure in mobile app,2026-04-04
+900698,50266,EMP117,Lakshmi Suresh,2026-03-27,0.5,Applied fix for DATA-157 - fix caching failure in mobile app,2026-03-30
+900699,50267,EMP105,Ananya Gupta,2026-02-28,3.0,Worked on PROJ-151 - update documentation for backend service,2026-03-01
+900700,50267,EMP114,Aditya Mishra,2026-02-28,4.0,Validated PROJ-151 - update documentation for backend service,2026-02-28
+900701,50267,EMP105,Ananya Gupta,2026-03-02,6.0,Configured settings for PROJ-151 - update documentation for backend service,2026-03-02
+900702,50267,EMP105,Ananya Gupta,2026-03-06,2.0,Configured settings for PROJ-151 - update documentation for backend service,2026-03-07
+900703,50268,EMP106,Karthik Rao,2026-06-01,5.0,Planning and breakdown for OPS-154 - etl pipeline payment processing initiative,2026-06-04
+900704,50268,EMP106,Karthik Rao,2026-06-09,8.0,Progress review of OPS-154 - etl pipeline payment processing initiative,2026-06-11
+900705,50270,EMP111,Kavya Pillai,2026-04-05,1.0,"Code review for CRM-159 - as a user, i want reporting in data warehouse",2026-04-06
+900706,50270,EMP111,Kavya Pillai,2026-04-07,5.0,"Implemented changes for CRM-159 - as a user, i want reporting in data warehouse",2026-04-08
+900707,50270,EMP111,Kavya Pillai,2026-04-04,5.0,"Design discussion on CRM-159 - as a user, i want reporting in data warehouse",2026-04-06
+900708,50270,EMP111,Kavya Pillai,2026-04-06,6.0,"Code review for CRM-159 - as a user, i want reporting in data warehouse",2026-04-07
+900709,50270,EMP111,Kavya Pillai,2026-04-09,1.0,"Developed CRM-159 - as a user, i want reporting in data warehouse",2026-04-09
+900710,50270,EMP108,Arjun Patel,2026-04-03,8.0,"Wrote unit tests for CRM-159 - as a user, i want reporting in data warehouse",2026-04-03
+900711,50270,EMP111,Kavya Pillai,2026-04-07,0.5,"Wrote unit tests for CRM-159 - as a user, i want reporting in data warehouse",2026-04-07
+900712,50273,EMP108,Arjun Patel,2026-11-07,4.0,Validated OPS-155 - refactor mobile app role-based access module,2026-11-07
+900713,50273,EMP107,Meera Joshi,2026-10-28,3.0,Validated OPS-155 - refactor mobile app role-based access module,2026-10-29
+900714,50273,EMP108,Arjun Patel,2026-10-08,8.0,Worked on OPS-155 - refactor mobile app role-based access module,2026-10-08
+900715,50273,EMP115,Pooja Krishnan,2026-10-21,2.5,Validated OPS-155 - refactor mobile app role-based access module,2026-10-21
+900716,50273,EMP108,Arjun Patel,2026-10-25,3.0,Validated OPS-155 - refactor mobile app role-based access module,2026-10-25
+900717,50274,EMP107,Meera Joshi,2026-08-06,2.5,Applied fix for OPS-156 - backend service crashes when using role-based access,2026-08-06
+900718,50275,EMP100,Aarav Sharma,2026-01-25,1.0,Implemented changes for MOB-149 - implement dashboard for admin console,2026-01-26
+900719,50275,EMP100,Aarav Sharma,2026-01-09,1.5,Wrote unit tests for MOB-149 - implement dashboard for admin console,2026-01-09
+900720,50275,EMP100,Aarav Sharma,2026-01-12,2.0,Code review for MOB-149 - implement dashboard for admin console,2026-01-12
+900721,50275,EMP119,Isha Kapoor,2026-01-20,3.0,Design discussion on MOB-149 - implement dashboard for admin console,2026-01-20
+900722,50276,EMP102,Rahul Verma,2026-06-03,0.5,Developed MOB-150 - enable audit logging on mobile app,2026-06-03
+900723,50276,EMP103,Sneha Reddy,2026-06-08,2.5,Code review for MOB-150 - enable audit logging on mobile app,2026-06-08
+900724,50276,EMP102,Rahul Verma,2026-06-28,6.0,Wrote unit tests for MOB-150 - enable audit logging on mobile app,2026-06-29
+900725,50278,EMP100,Aarav Sharma,2026-09-15,3.0,Validated CRM-161 - configure search for mobile app,2026-09-15
+900726,50278,EMP100,Aarav Sharma,2026-09-18,4.0,Worked on CRM-161 - configure search for mobile app,2026-09-18
+900727,50278,EMP115,Pooja Krishnan,2026-09-21,0.5,Worked on CRM-161 - configure search for mobile app,2026-09-21
+900728,50279,EMP103,Sneha Reddy,2026-10-18,2.5,Design discussion on PROJ-152 - implement dashboard for data warehouse,2026-10-18
+900729,50280,EMP101,Priya Nair,2026-10-27,3.0,Validated DATA-160 - configure role-based access for etl pipeline,2026-10-27
+900730,50281,EMP103,Sneha Reddy,2026-04-30,1.5,Applied fix for OPS-158 - etl pipeline crashes when using role-based access,2026-05-02
+900731,50281,EMP103,Sneha Reddy,2026-04-25,4.0,Applied fix for OPS-158 - etl pipeline crashes when using role-based access,2026-04-25
+900732,50282,EMP107,Meera Joshi,2026-09-13,2.0,Code review for CRM-162 - enable login flow on admin console,2026-09-14
+900733,50282,EMP107,Meera Joshi,2026-09-05,4.0,Developed CRM-162 - enable login flow on admin console,2026-09-05
+900734,50282,EMP112,Siddharth Kumar,2026-09-20,3.0,Code review for CRM-162 - enable login flow on admin console,2026-09-23
+900735,50282,EMP107,Meera Joshi,2026-09-23,0.5,Design discussion on CRM-162 - enable login flow on admin console,2026-09-23
+900736,50283,EMP106,Karthik Rao,2026-05-20,0.5,Configured settings for MOB-151 - update documentation for mobile app,2026-05-21
+900737,50283,EMP104,Vikram Iyer,2026-05-20,2.5,Worked on MOB-151 - update documentation for mobile app,2026-05-20
+900738,50284,EMP115,Pooja Krishnan,2026-10-06,3.0,Implemented changes for PROJ-153 - enable reporting on backend service,2026-10-07
+900739,50284,EMP115,Pooja Krishnan,2026-10-12,3.0,Wrote unit tests for PROJ-153 - enable reporting on backend service,2026-10-12
+900740,50284,EMP115,Pooja Krishnan,2026-09-28,3.0,Wrote unit tests for PROJ-153 - enable reporting on backend service,2026-09-28
+900741,50284,EMP115,Pooja Krishnan,2026-10-12,2.0,Design discussion on PROJ-153 - enable reporting on backend service,2026-10-12
+900742,50286,EMP119,Isha Kapoor,2026-10-17,2.5,Regression testing for MOB-152 - fix api integration failure in etl pipeline,2026-10-17
+900743,50288,EMP118,Nikhil Bose,2026-02-11,3.0,Wrote unit tests for OPS-160 - implement login flow for backend service,2026-02-11
+900744,50288,EMP118,Nikhil Bose,2026-02-14,1.0,Code review for OPS-160 - implement login flow for backend service,2026-02-16
+900745,50288,EMP118,Nikhil Bose,2026-02-10,8.0,Code review for OPS-160 - implement login flow for backend service,2026-02-10
+900746,50288,EMP118,Nikhil Bose,2026-02-15,2.0,Developed OPS-160 - implement login flow for backend service,2026-02-15
+900747,50288,EMP103,Sneha Reddy,2026-02-22,4.0,Developed OPS-160 - implement login flow for backend service,2026-02-23
+900748,50288,EMP105,Ananya Gupta,2026-02-20,1.0,Wrote unit tests for OPS-160 - implement login flow for backend service,2026-02-20
+900749,50288,EMP118,Nikhil Bose,2026-02-22,3.0,Wrote unit tests for OPS-160 - implement login flow for backend service,2026-02-23
+900750,50289,EMP108,Arjun Patel,2026-06-30,1.5,Configured settings for OPS-161 - configure login flow for etl pipeline,2026-06-30
+900751,50289,EMP108,Arjun Patel,2026-07-12,2.5,Configured settings for OPS-161 - configure login flow for etl pipeline,2026-07-12
+900752,50289,EMP108,Arjun Patel,2026-06-13,1.0,Worked on OPS-161 - configure login flow for etl pipeline,2026-06-15
+900753,50289,EMP107,Meera Joshi,2026-07-06,8.0,Updated docs for OPS-161 - configure login flow for etl pipeline,2026-07-06
+900754,50291,EMP117,Lakshmi Suresh,2026-04-21,2.0,Implemented changes for DATA-162 - enable reporting on backend service,2026-04-21
+900755,50291,EMP117,Lakshmi Suresh,2026-04-23,0.5,Wrote unit tests for DATA-162 - enable reporting on backend service,2026-04-23
+900756,50291,EMP104,Vikram Iyer,2026-04-15,4.0,Design discussion on DATA-162 - enable reporting on backend service,2026-04-16
+900757,50291,EMP102,Rahul Verma,2026-04-19,6.0,Code review for DATA-162 - enable reporting on backend service,2026-04-20
+900758,50292,EMP117,Lakshmi Suresh,2026-05-22,3.0,Investigated root cause of OPS-162 - incorrect caching results in admin console,2026-05-22
+900759,50292,EMP117,Lakshmi Suresh,2026-06-06,1.0,Reproduced issue: OPS-162 - incorrect caching results in admin console,2026-06-06
+900760,50292,EMP117,Lakshmi Suresh,2026-05-29,1.5,Regression testing for OPS-162 - incorrect caching results in admin console,2026-05-30
+900761,50293,EMP107,Meera Joshi,2026-06-02,8.0,Worked on MOB-153 - refactor web portal api integration module,2026-06-02
+900762,50293,EMP107,Meera Joshi,2026-06-02,2.0,Updated docs for MOB-153 - refactor web portal api integration module,2026-06-02
+900763,50294,EMP110,Rohan Das,2026-11-08,2.0,"Design discussion on DATA-163 - as a user, i want search in admin console",2026-11-08
+900764,50294,EMP108,Arjun Patel,2026-10-29,8.0,"Design discussion on DATA-163 - as a user, i want search in admin console",2026-10-29
+900765,50294,EMP108,Arjun Patel,2026-10-30,0.5,"Design discussion on DATA-163 - as a user, i want search in admin console",2026-10-31
+900766,50294,EMP108,Arjun Patel,2026-11-03,2.5,"Developed DATA-163 - as a user, i want search in admin console",2026-11-03
+900767,50294,EMP108,Arjun Patel,2026-11-04,8.0,"Wrote unit tests for DATA-163 - as a user, i want search in admin console",2026-11-04
+900768,50294,EMP108,Arjun Patel,2026-10-24,6.0,"Code review for DATA-163 - as a user, i want search in admin console",2026-10-25
+900769,50294,EMP108,Arjun Patel,2026-10-31,5.0,"Design discussion on DATA-163 - as a user, i want search in admin console",2026-10-31
+900770,50295,EMP101,Priya Nair,2026-07-16,8.0,Regression testing for MOB-154 - fix caching failure in web portal,2026-07-18
+900771,50296,EMP116,Manish Agarwal,2026-03-28,1.5,Updated docs for MOB-155 - refactor admin console api integration module,2026-03-28
+900772,50296,EMP116,Manish Agarwal,2026-03-24,6.0,Worked on MOB-155 - refactor admin console api integration module,2026-03-25
+900773,50297,EMP109,Divya Menon,2026-02-17,2.0,Updated docs for CRM-163 - update documentation for mobile app,2026-02-18
+900774,50297,EMP109,Divya Menon,2026-02-16,8.0,Worked on CRM-163 - update documentation for mobile app,2026-02-18
+900775,50297,EMP109,Divya Menon,2026-02-17,6.0,Updated docs for CRM-163 - update documentation for mobile app,2026-02-17
+900776,50298,EMP106,Karthik Rao,2026-04-25,3.0,Code review for OPS-163 - enable caching on etl pipeline,2026-04-25
+900777,50298,EMP106,Karthik Rao,2026-04-17,3.0,Wrote unit tests for OPS-163 - enable caching on etl pipeline,2026-04-18
+900778,50298,EMP114,Aditya Mishra,2026-04-21,1.5,Code review for OPS-163 - enable caching on etl pipeline,2026-04-21
+900779,50298,EMP106,Karthik Rao,2026-05-15,1.0,Code review for OPS-163 - enable caching on etl pipeline,2026-05-15
+900780,50299,EMP111,Kavya Pillai,2026-01-21,6.0,"Design discussion on CRM-164 - as a user, i want data export in backend service",2026-01-22
+900781,50299,EMP111,Kavya Pillai,2026-01-29,2.5,"Developed CRM-164 - as a user, i want data export in backend service",2026-01-29
+900782,50299,EMP106,Karthik Rao,2026-01-25,6.0,"Wrote unit tests for CRM-164 - as a user, i want data export in backend service",2026-01-27
+900783,50300,EMP111,Kavya Pillai,2026-02-03,4.0,Applied fix for DATA-164 - fix file upload failure in web portal,2026-02-04
+900784,50300,EMP111,Kavya Pillai,2026-02-02,8.0,Regression testing for DATA-164 - fix file upload failure in web portal,2026-02-02
+900785,50300,EMP111,Kavya Pillai,2026-02-02,0.5,Applied fix for DATA-164 - fix file upload failure in web portal,2026-02-02
+900786,50301,EMP110,Rohan Das,2026-10-26,5.0,Regression testing for CRM-165 - incorrect api integration results in mobile app,2026-10-26
+900787,50302,EMP118,Nikhil Bose,2026-02-10,4.0,Worked on CRM-166 - configure login flow for backend service,2026-02-12
+900788,50302,EMP118,Nikhil Bose,2026-02-08,5.0,Validated CRM-166 - configure login flow for backend service,2026-02-10
+900789,50303,EMP108,Arjun Patel,2026-08-18,8.0,Investigated root cause of CRM-167 - web portal crashes when using search,2026-08-19
+900790,50303,EMP105,Ananya Gupta,2026-08-15,2.0,Regression testing for CRM-167 - web portal crashes when using search,2026-08-16
+900791,50303,EMP108,Arjun Patel,2026-08-20,1.0,Regression testing for CRM-167 - web portal crashes when using search,2026-08-21
+900792,50303,EMP108,Arjun Patel,2026-07-25,2.0,Investigated root cause of CRM-167 - web portal crashes when using search,2026-07-26
+900793,50304,EMP114,Aditya Mishra,2026-05-18,0.5,Configured settings for OPS-164 - configure file upload for web portal,2026-05-19
+900794,50304,EMP114,Aditya Mishra,2026-05-17,0.5,Validated OPS-164 - configure file upload for web portal,2026-05-18
+900795,50304,EMP114,Aditya Mishra,2026-05-18,2.0,Worked on OPS-164 - configure file upload for web portal,2026-05-20
+900796,50304,EMP118,Nikhil Bose,2026-05-24,1.5,Validated OPS-164 - configure file upload for web portal,2026-05-24
+900797,50305,EMP116,Manish Agarwal,2026-07-25,1.0,"Implemented changes for DATA-165 - as a user, i want login flow in etl pipeline",2026-07-26
+900798,50305,EMP116,Manish Agarwal,2026-08-07,6.0,"Code review for DATA-165 - as a user, i want login flow in etl pipeline",2026-08-07
+900799,50305,EMP116,Manish Agarwal,2026-08-03,0.5,"Developed DATA-165 - as a user, i want login flow in etl pipeline",2026-08-05
+900800,50305,EMP117,Lakshmi Suresh,2026-07-24,8.0,"Design discussion on DATA-165 - as a user, i want login flow in etl pipeline",2026-07-24
+900801,50305,EMP116,Manish Agarwal,2026-08-08,0.5,"Design discussion on DATA-165 - as a user, i want login flow in etl pipeline",2026-08-08
+900802,50306,EMP107,Meera Joshi,2026-06-28,6.0,"Implemented changes for CRM-168 - as a user, i want notifications in data warehouse",2026-06-29
+900803,50306,EMP107,Meera Joshi,2026-07-05,5.0,"Implemented changes for CRM-168 - as a user, i want notifications in data warehouse",2026-07-05
+900804,50306,EMP107,Meera Joshi,2026-07-02,4.0,"Developed CRM-168 - as a user, i want notifications in data warehouse",2026-07-03
+900805,50308,EMP108,Arjun Patel,2026-04-20,1.0,Applied fix for CRM-169 - fix data export failure in web portal,2026-04-21
+900806,50309,EMP104,Vikram Iyer,2026-08-01,2.5,Applied fix for CRM-170 - incorrect payment processing results in data warehouse,2026-08-01
+900807,50310,EMP107,Meera Joshi,2026-08-27,0.5,Investigated root cause of CRM-171 - fix data export failure in web portal,2026-08-28
+900808,50310,EMP107,Meera Joshi,2026-08-20,8.0,Applied fix for CRM-171 - fix data export failure in web portal,2026-08-21
+900809,50310,EMP107,Meera Joshi,2026-08-31,8.0,Applied fix for CRM-171 - fix data export failure in web portal,2026-09-03
+900810,50311,EMP118,Nikhil Bose,2026-01-26,0.5,Investigated root cause of OPS-165 - incorrect reporting results in admin console,2026-01-28
+900811,50312,EMP101,Priya Nair,2026-07-06,0.5,"Implemented changes for OPS-166 - as a user, i want dashboard in data warehouse",2026-07-08
+900812,50312,EMP101,Priya Nair,2026-06-18,1.5,"Code review for OPS-166 - as a user, i want dashboard in data warehouse",2026-06-18
+900813,50312,EMP101,Priya Nair,2026-07-06,3.0,"Wrote unit tests for OPS-166 - as a user, i want dashboard in data warehouse",2026-07-06
+900814,50312,EMP101,Priya Nair,2026-06-23,5.0,"Design discussion on OPS-166 - as a user, i want dashboard in data warehouse",2026-06-23
+900815,50312,EMP110,Rohan Das,2026-06-17,0.5,"Wrote unit tests for OPS-166 - as a user, i want dashboard in data warehouse",2026-06-18
+900816,50312,EMP101,Priya Nair,2026-06-19,3.0,"Code review for OPS-166 - as a user, i want dashboard in data warehouse",2026-06-19
+900817,50312,EMP101,Priya Nair,2026-07-03,3.0,"Developed OPS-166 - as a user, i want dashboard in data warehouse",2026-07-04
+900818,50313,EMP102,Rahul Verma,2026-10-21,3.0,Code review for CRM-172 - enable search on mobile app,2026-10-21
+900819,50313,EMP102,Rahul Verma,2026-10-14,1.5,Implemented changes for CRM-172 - enable search on mobile app,2026-10-17
+900820,50314,EMP110,Rohan Das,2026-03-13,4.0,Design discussion on MOB-156 - implement file upload for etl pipeline,2026-03-13
+900821,50314,EMP110,Rohan Das,2026-03-12,2.0,Implemented changes for MOB-156 - implement file upload for etl pipeline,2026-03-12
+900822,50314,EMP110,Rohan Das,2026-02-20,4.0,Developed MOB-156 - implement file upload for etl pipeline,2026-02-21
+900823,50314,EMP105,Ananya Gupta,2026-03-11,1.5,Code review for MOB-156 - implement file upload for etl pipeline,2026-03-11
+900824,50314,EMP110,Rohan Das,2026-02-27,0.5,Developed MOB-156 - implement file upload for etl pipeline,2026-02-27
+900825,50314,EMP110,Rohan Das,2026-02-26,8.0,Design discussion on MOB-156 - implement file upload for etl pipeline,2026-02-27
+900826,50314,EMP110,Rohan Das,2026-02-22,4.0,Code review for MOB-156 - implement file upload for etl pipeline,2026-02-22
+900827,50315,EMP112,Siddharth Kumar,2026-03-23,1.0,Reproduced issue: OPS-167 - incorrect notifications results in backend service,2026-03-23
+900828,50315,EMP112,Siddharth Kumar,2026-03-30,5.0,Reproduced issue: OPS-167 - incorrect notifications results in backend service,2026-03-30
+900829,50316,EMP104,Vikram Iyer,2026-01-17,4.0,Regression testing for PROJ-155 - admin console crashes when using login flow,2026-01-17
+900830,50316,EMP104,Vikram Iyer,2026-01-22,1.0,Regression testing for PROJ-155 - admin console crashes when using login flow,2026-01-22
+900831,50316,EMP104,Vikram Iyer,2026-01-24,2.0,Investigated root cause of PROJ-155 - admin console crashes when using login flow,2026-01-24
+900832,50317,EMP110,Rohan Das,2026-10-16,2.0,Worked on CRM-173 - configure payment processing for web portal,2026-10-17
+900833,50317,EMP105,Ananya Gupta,2026-10-24,8.0,Updated docs for CRM-173 - configure payment processing for web portal,2026-10-25
+900834,50317,EMP102,Rahul Verma,2026-10-14,5.0,Worked on CRM-173 - configure payment processing for web portal,2026-10-14
+900835,50317,EMP101,Priya Nair,2026-10-18,1.0,Configured settings for CRM-173 - configure payment processing for web portal,2026-10-18
+900836,50317,EMP102,Rahul Verma,2026-10-16,1.5,Updated docs for CRM-173 - configure payment processing for web portal,2026-10-16
+900837,50318,EMP119,Isha Kapoor,2026-03-03,2.5,Updated docs for OPS-168 - configure api integration for web portal,2026-03-03
+900838,50318,EMP119,Isha Kapoor,2026-03-09,2.0,Configured settings for OPS-168 - configure api integration for web portal,2026-03-10
+900839,50318,EMP119,Isha Kapoor,2026-03-07,0.5,Configured settings for OPS-168 - configure api integration for web portal,2026-03-09
+900840,50319,EMP112,Siddharth Kumar,2026-10-18,5.0,"Code review for MOB-157 - as a user, i want caching in web portal",2026-10-18
+900841,50319,EMP101,Priya Nair,2026-10-14,3.0,"Implemented changes for MOB-157 - as a user, i want caching in web portal",2026-10-15
+900842,50320,EMP118,Nikhil Bose,2026-06-15,1.0,Regression testing for PROJ-156 - incorrect search results in data warehouse,2026-06-15
+900843,50320,EMP118,Nikhil Bose,2026-06-16,1.0,Regression testing for PROJ-156 - incorrect search results in data warehouse,2026-06-16
+900844,50320,EMP118,Nikhil Bose,2026-06-06,4.0,Regression testing for PROJ-156 - incorrect search results in data warehouse,2026-06-08
+900845,50322,EMP111,Kavya Pillai,2026-04-23,2.0,Stakeholder sync on MOB-158 - mobile app audit logging initiative,2026-04-23
+900846,50322,EMP111,Kavya Pillai,2026-04-19,5.0,Progress review of MOB-158 - mobile app audit logging initiative,2026-04-19
+900847,50324,EMP117,Lakshmi Suresh,2026-02-15,2.0,Applied fix for CRM-175 - incorrect role-based access results in data warehouse,2026-02-15
+900848,50324,EMP117,Lakshmi Suresh,2026-02-12,1.0,Regression testing for CRM-175 - incorrect role-based access results in data warehouse,2026-02-12
+900849,50324,EMP117,Lakshmi Suresh,2026-02-16,1.5,Investigated root cause of CRM-175 - incorrect role-based access results in data warehouse,2026-02-17
+900850,50324,EMP110,Rohan Das,2026-02-05,3.0,Investigated root cause of CRM-175 - incorrect role-based access results in data warehouse,2026-02-05
+900851,50325,EMP108,Arjun Patel,2026-10-20,1.5,Design discussion on DATA-167 - enable api integration on data warehouse,2026-10-20
+900852,50325,EMP108,Arjun Patel,2026-10-25,0.5,Wrote unit tests for DATA-167 - enable api integration on data warehouse,2026-10-26
+900853,50325,EMP108,Arjun Patel,2026-10-06,2.0,Wrote unit tests for DATA-167 - enable api integration on data warehouse,2026-10-06
+900854,50325,EMP108,Arjun Patel,2026-10-09,1.5,Wrote unit tests for DATA-167 - enable api integration on data warehouse,2026-10-10
+900855,50325,EMP110,Rohan Das,2026-10-28,3.0,Implemented changes for DATA-167 - enable api integration on data warehouse,2026-10-28
+900856,50326,EMP115,Pooja Krishnan,2026-05-02,1.0,Regression testing for PROJ-157 - data warehouse crashes when using api integration,2026-05-04
+900857,50326,EMP115,Pooja Krishnan,2026-04-25,1.5,Applied fix for PROJ-157 - data warehouse crashes when using api integration,2026-04-25
+900858,50327,EMP116,Manish Agarwal,2026-10-09,1.0,"Wrote unit tests for CRM-176 - as a user, i want data export in backend service",2026-10-09
+900859,50327,EMP116,Manish Agarwal,2026-10-02,5.0,"Implemented changes for CRM-176 - as a user, i want data export in backend service",2026-10-02
+900860,50328,EMP100,Aarav Sharma,2026-02-21,2.0,Applied fix for PROJ-158 - incorrect login flow results in etl pipeline,2026-02-22
+900861,50328,EMP100,Aarav Sharma,2026-02-21,5.0,Reproduced issue: PROJ-158 - incorrect login flow results in etl pipeline,2026-02-21
+900862,50330,EMP117,Lakshmi Suresh,2026-03-23,0.5,Reproduced issue: DATA-169 - backend service crashes when using reporting,2026-03-23
+900863,50330,EMP117,Lakshmi Suresh,2026-03-25,0.5,Applied fix for DATA-169 - backend service crashes when using reporting,2026-03-26
+900864,50330,EMP117,Lakshmi Suresh,2026-03-26,5.0,Regression testing for DATA-169 - backend service crashes when using reporting,2026-03-27
+900865,50332,EMP114,Aditya Mishra,2026-09-09,1.5,Implemented changes for PROJ-159 - enable notifications on web portal,2026-09-12
+900866,50332,EMP104,Vikram Iyer,2026-09-19,0.5,Implemented changes for PROJ-159 - enable notifications on web portal,2026-09-19
+900867,50332,EMP114,Aditya Mishra,2026-09-06,5.0,Wrote unit tests for PROJ-159 - enable notifications on web portal,2026-09-06
+900868,50333,EMP107,Meera Joshi,2026-09-09,2.5,Regression testing for MOB-160 - fix role-based access failure in web portal,2026-09-12
+900869,50333,EMP110,Rohan Das,2026-09-18,1.0,Investigated root cause of MOB-160 - fix role-based access failure in web portal,2026-09-20
+900870,50333,EMP102,Rahul Verma,2026-09-14,1.5,Applied fix for MOB-160 - fix role-based access failure in web portal,2026-09-15
+900871,50334,EMP112,Siddharth Kumar,2026-02-22,6.0,Design discussion on PROJ-160 - enable api integration on admin console,2026-02-23
+900872,50334,EMP112,Siddharth Kumar,2026-02-17,6.0,Design discussion on PROJ-160 - enable api integration on admin console,2026-02-17
+900873,50334,EMP112,Siddharth Kumar,2026-02-21,6.0,Implemented changes for PROJ-160 - enable api integration on admin console,2026-02-23
+900874,50334,EMP112,Siddharth Kumar,2026-02-28,8.0,Wrote unit tests for PROJ-160 - enable api integration on admin console,2026-03-02
+900875,50335,EMP108,Arjun Patel,2026-08-30,6.0,Reproduced issue: PROJ-161 - admin console crashes when using file upload,2026-08-30
+900876,50336,EMP101,Priya Nair,2026-08-19,2.0,Reproduced issue: MOB-161 - mobile app crashes when using role-based access,2026-08-20
+900877,50336,EMP117,Lakshmi Suresh,2026-07-31,3.0,Applied fix for MOB-161 - mobile app crashes when using role-based access,2026-07-31
+900878,50336,EMP117,Lakshmi Suresh,2026-08-10,2.0,Regression testing for MOB-161 - mobile app crashes when using role-based access,2026-08-11
+900879,50337,EMP106,Karthik Rao,2026-07-31,1.5,"Implemented changes for PROJ-162 - as a user, i want role-based access in admin console",2026-07-31
+900880,50337,EMP104,Vikram Iyer,2026-08-03,5.0,"Code review for PROJ-162 - as a user, i want role-based access in admin console",2026-08-03
+900881,50337,EMP104,Vikram Iyer,2026-07-26,2.5,"Developed PROJ-162 - as a user, i want role-based access in admin console",2026-07-27
+900882,50339,EMP119,Isha Kapoor,2026-06-29,5.0,Validated PROJ-164 - update documentation for admin console,2026-06-30
+900883,50339,EMP118,Nikhil Bose,2026-07-03,4.0,Updated docs for PROJ-164 - update documentation for admin console,2026-07-03
+900884,50341,EMP113,Neha Singh,2026-04-28,1.5,Regression testing for DATA-170 - admin console crashes when using file upload,2026-04-29
+900885,50341,EMP113,Neha Singh,2026-04-27,6.0,Applied fix for DATA-170 - admin console crashes when using file upload,2026-04-28
+900886,50342,EMP117,Lakshmi Suresh,2026-10-25,2.5,Code review for CRM-178 - implement api integration for web portal,2026-10-25
+900887,50342,EMP117,Lakshmi Suresh,2026-10-23,8.0,Developed CRM-178 - implement api integration for web portal,2026-10-24
+900888,50342,EMP117,Lakshmi Suresh,2026-10-22,4.0,Design discussion on CRM-178 - implement api integration for web portal,2026-10-22
+900889,50343,EMP119,Isha Kapoor,2026-02-13,1.0,Implemented changes for OPS-170 - enable data export on data warehouse,2026-02-14
+900890,50343,EMP119,Isha Kapoor,2026-02-20,2.0,Developed OPS-170 - enable data export on data warehouse,2026-02-20
+900891,50343,EMP119,Isha Kapoor,2026-02-15,2.0,Implemented changes for OPS-170 - enable data export on data warehouse,2026-02-17
+900892,50344,EMP111,Kavya Pillai,2026-06-25,2.5,Wrote unit tests for CRM-179 - implement dashboard for mobile app,2026-06-25
+900893,50344,EMP111,Kavya Pillai,2026-06-17,1.0,Code review for CRM-179 - implement dashboard for mobile app,2026-06-17
+900894,50344,EMP111,Kavya Pillai,2026-06-11,0.5,Code review for CRM-179 - implement dashboard for mobile app,2026-06-11
+900895,50344,EMP111,Kavya Pillai,2026-06-19,5.0,Implemented changes for CRM-179 - implement dashboard for mobile app,2026-06-19
+900896,50346,EMP104,Vikram Iyer,2026-04-10,0.5,Applied fix for MOB-163 - mobile app crashes when using file upload,2026-04-10
+900897,50346,EMP105,Ananya Gupta,2026-04-07,1.0,Investigated root cause of MOB-163 - mobile app crashes when using file upload,2026-04-08
+900898,50346,EMP105,Ananya Gupta,2026-04-08,5.0,Regression testing for MOB-163 - mobile app crashes when using file upload,2026-04-09
+900899,50347,EMP112,Siddharth Kumar,2026-05-13,4.0,Planning and breakdown for CRM-180 - data warehouse audit logging initiative,2026-05-13
+900900,50347,EMP112,Siddharth Kumar,2026-05-10,5.0,Planning and breakdown for CRM-180 - data warehouse audit logging initiative,2026-05-10
+900901,50347,EMP112,Siddharth Kumar,2026-05-08,6.0,Stakeholder sync on CRM-180 - data warehouse audit logging initiative,2026-05-08
+900902,50347,EMP112,Siddharth Kumar,2026-04-22,0.5,Planning and breakdown for CRM-180 - data warehouse audit logging initiative,2026-04-22
+900903,50347,EMP112,Siddharth Kumar,2026-04-28,5.0,Progress review of CRM-180 - data warehouse audit logging initiative,2026-04-29
+900904,50347,EMP112,Siddharth Kumar,2026-04-27,2.5,Progress review of CRM-180 - data warehouse audit logging initiative,2026-04-27
+900905,50348,EMP117,Lakshmi Suresh,2026-07-24,3.0,Code review for CRM-181 - enable caching on etl pipeline,2026-07-24
+900906,50348,EMP117,Lakshmi Suresh,2026-08-08,0.5,Design discussion on CRM-181 - enable caching on etl pipeline,2026-08-09
+900907,50348,EMP117,Lakshmi Suresh,2026-08-01,6.0,Implemented changes for CRM-181 - enable caching on etl pipeline,2026-08-01
+900908,50349,EMP101,Priya Nair,2026-08-21,2.0,Updated docs for OPS-171 - update documentation for etl pipeline,2026-08-21
+900909,50349,EMP101,Priya Nair,2026-08-30,3.0,Validated OPS-171 - update documentation for etl pipeline,2026-08-31
+900910,50350,EMP106,Karthik Rao,2026-04-07,1.0,Design discussion on OPS-172 - enable api integration on etl pipeline,2026-04-07
+900911,50350,EMP106,Karthik Rao,2026-04-08,6.0,Implemented changes for OPS-172 - enable api integration on etl pipeline,2026-04-08
+900912,50350,EMP106,Karthik Rao,2026-04-08,4.0,Code review for OPS-172 - enable api integration on etl pipeline,2026-04-10
+900913,50351,EMP108,Arjun Patel,2026-02-17,3.0,Progress review of MOB-164 - web portal login flow initiative,2026-02-18
+900914,50351,EMP108,Arjun Patel,2026-02-15,2.5,Planning and breakdown for MOB-164 - web portal login flow initiative,2026-02-15
+900915,50351,EMP108,Arjun Patel,2026-02-17,1.0,Stakeholder sync on MOB-164 - web portal login flow initiative,2026-02-17
+900916,50351,EMP108,Arjun Patel,2026-02-03,1.0,Progress review of MOB-164 - web portal login flow initiative,2026-02-03
+900917,50351,EMP108,Arjun Patel,2026-02-09,1.5,Stakeholder sync on MOB-164 - web portal login flow initiative,2026-02-09
+900918,50351,EMP108,Arjun Patel,2026-02-14,0.5,Planning and breakdown for MOB-164 - web portal login flow initiative,2026-02-17
+900919,50351,EMP108,Arjun Patel,2026-02-15,6.0,Planning and breakdown for MOB-164 - web portal login flow initiative,2026-02-16
+900920,50351,EMP108,Arjun Patel,2026-02-08,6.0,Progress review of MOB-164 - web portal login flow initiative,2026-02-08
+900921,50352,EMP112,Siddharth Kumar,2026-04-11,4.0,Updated docs for DATA-171 - refactor web portal notifications module,2026-04-11
+900922,50352,EMP112,Siddharth Kumar,2026-04-12,6.0,Worked on DATA-171 - refactor web portal notifications module,2026-04-12
+900923,50352,EMP112,Siddharth Kumar,2026-04-15,1.5,Updated docs for DATA-171 - refactor web portal notifications module,2026-04-15
+900924,50352,EMP112,Siddharth Kumar,2026-04-15,1.5,Configured settings for DATA-171 - refactor web portal notifications module,2026-04-16
+900925,50353,EMP108,Arjun Patel,2026-02-20,2.0,Investigated root cause of PROJ-165 - data warehouse crashes when using caching,2026-02-20
+900926,50353,EMP108,Arjun Patel,2026-02-19,1.5,Reproduced issue: PROJ-165 - data warehouse crashes when using caching,2026-02-20
+900927,50353,EMP108,Arjun Patel,2026-02-14,4.0,Investigated root cause of PROJ-165 - data warehouse crashes when using caching,2026-02-15
+900928,50354,EMP118,Nikhil Bose,2026-03-05,2.5,Design discussion on PROJ-166 - enable caching on mobile app,2026-03-05
+900929,50354,EMP104,Vikram Iyer,2026-02-28,3.0,Implemented changes for PROJ-166 - enable caching on mobile app,2026-03-03
+900930,50355,EMP108,Arjun Patel,2026-08-04,8.0,Stakeholder sync on PROJ-167 - deliver notifications across etl pipeline,2026-08-04
+900931,50356,EMP100,Aarav Sharma,2026-10-25,0.5,Wrote unit tests for DATA-172 - implement file upload for data warehouse,2026-10-27
+900932,50356,EMP100,Aarav Sharma,2026-11-09,2.0,Developed DATA-172 - implement file upload for data warehouse,2026-11-10
+900933,50357,EMP114,Aditya Mishra,2026-10-17,2.5,Progress review of PROJ-168 - mobile app audit logging initiative,2026-10-18
+900934,50357,EMP114,Aditya Mishra,2026-10-21,2.5,Planning and breakdown for PROJ-168 - mobile app audit logging initiative,2026-10-21
+900935,50357,EMP114,Aditya Mishra,2026-10-26,0.5,Stakeholder sync on PROJ-168 - mobile app audit logging initiative,2026-10-26
+900936,50357,EMP105,Ananya Gupta,2026-10-28,1.5,Progress review of PROJ-168 - mobile app audit logging initiative,2026-10-28
+900937,50357,EMP117,Lakshmi Suresh,2026-10-25,6.0,Stakeholder sync on PROJ-168 - mobile app audit logging initiative,2026-10-27
+900938,50357,EMP115,Pooja Krishnan,2026-10-27,2.0,Progress review of PROJ-168 - mobile app audit logging initiative,2026-10-27
+900939,50357,EMP114,Aditya Mishra,2026-10-18,1.0,Stakeholder sync on PROJ-168 - mobile app audit logging initiative,2026-10-18
+900940,50357,EMP100,Aarav Sharma,2026-10-18,8.0,Planning and breakdown for PROJ-168 - mobile app audit logging initiative,2026-10-18
+900941,50358,EMP104,Vikram Iyer,2026-05-13,4.0,Code review for DATA-173 - enable data export on web portal,2026-05-15
+900942,50358,EMP112,Siddharth Kumar,2026-05-16,8.0,Wrote unit tests for DATA-173 - enable data export on web portal,2026-05-17
+900943,50358,EMP104,Vikram Iyer,2026-05-18,2.5,Code review for DATA-173 - enable data export on web portal,2026-05-19
+900944,50358,EMP104,Vikram Iyer,2026-05-10,6.0,Developed DATA-173 - enable data export on web portal,2026-05-10
+900945,50359,EMP101,Priya Nair,2026-03-06,2.0,"Implemented changes for MOB-165 - as a user, i want file upload in web portal",2026-03-08
+900946,50359,EMP101,Priya Nair,2026-04-09,1.0,"Design discussion on MOB-165 - as a user, i want file upload in web portal",2026-04-09
+900947,50359,EMP101,Priya Nair,2026-04-02,1.5,"Wrote unit tests for MOB-165 - as a user, i want file upload in web portal",2026-04-02
+900948,50359,EMP105,Ananya Gupta,2026-04-08,6.0,"Code review for MOB-165 - as a user, i want file upload in web portal",2026-04-08
+900949,50359,EMP101,Priya Nair,2026-03-09,4.0,"Implemented changes for MOB-165 - as a user, i want file upload in web portal",2026-03-09
+900950,50359,EMP101,Priya Nair,2026-03-10,2.0,"Code review for MOB-165 - as a user, i want file upload in web portal",2026-03-12
+900951,50360,EMP116,Manish Agarwal,2026-05-09,6.0,Worked on DATA-174 - configure role-based access for admin console,2026-05-09
+900952,50360,EMP115,Pooja Krishnan,2026-05-09,4.0,Configured settings for DATA-174 - configure role-based access for admin console,2026-05-10
+900953,50361,EMP103,Sneha Reddy,2026-05-17,1.0,Reproduced issue: PROJ-169 - incorrect role-based access results in admin console,2026-05-17
+900954,50361,EMP103,Sneha Reddy,2026-04-28,0.5,Applied fix for PROJ-169 - incorrect role-based access results in admin console,2026-04-28
+900955,50362,EMP117,Lakshmi Suresh,2026-02-12,5.0,"Developed MOB-166 - as a user, i want payment processing in mobile app",2026-02-12
+900956,50362,EMP106,Karthik Rao,2026-02-14,2.0,"Wrote unit tests for MOB-166 - as a user, i want payment processing in mobile app",2026-02-15
+900957,50362,EMP106,Karthik Rao,2026-02-20,0.5,"Code review for MOB-166 - as a user, i want payment processing in mobile app",2026-02-20
+900958,50362,EMP105,Ananya Gupta,2026-02-13,2.0,"Design discussion on MOB-166 - as a user, i want payment processing in mobile app",2026-02-13
+900959,50363,EMP104,Vikram Iyer,2026-03-27,2.0,Worked on PROJ-170 - update documentation for admin console,2026-03-29
+900960,50363,EMP104,Vikram Iyer,2026-03-31,2.0,Updated docs for PROJ-170 - update documentation for admin console,2026-03-31
+900961,50363,EMP113,Neha Singh,2026-03-30,0.5,Validated PROJ-170 - update documentation for admin console,2026-03-30
+900962,50363,EMP102,Rahul Verma,2026-04-01,4.0,Configured settings for PROJ-170 - update documentation for admin console,2026-04-01
+900963,50363,EMP104,Vikram Iyer,2026-03-27,6.0,Updated docs for PROJ-170 - update documentation for admin console,2026-03-28
+900964,50364,EMP106,Karthik Rao,2026-08-26,2.0,Configured settings for DATA-175 - refactor backend service audit logging module,2026-08-29
+900965,50364,EMP111,Kavya Pillai,2026-09-01,2.5,Configured settings for DATA-175 - refactor backend service audit logging module,2026-09-01
+900966,50364,EMP106,Karthik Rao,2026-08-30,2.0,Updated docs for DATA-175 - refactor backend service audit logging module,2026-08-30
+900967,50364,EMP106,Karthik Rao,2026-08-27,5.0,Validated DATA-175 - refactor backend service audit logging module,2026-08-27
+900968,50365,EMP111,Kavya Pillai,2026-04-17,2.0,Wrote unit tests for MOB-167 - implement login flow for admin console,2026-04-17
+900969,50365,EMP111,Kavya Pillai,2026-04-15,2.0,Developed MOB-167 - implement login flow for admin console,2026-04-15
+900970,50365,EMP111,Kavya Pillai,2026-04-19,4.0,Developed MOB-167 - implement login flow for admin console,2026-04-22
+900971,50365,EMP111,Kavya Pillai,2026-04-19,4.0,Implemented changes for MOB-167 - implement login flow for admin console,2026-04-19
+900972,50366,EMP118,Nikhil Bose,2026-04-05,5.0,Updated docs for DATA-176 - update documentation for data warehouse,2026-04-05
+900973,50366,EMP103,Sneha Reddy,2026-04-08,8.0,Updated docs for DATA-176 - update documentation for data warehouse,2026-04-11
+900974,50367,EMP103,Sneha Reddy,2026-01-24,0.5,Implemented changes for PROJ-171 - implement reporting for mobile app,2026-01-25
+900975,50367,EMP103,Sneha Reddy,2026-01-24,3.0,Design discussion on PROJ-171 - implement reporting for mobile app,2026-01-26
+900976,50367,EMP103,Sneha Reddy,2026-01-20,1.5,Design discussion on PROJ-171 - implement reporting for mobile app,2026-01-20
+900977,50368,EMP103,Sneha Reddy,2026-08-08,0.5,Reproduced issue: DATA-177 - fix data export failure in web portal,2026-08-08
+900978,50368,EMP114,Aditya Mishra,2026-08-11,6.0,Investigated root cause of DATA-177 - fix data export failure in web portal,2026-08-11
+900979,50368,EMP103,Sneha Reddy,2026-08-12,3.0,Regression testing for DATA-177 - fix data export failure in web portal,2026-08-13
+900980,50368,EMP103,Sneha Reddy,2026-08-08,8.0,Reproduced issue: DATA-177 - fix data export failure in web portal,2026-08-08
+900981,50370,EMP103,Sneha Reddy,2026-07-09,2.5,Reproduced issue: DATA-178 - fix role-based access failure in data warehouse,2026-07-09
+900982,50370,EMP103,Sneha Reddy,2026-07-06,4.0,Investigated root cause of DATA-178 - fix role-based access failure in data warehouse,2026-07-06
+900983,50372,EMP101,Priya Nair,2026-01-30,2.0,Applied fix for CRM-183 - incorrect role-based access results in etl pipeline,2026-01-30
+900984,50373,EMP113,Neha Singh,2026-05-07,1.0,Applied fix for PROJ-172 - backend service crashes when using notifications,2026-05-08
+900985,50374,EMP104,Vikram Iyer,2026-08-30,1.5,Validated CRM-184 - refactor backend service notifications module,2026-08-31
+900986,50374,EMP101,Priya Nair,2026-09-04,4.0,Validated CRM-184 - refactor backend service notifications module,2026-09-04
+900987,50374,EMP104,Vikram Iyer,2026-09-04,8.0,Configured settings for CRM-184 - refactor backend service notifications module,2026-09-05
+900988,50374,EMP101,Priya Nair,2026-08-30,1.0,Worked on CRM-184 - refactor backend service notifications module,2026-08-30
+900989,50374,EMP104,Vikram Iyer,2026-09-04,1.5,Worked on CRM-184 - refactor backend service notifications module,2026-09-05
+900990,50375,EMP106,Karthik Rao,2026-02-07,3.0,Implemented changes for OPS-174 - enable payment processing on backend service,2026-02-07
+900991,50375,EMP106,Karthik Rao,2026-02-15,4.0,Code review for OPS-174 - enable payment processing on backend service,2026-02-15
+900992,50375,EMP106,Karthik Rao,2026-02-17,1.5,Implemented changes for OPS-174 - enable payment processing on backend service,2026-02-20
+900993,50376,EMP111,Kavya Pillai,2026-04-20,8.0,Developed MOB-168 - enable file upload on web portal,2026-04-20
+900994,50376,EMP105,Ananya Gupta,2026-04-19,0.5,Design discussion on MOB-168 - enable file upload on web portal,2026-04-19
+900995,50376,EMP105,Ananya Gupta,2026-05-01,1.5,Developed MOB-168 - enable file upload on web portal,2026-05-01
+900996,50376,EMP117,Lakshmi Suresh,2026-05-05,1.5,Wrote unit tests for MOB-168 - enable file upload on web portal,2026-05-05
+900997,50376,EMP105,Ananya Gupta,2026-04-19,6.0,Developed MOB-168 - enable file upload on web portal,2026-04-19
+900998,50377,EMP108,Arjun Patel,2026-02-07,4.0,Updated docs for MOB-169 - update documentation for data warehouse,2026-02-07
+900999,50377,EMP118,Nikhil Bose,2026-02-20,4.0,Configured settings for MOB-169 - update documentation for data warehouse,2026-02-20
+901000,50377,EMP108,Arjun Patel,2026-02-07,8.0,Worked on MOB-169 - update documentation for data warehouse,2026-02-08
+901001,50378,EMP111,Kavya Pillai,2026-02-25,6.0,Code review for OPS-175 - implement data export for data warehouse,2026-02-26
+901002,50378,EMP110,Rohan Das,2026-02-20,6.0,Wrote unit tests for OPS-175 - implement data export for data warehouse,2026-02-20
+901003,50378,EMP102,Rahul Verma,2026-03-02,0.5,Implemented changes for OPS-175 - implement data export for data warehouse,2026-03-04
+901004,50379,EMP116,Manish Agarwal,2026-10-27,2.5,Design discussion on DATA-179 - enable dashboard on data warehouse,2026-10-27
+901005,50379,EMP116,Manish Agarwal,2026-10-31,1.0,Design discussion on DATA-179 - enable dashboard on data warehouse,2026-11-02
+901006,50379,EMP116,Manish Agarwal,2026-10-12,1.0,Design discussion on DATA-179 - enable dashboard on data warehouse,2026-10-12
+901007,50380,EMP110,Rohan Das,2026-07-07,5.0,Reproduced issue: OPS-176 - incorrect payment processing results in backend service,2026-07-07
+901008,50380,EMP110,Rohan Das,2026-07-22,2.5,Applied fix for OPS-176 - incorrect payment processing results in backend service,2026-07-23
+901009,50380,EMP110,Rohan Das,2026-07-07,3.0,Applied fix for OPS-176 - incorrect payment processing results in backend service,2026-07-07
+901010,50381,EMP116,Manish Agarwal,2026-07-10,2.5,Regression testing for DATA-180 - fix dashboard failure in web portal,2026-07-11
+901011,50381,EMP115,Pooja Krishnan,2026-07-09,5.0,Investigated root cause of DATA-180 - fix dashboard failure in web portal,2026-07-09
+901012,50381,EMP115,Pooja Krishnan,2026-07-06,2.5,Investigated root cause of DATA-180 - fix dashboard failure in web portal,2026-07-07
+901013,50381,EMP115,Pooja Krishnan,2026-07-12,1.5,Reproduced issue: DATA-180 - fix dashboard failure in web portal,2026-07-13
+901014,50383,EMP108,Arjun Patel,2026-01-25,5.0,Developed CRM-185 - implement reporting for backend service,2026-01-25
+901015,50383,EMP117,Lakshmi Suresh,2026-01-17,8.0,Wrote unit tests for CRM-185 - implement reporting for backend service,2026-01-17
+901016,50384,EMP109,Divya Menon,2026-09-06,8.0,Configured settings for CRM-186 - refactor mobile app audit logging module,2026-09-06
+901017,50384,EMP103,Sneha Reddy,2026-08-30,2.5,Updated docs for CRM-186 - refactor mobile app audit logging module,2026-08-31
+901018,50384,EMP109,Divya Menon,2026-09-02,2.0,Updated docs for CRM-186 - refactor mobile app audit logging module,2026-09-02
+901019,50384,EMP109,Divya Menon,2026-08-22,8.0,Updated docs for CRM-186 - refactor mobile app audit logging module,2026-08-22
+901020,50385,EMP110,Rohan Das,2026-11-07,5.0,Configured settings for PROJ-174 - configure payment processing for etl pipeline,2026-11-08
+901021,50386,EMP106,Karthik Rao,2026-10-08,0.5,Wrote unit tests for CRM-187 - enable api integration on admin console,2026-10-09
+901022,50386,EMP106,Karthik Rao,2026-10-07,6.0,Implemented changes for CRM-187 - enable api integration on admin console,2026-10-07
+901023,50387,EMP111,Kavya Pillai,2026-05-16,3.0,Wrote unit tests for MOB-170 - implement role-based access for admin console,2026-05-16
+901024,50387,EMP104,Vikram Iyer,2026-05-10,2.5,Design discussion on MOB-170 - implement role-based access for admin console,2026-05-10
+901025,50387,EMP111,Kavya Pillai,2026-05-12,8.0,Code review for MOB-170 - implement role-based access for admin console,2026-05-12
+901026,50387,EMP111,Kavya Pillai,2026-04-28,1.0,Implemented changes for MOB-170 - implement role-based access for admin console,2026-04-28
+901027,50387,EMP111,Kavya Pillai,2026-05-04,4.0,Design discussion on MOB-170 - implement role-based access for admin console,2026-05-07
+901028,50387,EMP111,Kavya Pillai,2026-05-05,3.0,Implemented changes for MOB-170 - implement role-based access for admin console,2026-05-06
+901029,50388,EMP119,Isha Kapoor,2026-09-07,3.0,Updated docs for OPS-177 - update documentation for mobile app,2026-09-07
+901030,50388,EMP119,Isha Kapoor,2026-09-10,1.5,Updated docs for OPS-177 - update documentation for mobile app,2026-09-10
+901031,50389,EMP114,Aditya Mishra,2026-07-21,2.0,Investigated root cause of OPS-178 - fix notifications failure in mobile app,2026-07-21
+901032,50389,EMP114,Aditya Mishra,2026-07-20,2.0,Investigated root cause of OPS-178 - fix notifications failure in mobile app,2026-07-20
+901033,50390,EMP104,Vikram Iyer,2026-09-12,2.0,Worked on PROJ-175 - refactor etl pipeline dashboard module,2026-09-14
+901034,50391,EMP111,Kavya Pillai,2026-05-23,2.5,Reproduced issue: OPS-179 - admin console crashes when using role-based access,2026-05-23
+901035,50391,EMP100,Aarav Sharma,2026-05-25,8.0,Applied fix for OPS-179 - admin console crashes when using role-based access,2026-05-25
+901036,50392,EMP114,Aditya Mishra,2026-05-29,2.0,Worked on MOB-171 - configure api integration for mobile app,2026-05-31
+901037,50393,EMP108,Arjun Patel,2026-07-07,6.0,Code review for DATA-181 - enable payment processing on mobile app,2026-07-09
+901038,50395,EMP114,Aditya Mishra,2026-09-07,4.0,Developed CRM-188 - implement search for mobile app,2026-09-07
+901039,50395,EMP108,Arjun Patel,2026-09-23,3.0,Developed CRM-188 - implement search for mobile app,2026-09-23
+901040,50395,EMP101,Priya Nair,2026-09-20,4.0,Implemented changes for CRM-188 - implement search for mobile app,2026-09-21
+901041,50395,EMP114,Aditya Mishra,2026-09-18,3.0,Code review for CRM-188 - implement search for mobile app,2026-09-18
+901042,50397,EMP115,Pooja Krishnan,2026-01-22,8.0,Worked on PROJ-177 - configure login flow for mobile app,2026-01-22
+901043,50400,EMP103,Sneha Reddy,2026-04-30,0.5,Worked on CRM-189 - update documentation for data warehouse,2026-04-30
+901044,50403,EMP112,Siddharth Kumar,2026-02-18,1.0,Validated CRM-191 - configure search for etl pipeline,2026-02-18
+901045,50404,EMP111,Kavya Pillai,2026-09-25,2.0,Investigated root cause of CRM-192 - admin console crashes when using audit logging,2026-09-26
+901046,50404,EMP111,Kavya Pillai,2026-09-26,0.5,Applied fix for CRM-192 - admin console crashes when using audit logging,2026-09-26
+901047,50404,EMP111,Kavya Pillai,2026-09-18,3.0,Investigated root cause of CRM-192 - admin console crashes when using audit logging,2026-09-18
+901048,50404,EMP111,Kavya Pillai,2026-09-12,2.5,Investigated root cause of CRM-192 - admin console crashes when using audit logging,2026-09-12
+901049,50405,EMP103,Sneha Reddy,2026-01-22,4.0,Reproduced issue: PROJ-180 - incorrect search results in data warehouse,2026-01-22
+901050,50405,EMP103,Sneha Reddy,2026-01-31,8.0,Investigated root cause of PROJ-180 - incorrect search results in data warehouse,2026-02-02
+901051,50405,EMP103,Sneha Reddy,2026-01-23,0.5,Reproduced issue: PROJ-180 - incorrect search results in data warehouse,2026-01-24
+901052,50405,EMP103,Sneha Reddy,2026-01-28,6.0,Applied fix for PROJ-180 - incorrect search results in data warehouse,2026-01-28
+901053,50406,EMP114,Aditya Mishra,2026-09-19,5.0,"Developed CRM-193 - as a user, i want dashboard in etl pipeline",2026-09-19
+901054,50406,EMP114,Aditya Mishra,2026-09-27,2.0,"Wrote unit tests for CRM-193 - as a user, i want dashboard in etl pipeline",2026-09-27
+901055,50406,EMP114,Aditya Mishra,2026-09-26,2.5,"Code review for CRM-193 - as a user, i want dashboard in etl pipeline",2026-09-26
+901056,50406,EMP114,Aditya Mishra,2026-09-21,3.0,"Implemented changes for CRM-193 - as a user, i want dashboard in etl pipeline",2026-09-22
+901057,50407,EMP110,Rohan Das,2026-02-03,1.0,Developed CRM-194 - implement role-based access for data warehouse,2026-02-03
+901058,50407,EMP110,Rohan Das,2026-01-27,1.0,Wrote unit tests for CRM-194 - implement role-based access for data warehouse,2026-01-30
+901059,50408,EMP115,Pooja Krishnan,2026-09-06,5.0,Validated OPS-180 - refactor admin console audit logging module,2026-09-06
+901060,50408,EMP115,Pooja Krishnan,2026-09-11,5.0,Configured settings for OPS-180 - refactor admin console audit logging module,2026-09-12
+901061,50408,EMP115,Pooja Krishnan,2026-09-09,0.5,Configured settings for OPS-180 - refactor admin console audit logging module,2026-09-09
+901062,50408,EMP115,Pooja Krishnan,2026-09-13,1.0,Worked on OPS-180 - refactor admin console audit logging module,2026-09-13
+901063,50409,EMP110,Rohan Das,2026-03-18,2.5,Updated docs for MOB-173 - configure login flow for admin console,2026-03-18
+901064,50409,EMP110,Rohan Das,2026-03-22,2.5,Configured settings for MOB-173 - configure login flow for admin console,2026-03-22
+901065,50409,EMP114,Aditya Mishra,2026-03-16,1.0,Validated MOB-173 - configure login flow for admin console,2026-03-16
+901066,50410,EMP101,Priya Nair,2026-06-15,2.5,Developed MOB-174 - enable data export on mobile app,2026-06-16
+901067,50412,EMP115,Pooja Krishnan,2026-06-10,0.5,Reproduced issue: MOB-175 - fix audit logging failure in backend service,2026-06-10
+901068,50412,EMP115,Pooja Krishnan,2026-06-11,3.0,Regression testing for MOB-175 - fix audit logging failure in backend service,2026-06-14
+901069,50413,EMP119,Isha Kapoor,2026-07-14,2.5,Configured settings for DATA-183 - configure file upload for admin console,2026-07-14
+901070,50414,EMP109,Divya Menon,2026-04-21,6.0,"Design discussion on OPS-181 - as a user, i want audit logging in admin console",2026-04-21
+901071,50414,EMP109,Divya Menon,2026-04-24,6.0,"Implemented changes for OPS-181 - as a user, i want audit logging in admin console",2026-04-25
+901072,50414,EMP109,Divya Menon,2026-04-30,8.0,"Implemented changes for OPS-181 - as a user, i want audit logging in admin console",2026-04-30
+901073,50414,EMP109,Divya Menon,2026-04-26,5.0,"Code review for OPS-181 - as a user, i want audit logging in admin console",2026-04-26
+901074,50415,EMP105,Ananya Gupta,2026-10-03,6.0,Code review for OPS-182 - enable role-based access on mobile app,2026-10-03
+901075,50415,EMP105,Ananya Gupta,2026-09-03,5.0,Code review for OPS-182 - enable role-based access on mobile app,2026-09-04
+901076,50415,EMP105,Ananya Gupta,2026-09-14,3.0,Code review for OPS-182 - enable role-based access on mobile app,2026-09-15
+901077,50415,EMP105,Ananya Gupta,2026-09-06,2.0,Implemented changes for OPS-182 - enable role-based access on mobile app,2026-09-07
+901078,50415,EMP113,Neha Singh,2026-09-17,0.5,Code review for OPS-182 - enable role-based access on mobile app,2026-09-18
+901079,50416,EMP109,Divya Menon,2026-04-25,8.0,Design discussion on DATA-184 - implement caching for backend service,2026-04-25
+901080,50417,EMP109,Divya Menon,2026-07-07,3.0,Code review for DATA-185 - implement data export for web portal,2026-07-08
+901081,50417,EMP103,Sneha Reddy,2026-07-05,1.5,Wrote unit tests for DATA-185 - implement data export for web portal,2026-07-06
+901082,50417,EMP103,Sneha Reddy,2026-06-18,5.0,Developed DATA-185 - implement data export for web portal,2026-06-18
+901083,50419,EMP114,Aditya Mishra,2026-10-06,3.0,Applied fix for CRM-196 - incorrect search results in admin console,2026-10-06
+901084,50419,EMP105,Ananya Gupta,2026-09-28,0.5,Applied fix for CRM-196 - incorrect search results in admin console,2026-09-28
+901085,50420,EMP113,Neha Singh,2026-04-26,4.0,Wrote unit tests for DATA-186 - implement notifications for web portal,2026-04-28
+901086,50420,EMP113,Neha Singh,2026-05-06,6.0,Developed DATA-186 - implement notifications for web portal,2026-05-07
+901087,50420,EMP113,Neha Singh,2026-04-28,4.0,Design discussion on DATA-186 - implement notifications for web portal,2026-04-28
+901088,50421,EMP112,Siddharth Kumar,2026-07-24,0.5,Updated docs for CRM-197 - update documentation for backend service,2026-07-24
+901089,50422,EMP111,Kavya Pillai,2026-08-01,0.5,Configured settings for MOB-177 - update documentation for mobile app,2026-08-01
+901090,50424,EMP108,Arjun Patel,2026-10-13,2.0,Configured settings for DATA-188 - update documentation for backend service,2026-10-14
+901091,50424,EMP108,Arjun Patel,2026-10-16,1.0,Worked on DATA-188 - update documentation for backend service,2026-10-18
+901092,50425,EMP109,Divya Menon,2026-04-04,5.0,Worked on DATA-189 - configure payment processing for web portal,2026-04-04
+901093,50425,EMP109,Divya Menon,2026-04-02,4.0,Updated docs for DATA-189 - configure payment processing for web portal,2026-04-02
+901094,50425,EMP109,Divya Menon,2026-03-29,4.0,Configured settings for DATA-189 - configure payment processing for web portal,2026-03-29
+901095,50425,EMP109,Divya Menon,2026-04-01,8.0,Configured settings for DATA-189 - configure payment processing for web portal,2026-04-01
+901096,50426,EMP110,Rohan Das,2026-07-28,2.5,"Code review for OPS-183 - as a user, i want data export in web portal",2026-07-29
+901097,50426,EMP110,Rohan Das,2026-07-27,0.5,"Developed OPS-183 - as a user, i want data export in web portal",2026-07-27
+901098,50426,EMP110,Rohan Das,2026-07-26,8.0,"Implemented changes for OPS-183 - as a user, i want data export in web portal",2026-07-26
+901099,50426,EMP110,Rohan Das,2026-07-27,4.0,"Implemented changes for OPS-183 - as a user, i want data export in web portal",2026-07-27
+901100,50427,EMP114,Aditya Mishra,2026-07-30,2.0,Worked on CRM-198 - configure file upload for mobile app,2026-07-30
+901101,50428,EMP115,Pooja Krishnan,2026-04-14,0.5,Wrote unit tests for CRM-199 - implement data export for etl pipeline,2026-04-14
+901102,50429,EMP105,Ananya Gupta,2026-05-28,3.0,Reproduced issue: CRM-200 - web portal crashes when using notifications,2026-05-30
+901103,50429,EMP105,Ananya Gupta,2026-05-22,5.0,Investigated root cause of CRM-200 - web portal crashes when using notifications,2026-05-22
+901104,50429,EMP105,Ananya Gupta,2026-05-25,4.0,Reproduced issue: CRM-200 - web portal crashes when using notifications,2026-05-25
+901105,50430,EMP106,Karthik Rao,2026-05-20,2.5,Investigated root cause of CRM-201 - incorrect file upload results in data warehouse,2026-05-20
+901106,50431,EMP111,Kavya Pillai,2026-08-16,3.0,"Implemented changes for PROJ-181 - as a user, i want payment processing in data warehouse",2026-08-19
+901107,50431,EMP108,Arjun Patel,2026-07-29,4.0,"Developed PROJ-181 - as a user, i want payment processing in data warehouse",2026-07-29
+901108,50431,EMP111,Kavya Pillai,2026-08-02,1.5,"Implemented changes for PROJ-181 - as a user, i want payment processing in data warehouse",2026-08-02
+901109,50433,EMP108,Arjun Patel,2026-06-19,5.0,Implemented changes for OPS-184 - implement api integration for data warehouse,2026-06-19
+901110,50433,EMP111,Kavya Pillai,2026-06-15,2.0,Code review for OPS-184 - implement api integration for data warehouse,2026-06-15
+901111,50434,EMP101,Priya Nair,2026-08-18,5.0,Planning and breakdown for DATA-191 - deliver dashboard across mobile app,2026-08-18
+901112,50434,EMP101,Priya Nair,2026-08-20,1.5,Stakeholder sync on DATA-191 - deliver dashboard across mobile app,2026-08-21
+901113,50434,EMP116,Manish Agarwal,2026-08-24,1.5,Progress review of DATA-191 - deliver dashboard across mobile app,2026-08-25
+901114,50434,EMP101,Priya Nair,2026-09-05,6.0,Planning and breakdown for DATA-191 - deliver dashboard across mobile app,2026-09-05
+901115,50434,EMP101,Priya Nair,2026-08-23,2.5,Stakeholder sync on DATA-191 - deliver dashboard across mobile app,2026-08-23
+901116,50434,EMP101,Priya Nair,2026-08-30,3.0,Progress review of DATA-191 - deliver dashboard across mobile app,2026-08-31
+901117,50434,EMP101,Priya Nair,2026-09-08,6.0,Planning and breakdown for DATA-191 - deliver dashboard across mobile app,2026-09-08
+901118,50434,EMP103,Sneha Reddy,2026-08-21,0.5,Progress review of DATA-191 - deliver dashboard across mobile app,2026-08-22
+901119,50435,EMP104,Vikram Iyer,2026-09-26,1.0,Configured settings for PROJ-182 - refactor mobile app notifications module,2026-09-27
+901120,50435,EMP116,Manish Agarwal,2026-09-22,2.0,Validated PROJ-182 - refactor mobile app notifications module,2026-09-22
+901121,50435,EMP106,Karthik Rao,2026-10-05,6.0,Configured settings for PROJ-182 - refactor mobile app notifications module,2026-10-06
+901122,50435,EMP106,Karthik Rao,2026-09-27,3.0,Worked on PROJ-182 - refactor mobile app notifications module,2026-09-29
+901123,50436,EMP110,Rohan Das,2026-03-09,0.5,Design discussion on PROJ-183 - enable dashboard on etl pipeline,2026-03-11
+901124,50436,EMP110,Rohan Das,2026-03-08,2.5,Code review for PROJ-183 - enable dashboard on etl pipeline,2026-03-08
+901125,50437,EMP102,Rahul Verma,2026-08-27,5.0,Design discussion on OPS-185 - enable login flow on etl pipeline,2026-08-30
+901126,50437,EMP100,Aarav Sharma,2026-08-28,0.5,Developed OPS-185 - enable login flow on etl pipeline,2026-08-28
+901127,50437,EMP100,Aarav Sharma,2026-08-27,6.0,Wrote unit tests for OPS-185 - enable login flow on etl pipeline,2026-08-27
+901128,50438,EMP112,Siddharth Kumar,2026-02-21,6.0,Regression testing for PROJ-184 - mobile app crashes when using notifications,2026-02-21
+901129,50438,EMP112,Siddharth Kumar,2026-02-26,2.0,Reproduced issue: PROJ-184 - mobile app crashes when using notifications,2026-02-27
+901130,50438,EMP112,Siddharth Kumar,2026-02-27,2.5,Regression testing for PROJ-184 - mobile app crashes when using notifications,2026-02-27
+901131,50438,EMP112,Siddharth Kumar,2026-02-20,3.0,Regression testing for PROJ-184 - mobile app crashes when using notifications,2026-02-20
+901132,50440,EMP119,Isha Kapoor,2026-04-14,3.0,Regression testing for OPS-186 - data warehouse crashes when using search,2026-04-15
+901133,50440,EMP119,Isha Kapoor,2026-04-12,4.0,Applied fix for OPS-186 - data warehouse crashes when using search,2026-04-12
+901134,50440,EMP119,Isha Kapoor,2026-04-11,1.5,Regression testing for OPS-186 - data warehouse crashes when using search,2026-04-11
+901135,50440,EMP106,Karthik Rao,2026-04-16,2.0,Reproduced issue: OPS-186 - data warehouse crashes when using search,2026-04-18
+901136,50441,EMP103,Sneha Reddy,2026-03-30,1.0,Validated MOB-178 - update documentation for data warehouse,2026-03-30
+901137,50441,EMP114,Aditya Mishra,2026-04-09,2.0,Updated docs for MOB-178 - update documentation for data warehouse,2026-04-09
+901138,50441,EMP114,Aditya Mishra,2026-03-22,2.5,Updated docs for MOB-178 - update documentation for data warehouse,2026-03-24
+901139,50441,EMP114,Aditya Mishra,2026-03-26,8.0,Configured settings for MOB-178 - update documentation for data warehouse,2026-03-26
+901140,50442,EMP113,Neha Singh,2026-07-23,1.0,Progress review of OPS-187 - deliver search across data warehouse,2026-07-24
+901141,50442,EMP113,Neha Singh,2026-08-03,4.0,Planning and breakdown for OPS-187 - deliver search across data warehouse,2026-08-03
+901142,50442,EMP104,Vikram Iyer,2026-07-31,1.5,Stakeholder sync on OPS-187 - deliver search across data warehouse,2026-07-31
+901143,50442,EMP113,Neha Singh,2026-08-01,1.5,Planning and breakdown for OPS-187 - deliver search across data warehouse,2026-08-01
+901144,50442,EMP113,Neha Singh,2026-07-17,8.0,Progress review of OPS-187 - deliver search across data warehouse,2026-07-17
+901145,50442,EMP113,Neha Singh,2026-08-06,1.0,Planning and breakdown for OPS-187 - deliver search across data warehouse,2026-08-06
+901146,50442,EMP106,Karthik Rao,2026-08-02,8.0,Planning and breakdown for OPS-187 - deliver search across data warehouse,2026-08-02
+901147,50442,EMP113,Neha Singh,2026-07-18,2.5,Progress review of OPS-187 - deliver search across data warehouse,2026-07-20
+901148,50443,EMP109,Divya Menon,2026-09-10,3.0,Updated docs for CRM-203 - update documentation for etl pipeline,2026-09-10
+901149,50443,EMP109,Divya Menon,2026-08-25,1.5,Updated docs for CRM-203 - update documentation for etl pipeline,2026-08-28
+901150,50443,EMP109,Divya Menon,2026-09-09,1.0,Worked on CRM-203 - update documentation for etl pipeline,2026-09-10
+901151,50444,EMP101,Priya Nair,2026-04-08,1.0,Stakeholder sync on OPS-188 - web portal caching initiative,2026-04-08
+901152,50444,EMP100,Aarav Sharma,2026-04-04,1.5,Stakeholder sync on OPS-188 - web portal caching initiative,2026-04-04
+901153,50444,EMP100,Aarav Sharma,2026-04-16,2.0,Progress review of OPS-188 - web portal caching initiative,2026-04-16
+901154,50444,EMP100,Aarav Sharma,2026-04-26,0.5,Planning and breakdown for OPS-188 - web portal caching initiative,2026-04-26
+901155,50444,EMP100,Aarav Sharma,2026-04-05,5.0,Planning and breakdown for OPS-188 - web portal caching initiative,2026-04-05
+901156,50444,EMP106,Karthik Rao,2026-04-13,4.0,Stakeholder sync on OPS-188 - web portal caching initiative,2026-04-13
+901157,50444,EMP100,Aarav Sharma,2026-04-19,2.5,Stakeholder sync on OPS-188 - web portal caching initiative,2026-04-19
+901158,50444,EMP100,Aarav Sharma,2026-04-27,5.0,Progress review of OPS-188 - web portal caching initiative,2026-04-27
+901159,50445,EMP104,Vikram Iyer,2026-01-15,5.0,Reproduced issue: PROJ-185 - fix login flow failure in mobile app,2026-01-16
+901160,50445,EMP104,Vikram Iyer,2026-01-14,4.0,Applied fix for PROJ-185 - fix login flow failure in mobile app,2026-01-16
+901161,50446,EMP114,Aditya Mishra,2026-03-11,8.0,Configured settings for MOB-179 - configure role-based access for data warehouse,2026-03-11
+901162,50446,EMP116,Manish Agarwal,2026-04-01,3.0,Validated MOB-179 - configure role-based access for data warehouse,2026-04-01
+901163,50446,EMP100,Aarav Sharma,2026-03-13,1.5,Configured settings for MOB-179 - configure role-based access for data warehouse,2026-03-14
+901164,50446,EMP114,Aditya Mishra,2026-03-09,4.0,Configured settings for MOB-179 - configure role-based access for data warehouse,2026-03-11
+901165,50447,EMP112,Siddharth Kumar,2026-08-14,0.5,Regression testing for OPS-189 - fix api integration failure in web portal,2026-08-15
+901166,50447,EMP112,Siddharth Kumar,2026-08-24,2.0,Reproduced issue: OPS-189 - fix api integration failure in web portal,2026-08-24
+901167,50448,EMP100,Aarav Sharma,2026-02-27,0.5,Updated docs for OPS-190 - refactor backend service payment processing module,2026-02-27
+901168,50448,EMP100,Aarav Sharma,2026-02-23,1.5,Worked on OPS-190 - refactor backend service payment processing module,2026-02-24
+901169,50448,EMP100,Aarav Sharma,2026-02-26,2.5,Worked on OPS-190 - refactor backend service payment processing module,2026-02-26
+901170,50449,EMP105,Ananya Gupta,2026-07-09,6.0,Regression testing for PROJ-186 - mobile app crashes when using file upload,2026-07-09
+901171,50449,EMP103,Sneha Reddy,2026-07-08,5.0,Regression testing for PROJ-186 - mobile app crashes when using file upload,2026-07-08
+901172,50449,EMP105,Ananya Gupta,2026-07-06,4.0,Applied fix for PROJ-186 - mobile app crashes when using file upload,2026-07-08
+901173,50450,EMP113,Neha Singh,2026-04-26,4.0,Updated docs for CRM-204 - refactor mobile app role-based access module,2026-04-27
+901174,50450,EMP118,Nikhil Bose,2026-04-21,2.5,Configured settings for CRM-204 - refactor mobile app role-based access module,2026-04-22
+901175,50451,EMP109,Divya Menon,2026-02-02,1.5,Applied fix for CRM-205 - fix data export failure in admin console,2026-02-02
+901176,50452,EMP103,Sneha Reddy,2026-06-30,2.0,Investigated root cause of DATA-192 - data warehouse crashes when using data export,2026-07-02
+901177,50452,EMP103,Sneha Reddy,2026-07-01,8.0,Regression testing for DATA-192 - data warehouse crashes when using data export,2026-07-01
+901178,50452,EMP103,Sneha Reddy,2026-07-04,8.0,Regression testing for DATA-192 - data warehouse crashes when using data export,2026-07-04
+901179,50452,EMP103,Sneha Reddy,2026-06-28,1.0,Regression testing for DATA-192 - data warehouse crashes when using data export,2026-06-28
+901180,50454,EMP112,Siddharth Kumar,2026-07-15,5.0,Developed CRM-207 - implement file upload for web portal,2026-07-15
+901181,50454,EMP116,Manish Agarwal,2026-07-12,1.0,Developed CRM-207 - implement file upload for web portal,2026-07-12
+901182,50454,EMP116,Manish Agarwal,2026-07-18,2.5,Wrote unit tests for CRM-207 - implement file upload for web portal,2026-07-18
+901183,50455,EMP105,Ananya Gupta,2026-08-12,0.5,Design discussion on OPS-191 - enable dashboard on backend service,2026-08-12
+901184,50455,EMP105,Ananya Gupta,2026-08-08,4.0,Code review for OPS-191 - enable dashboard on backend service,2026-08-08
+901185,50456,EMP116,Manish Agarwal,2026-01-10,1.0,Configured settings for CRM-208 - configure login flow for data warehouse,2026-01-10
+901186,50456,EMP116,Manish Agarwal,2026-01-15,5.0,Updated docs for CRM-208 - configure login flow for data warehouse,2026-01-17
+901187,50456,EMP116,Manish Agarwal,2026-01-13,5.0,Updated docs for CRM-208 - configure login flow for data warehouse,2026-01-13
+901188,50457,EMP101,Priya Nair,2026-11-04,1.0,Investigated root cause of OPS-192 - data warehouse crashes when using dashboard,2026-11-05
+901189,50457,EMP115,Pooja Krishnan,2026-10-25,1.0,Reproduced issue: OPS-192 - data warehouse crashes when using dashboard,2026-10-25
+901190,50457,EMP101,Priya Nair,2026-10-31,2.5,Reproduced issue: OPS-192 - data warehouse crashes when using dashboard,2026-10-31
+901191,50458,EMP106,Karthik Rao,2026-09-04,8.0,Configured settings for CRM-209 - refactor admin console payment processing module,2026-09-04
+901192,50458,EMP114,Aditya Mishra,2026-08-27,8.0,Configured settings for CRM-209 - refactor admin console payment processing module,2026-08-29
+901193,50459,EMP104,Vikram Iyer,2026-10-22,2.5,Configured settings for OPS-193 - refactor web portal data export module,2026-10-22
+901194,50461,EMP107,Meera Joshi,2026-10-07,1.0,Code review for MOB-180 - enable payment processing on etl pipeline,2026-10-08
+901195,50461,EMP107,Meera Joshi,2026-10-06,6.0,Wrote unit tests for MOB-180 - enable payment processing on etl pipeline,2026-10-06
+901196,50462,EMP112,Siddharth Kumar,2026-04-02,2.0,Code review for OPS-194 - implement api integration for data warehouse,2026-04-03
+901197,50463,EMP114,Aditya Mishra,2026-08-22,2.5,Wrote unit tests for DATA-193 - enable api integration on etl pipeline,2026-08-25
+901198,50463,EMP114,Aditya Mishra,2026-08-11,2.0,Wrote unit tests for DATA-193 - enable api integration on etl pipeline,2026-08-11
+901199,50463,EMP116,Manish Agarwal,2026-08-23,6.0,Wrote unit tests for DATA-193 - enable api integration on etl pipeline,2026-08-23
+901200,50463,EMP114,Aditya Mishra,2026-08-01,1.0,Design discussion on DATA-193 - enable api integration on etl pipeline,2026-08-01
+901201,50463,EMP111,Kavya Pillai,2026-08-24,5.0,Wrote unit tests for DATA-193 - enable api integration on etl pipeline,2026-08-24
+901202,50463,EMP114,Aditya Mishra,2026-08-18,1.5,Design discussion on DATA-193 - enable api integration on etl pipeline,2026-08-18
+901203,50463,EMP114,Aditya Mishra,2026-08-04,8.0,Design discussion on DATA-193 - enable api integration on etl pipeline,2026-08-04
+901204,50464,EMP104,Vikram Iyer,2026-09-02,1.5,Design discussion on DATA-194 - enable notifications on data warehouse,2026-09-02
+901205,50464,EMP104,Vikram Iyer,2026-09-17,2.5,Code review for DATA-194 - enable notifications on data warehouse,2026-09-20
+901206,50466,EMP104,Vikram Iyer,2026-06-10,2.0,Wrote unit tests for PROJ-189 - implement payment processing for data warehouse,2026-06-12
+901207,50466,EMP104,Vikram Iyer,2026-06-24,4.0,Developed PROJ-189 - implement payment processing for data warehouse,2026-06-26
+901208,50467,EMP107,Meera Joshi,2026-07-23,0.5,"Design discussion on CRM-210 - as a user, i want payment processing in data warehouse",2026-07-23
+901209,50467,EMP118,Nikhil Bose,2026-07-23,6.0,"Developed CRM-210 - as a user, i want payment processing in data warehouse",2026-07-23
+901210,50468,EMP119,Isha Kapoor,2026-08-01,3.0,Worked on PROJ-190 - configure caching for data warehouse,2026-08-04
+901211,50469,EMP102,Rahul Verma,2026-02-02,8.0,Regression testing for OPS-195 - incorrect payment processing results in admin console,2026-02-03
+901212,50470,EMP106,Karthik Rao,2026-03-01,6.0,"Wrote unit tests for MOB-181 - as a user, i want file upload in admin console",2026-03-01
+901213,50470,EMP106,Karthik Rao,2026-03-01,1.0,"Design discussion on MOB-181 - as a user, i want file upload in admin console",2026-03-01
+901214,50470,EMP106,Karthik Rao,2026-03-10,8.0,"Wrote unit tests for MOB-181 - as a user, i want file upload in admin console",2026-03-11
+901215,50471,EMP118,Nikhil Bose,2026-03-14,6.0,Updated docs for PROJ-191 - configure caching for backend service,2026-03-14
+901216,50473,EMP107,Meera Joshi,2026-09-26,4.0,Validated DATA-195 - update documentation for mobile app,2026-09-27
+901217,50473,EMP107,Meera Joshi,2026-09-29,3.0,Worked on DATA-195 - update documentation for mobile app,2026-09-30
+901218,50473,EMP107,Meera Joshi,2026-09-24,2.0,Configured settings for DATA-195 - update documentation for mobile app,2026-09-25
+901219,50474,EMP100,Aarav Sharma,2026-03-04,2.0,Code review for DATA-196 - enable reporting on admin console,2026-03-05
+901220,50475,EMP105,Ananya Gupta,2026-08-25,1.5,Worked on OPS-197 - refactor data warehouse reporting module,2026-08-26
+901221,50476,EMP108,Arjun Patel,2026-07-05,0.5,Regression testing for CRM-211 - etl pipeline crashes when using dashboard,2026-07-05
+901222,50476,EMP108,Arjun Patel,2026-07-19,4.0,Applied fix for CRM-211 - etl pipeline crashes when using dashboard,2026-07-22
+901223,50477,EMP103,Sneha Reddy,2026-09-01,3.0,Updated docs for CRM-212 - update documentation for admin console,2026-09-01
+901224,50477,EMP103,Sneha Reddy,2026-08-27,6.0,Worked on CRM-212 - update documentation for admin console,2026-08-27
+901225,50477,EMP103,Sneha Reddy,2026-09-02,4.0,Configured settings for CRM-212 - update documentation for admin console,2026-09-03
+901226,50477,EMP103,Sneha Reddy,2026-08-14,0.5,Validated CRM-212 - update documentation for admin console,2026-08-14
+901227,50477,EMP115,Pooja Krishnan,2026-08-29,1.0,Validated CRM-212 - update documentation for admin console,2026-09-01
+901228,50478,EMP106,Karthik Rao,2026-04-07,4.0,Worked on MOB-182 - configure payment processing for backend service,2026-04-08
+901229,50478,EMP106,Karthik Rao,2026-04-07,1.0,Validated MOB-182 - configure payment processing for backend service,2026-04-07
+901230,50478,EMP106,Karthik Rao,2026-04-14,6.0,Worked on MOB-182 - configure payment processing for backend service,2026-04-15
+901231,50478,EMP106,Karthik Rao,2026-04-13,2.5,Worked on MOB-182 - configure payment processing for backend service,2026-04-15
+901232,50479,EMP119,Isha Kapoor,2026-03-17,0.5,Regression testing for PROJ-192 - incorrect audit logging results in data warehouse,2026-03-18
+901233,50479,EMP107,Meera Joshi,2026-03-20,4.0,Investigated root cause of PROJ-192 - incorrect audit logging results in data warehouse,2026-03-20
+901234,50479,EMP117,Lakshmi Suresh,2026-04-02,0.5,Reproduced issue: PROJ-192 - incorrect audit logging results in data warehouse,2026-04-03
+901235,50479,EMP117,Lakshmi Suresh,2026-03-16,8.0,Regression testing for PROJ-192 - incorrect audit logging results in data warehouse,2026-03-18
+901236,50480,EMP106,Karthik Rao,2026-01-19,5.0,Reproduced issue: MOB-183 - incorrect login flow results in mobile app,2026-01-20
+901237,50483,EMP119,Isha Kapoor,2026-01-06,0.5,"Implemented changes for OPS-198 - as a user, i want audit logging in admin console",2026-01-06
+901238,50483,EMP119,Isha Kapoor,2026-01-07,2.0,"Wrote unit tests for OPS-198 - as a user, i want audit logging in admin console",2026-01-08
+901239,50483,EMP116,Manish Agarwal,2026-01-10,8.0,"Design discussion on OPS-198 - as a user, i want audit logging in admin console",2026-01-11
+901240,50483,EMP119,Isha Kapoor,2026-01-06,6.0,"Wrote unit tests for OPS-198 - as a user, i want audit logging in admin console",2026-01-06
+901241,50484,EMP116,Manish Agarwal,2026-06-10,6.0,Reproduced issue: MOB-185 - fix file upload failure in mobile app,2026-06-10
+901242,50484,EMP100,Aarav Sharma,2026-06-12,5.0,Investigated root cause of MOB-185 - fix file upload failure in mobile app,2026-06-12
+901243,50484,EMP105,Ananya Gupta,2026-05-27,6.0,Investigated root cause of MOB-185 - fix file upload failure in mobile app,2026-05-27
+901244,50485,EMP102,Rahul Verma,2026-06-15,2.5,Investigated root cause of CRM-213 - mobile app crashes when using data export,2026-06-15
+901245,50485,EMP102,Rahul Verma,2026-06-14,5.0,Applied fix for CRM-213 - mobile app crashes when using data export,2026-06-16
+901246,50486,EMP103,Sneha Reddy,2026-10-01,1.5,Stakeholder sync on PROJ-193 - deliver api integration across web portal,2026-10-03
+901247,50486,EMP115,Pooja Krishnan,2026-09-28,2.5,Planning and breakdown for PROJ-193 - deliver api integration across web portal,2026-09-28
+901248,50486,EMP105,Ananya Gupta,2026-10-05,3.0,Planning and breakdown for PROJ-193 - deliver api integration across web portal,2026-10-06
+901249,50486,EMP110,Rohan Das,2026-10-04,8.0,Stakeholder sync on PROJ-193 - deliver api integration across web portal,2026-10-05
+901250,50487,EMP119,Isha Kapoor,2026-02-13,8.0,Updated docs for PROJ-194 - configure file upload for web portal,2026-02-13
+901251,50487,EMP107,Meera Joshi,2026-02-16,1.0,Configured settings for PROJ-194 - configure file upload for web portal,2026-02-17
+901252,50487,EMP112,Siddharth Kumar,2026-02-17,3.0,Worked on PROJ-194 - configure file upload for web portal,2026-02-17
+901253,50488,EMP109,Divya Menon,2026-08-04,6.0,Applied fix for PROJ-195 - incorrect caching results in web portal,2026-08-05
+901254,50488,EMP109,Divya Menon,2026-08-03,1.5,Applied fix for PROJ-195 - incorrect caching results in web portal,2026-08-03
+901255,50488,EMP109,Divya Menon,2026-08-03,4.0,Investigated root cause of PROJ-195 - incorrect caching results in web portal,2026-08-03
+901256,50488,EMP109,Divya Menon,2026-08-04,4.0,Regression testing for PROJ-195 - incorrect caching results in web portal,2026-08-05
+901257,50489,EMP110,Rohan Das,2026-01-16,8.0,Validated OPS-199 - configure data export for web portal,2026-01-16
+901258,50489,EMP110,Rohan Das,2026-01-23,3.0,Configured settings for OPS-199 - configure data export for web portal,2026-01-23
+901259,50490,EMP104,Vikram Iyer,2026-11-13,1.0,Configured settings for DATA-198 - update documentation for mobile app,2026-11-13
+901260,50490,EMP104,Vikram Iyer,2026-11-14,5.0,Updated docs for DATA-198 - update documentation for mobile app,2026-11-14
+901261,50491,EMP116,Manish Agarwal,2026-02-03,5.0,Developed PROJ-196 - implement audit logging for etl pipeline,2026-02-05
+901262,50491,EMP116,Manish Agarwal,2026-02-06,2.5,Wrote unit tests for PROJ-196 - implement audit logging for etl pipeline,2026-02-06
+901263,50491,EMP116,Manish Agarwal,2026-02-07,1.5,Design discussion on PROJ-196 - implement audit logging for etl pipeline,2026-02-08
+901264,50491,EMP116,Manish Agarwal,2026-02-03,4.0,Code review for PROJ-196 - implement audit logging for etl pipeline,2026-02-03
+901265,50491,EMP116,Manish Agarwal,2026-02-03,1.0,Wrote unit tests for PROJ-196 - implement audit logging for etl pipeline,2026-02-03
+901266,50491,EMP116,Manish Agarwal,2026-02-05,1.5,Code review for PROJ-196 - implement audit logging for etl pipeline,2026-02-05
+901267,50492,EMP115,Pooja Krishnan,2026-11-11,8.0,"Wrote unit tests for DATA-199 - as a user, i want payment processing in etl pipeline",2026-11-11
+901268,50492,EMP115,Pooja Krishnan,2026-11-16,2.5,"Design discussion on DATA-199 - as a user, i want payment processing in etl pipeline",2026-11-16
+901269,50492,EMP113,Neha Singh,2026-10-28,6.0,"Wrote unit tests for DATA-199 - as a user, i want payment processing in etl pipeline",2026-10-28
+901270,50493,EMP106,Karthik Rao,2026-05-07,5.0,Validated DATA-200 - update documentation for mobile app,2026-05-08
+901271,50493,EMP100,Aarav Sharma,2026-05-16,1.0,Worked on DATA-200 - update documentation for mobile app,2026-05-17
+901272,50493,EMP100,Aarav Sharma,2026-05-01,2.0,Validated DATA-200 - update documentation for mobile app,2026-05-01
+901273,50494,EMP102,Rahul Verma,2026-04-08,4.0,Code review for PROJ-197 - implement login flow for admin console,2026-04-10
+901274,50494,EMP102,Rahul Verma,2026-03-25,6.0,Developed PROJ-197 - implement login flow for admin console,2026-03-25
+901275,50494,EMP102,Rahul Verma,2026-04-01,4.0,Code review for PROJ-197 - implement login flow for admin console,2026-04-02
+901276,50495,EMP105,Ananya Gupta,2026-06-30,8.0,Design discussion on MOB-186 - implement dashboard for etl pipeline,2026-07-02
+901277,50495,EMP105,Ananya Gupta,2026-07-03,4.0,Code review for MOB-186 - implement dashboard for etl pipeline,2026-07-03
+901278,50495,EMP114,Aditya Mishra,2026-06-27,8.0,Design discussion on MOB-186 - implement dashboard for etl pipeline,2026-06-30
+901279,50495,EMP105,Ananya Gupta,2026-06-27,0.5,Code review for MOB-186 - implement dashboard for etl pipeline,2026-06-28
+901280,50496,EMP103,Sneha Reddy,2026-05-10,2.5,Validated CRM-214 - update documentation for backend service,2026-05-10
+901281,50496,EMP113,Neha Singh,2026-05-15,1.0,Configured settings for CRM-214 - update documentation for backend service,2026-05-15
+901282,50496,EMP103,Sneha Reddy,2026-05-18,1.5,Updated docs for CRM-214 - update documentation for backend service,2026-05-18
+901283,50496,EMP103,Sneha Reddy,2026-05-09,4.0,Configured settings for CRM-214 - update documentation for backend service,2026-05-09
+901284,50496,EMP103,Sneha Reddy,2026-05-08,0.5,Validated CRM-214 - update documentation for backend service,2026-05-08
+901285,50496,EMP103,Sneha Reddy,2026-05-11,2.0,Updated docs for CRM-214 - update documentation for backend service,2026-05-11
+901286,50497,EMP106,Karthik Rao,2026-06-21,5.0,Updated docs for DATA-201 - update documentation for etl pipeline,2026-06-22
+901287,50497,EMP106,Karthik Rao,2026-06-20,4.0,Worked on DATA-201 - update documentation for etl pipeline,2026-06-20
+901288,50498,EMP101,Priya Nair,2026-10-05,6.0,Implemented changes for DATA-202 - enable notifications on admin console,2026-10-06
+901289,50499,EMP117,Lakshmi Suresh,2026-10-22,8.0,Updated docs for OPS-200 - update documentation for etl pipeline,2026-10-22
+901290,50499,EMP114,Aditya Mishra,2026-10-29,4.0,Updated docs for OPS-200 - update documentation for etl pipeline,2026-10-30
+901291,50499,EMP114,Aditya Mishra,2026-10-15,2.0,Updated docs for OPS-200 - update documentation for etl pipeline,2026-10-15
+901292,50499,EMP114,Aditya Mishra,2026-10-23,5.0,Updated docs for OPS-200 - update documentation for etl pipeline,2026-10-23
+901293,50499,EMP112,Siddharth Kumar,2026-10-06,0.5,Worked on OPS-200 - update documentation for etl pipeline,2026-10-09
+901294,50499,EMP114,Aditya Mishra,2026-10-25,3.0,Validated OPS-200 - update documentation for etl pipeline,2026-10-26
+901295,50499,EMP114,Aditya Mishra,2026-10-14,0.5,Validated OPS-200 - update documentation for etl pipeline,2026-10-14
+901296,50500,EMP114,Aditya Mishra,2026-09-03,2.5,"Code review for DATA-203 - as a user, i want caching in mobile app",2026-09-03

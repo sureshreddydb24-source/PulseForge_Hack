@@ -1,0 +1,27 @@
+mobility_id,employee_id,current_department,previous_department,current_role,previous_role,mobility_type,effective_date,career_interest,target_role,mobility_status
+MOB0001,EMP206,IT Service Management,IT Service Management,Lead Database Administrator,Senior Database Administrator,Promotion,2026-12-15,Cybersecurity,Security Analyst,Proposed
+MOB0002,EMP300,Human Resources,Human Resources,Senior HR Business Partner,HR Business Partner,Promotion,2027-01-04,HR Leadership,HR Manager,Approved
+MOB0003,EMP310,Finance,Finance,Financial Analyst,Junior Financial Analyst,Promotion,2025-10-02,Business Analytics,Business Analyst,Completed
+MOB0004,EMP107,Product Engineering,Product Engineering,Software Engineer,Associate Software Engineer,Promotion,2025-05-03,Engineering Management,Engineering Manager,Completed
+MOB0005,EMP111,IT Service Management,Data & Mobile Engineering,Machine Learning Engineer,Data Engineer,Internal Transfer,2027-01-01,ML Engineering,Machine Learning Engineer,Proposed
+MOB0006,EMP204,IT Service Management,Data & Mobile Engineering,Senior Network Engineer,Senior Data Engineer,Internal Transfer,2025-12-27,Cloud Operations,Cloud Operations Engineer,Completed
+MOB0007,EMP114,Data & Mobile Engineering,Data & Mobile Engineering,Data Engineer,Associate Data Engineer,Promotion,2027-01-12,Data Science,Data Scientist,Approved
+MOB0008,EMP118,Data & Mobile Engineering,Data & Mobile Engineering,Lead Data Engineer,Senior Data Engineer,Promotion,2027-02-14,ML Engineering,Machine Learning Engineer,Proposed
+MOB0009,EMP101,Product Engineering,Product Engineering,Lead Software Engineer,Senior Software Engineer,Promotion,2026-10-14,Product Management,Product Manager,Completed
+MOB0010,EMP311,Finance,Finance,Lead Accountant,Senior Accountant,Promotion,2026-12-06,Business Analytics,Business Analyst,Approved
+MOB0011,EMP303,Human Resources,Human Resources,Payroll Specialist,Junior Payroll Specialist,Promotion,2024-08-16,Talent Analytics,People Analytics Lead,Completed
+MOB0012,EMP100,Product Engineering,Product Engineering,Senior Software Engineer,Software Engineer,Promotion,2027-02-10,Cloud Architecture,Cloud Solutions Architect,Approved
+MOB0013,EMP103,Product Engineering,Data & Mobile Engineering,Software Engineer,Data Engineer,Internal Transfer,2026-01-10,Product Management,Product Manager,Completed
+MOB0014,EMP105,Product Engineering,Product Engineering,Lead Software Engineer,Senior Software Engineer,Promotion,2024-08-17,Cloud Architecture,Cloud Solutions Architect,Completed
+MOB0015,EMP302,Human Resources,Human Resources,Senior HR Generalist,HR Generalist,Promotion,2026-12-07,HR Leadership,HR Manager,Proposed
+MOB0016,EMP116,Product Engineering,Data & Mobile Engineering,Data Architect,Data Engineer,Internal Transfer,2026-12-01,Data Architecture,Data Architect,Approved
+MOB0017,EMP202,IT Service Management,IT Service Management,Lead Service Desk Analyst,Senior Service Desk Analyst,Promotion,2026-12-09,Site Reliability Engineering,Site Reliability Engineer,Approved
+MOB0018,EMP109,Product Engineering,Product Engineering,Senior Software Engineer,Software Engineer,Promotion,2024-07-01,Engineering Management,Engineering Manager,Completed
+MOB0019,EMP315,Finance,Finance,Senior Financial Controller,Financial Controller,Promotion,2026-12-08,Finance Leadership,Finance Manager,Proposed
+MOB0020,EMP200,IT Service Management,Product Engineering,Service Desk Analyst,Software Engineer,Internal Transfer,2026-09-18,Cybersecurity,Security Analyst,Completed
+MOB0021,EMP112,Data & Mobile Engineering,Product Engineering,Data Engineer,Software Engineer,Internal Transfer,2024-10-17,Data Architecture,Data Architect,Completed
+MOB0022,EMP301,Human Resources,Human Resources,Talent Acquisition Specialist,Junior Talent Acquisition Specialist,Promotion,2025-02-16,Talent Analytics,People Analytics Lead,Completed
+MOB0023,EMP208,IT Service Management,Product Engineering,Application Support Analyst,Software Engineer,Internal Transfer,2024-11-21,Cybersecurity,Security Analyst,Completed
+MOB0024,EMP110,Data & Mobile Engineering,Data & Mobile Engineering,Data Engineer,Associate Data Engineer,Promotion,2024-05-15,ML Engineering,Machine Learning Engineer,Completed
+MOB0025,EMP312,Finance,Finance,Senior Accounts Payable Specialist,Accounts Payable Specialist,Promotion,2027-01-20,Finance Leadership,Finance Manager,Proposed
+MOB0026,EMP102,Product Engineering,Product Engineering,Senior Software Engineer,Software Engineer,Promotion,2024-10-07,Product Management,Product Manager,Completed

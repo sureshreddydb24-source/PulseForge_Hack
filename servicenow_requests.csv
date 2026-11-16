@@ -1,0 +1,401 @@
+request_id,employee_id,request_type,request_category,requested_item,assigned_group,assigned_to_id,request_status,request_date,approval_status,completion_date,fulfillment_time_hours
+RITM20010001,EMP116,Hardware,End-User Device,New laptop,Desktop Support,EMP210,Closed Complete,2026-02-21 13:42:14,Approved,2026-02-24 03:37:17,61.92
+RITM20010002,EMP114,Software,Software Installation,Python 3.12,Application Support,EMP207,Closed Complete,2026-01-31 13:43:08,Approved,2026-02-02 01:32:14,35.82
+RITM20010003,EMP108,Hardware,End-User Device,Additional monitor,Desktop Support,EMP209,Closed Complete,2026-10-22 16:54:00,Approved,2026-10-30 20:14:45,195.35
+RITM20010004,EMP114,Hardware,Peripherals,Docking station,Desktop Support,EMP209,Closed Complete,2026-05-10 09:05:21,Approved,2026-05-11 12:35:09,27.5
+RITM20010005,EMP108,General Service,Offboarding,Leaver account deactivation,Service Desk,EMP201,Closed Incomplete,2026-10-03 14:17:48,Approved,2026-10-06 15:29:47,73.2
+RITM20010006,EMP109,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Complete,2026-05-25 08:08:03,Approved,2026-05-27 17:42:55,57.58
+RITM20010007,EMP109,Hardware,End-User Device,New laptop,Desktop Support,EMP209,Closed Complete,2026-05-07 11:55:55,Approved,2026-05-11 18:51:59,102.93
+RITM20010008,EMP112,Software,Software Installation,Visual Studio Code,Application Support,EMP208,Closed Complete,2026-04-22 09:50:13,Approved,2026-04-23 09:14:33,23.41
+RITM20010009,EMP116,Software,Software License,Adobe Acrobat Pro,Application Support,EMP208,Work in Progress,2026-03-21 14:45:26,Approved,,
+RITM20010010,EMP113,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-09-30 08:11:56,Approved,2026-09-30 16:34:04,8.37
+RITM20010011,EMP101,Network,Connectivity,Firewall rule change,Network Operations,EMP204,Closed Incomplete,2026-07-03 12:42:33,Approved,2026-07-04 06:41:37,17.98
+RITM20010012,EMP111,General Service,Mobile,Corporate mobile SIM,Service Desk,EMP202,Closed Complete,2026-05-27 16:30:44,Approved,2026-05-30 05:25:16,60.91
+RITM20010013,EMP100,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP212,Closed Incomplete,2026-07-01 11:38:09,Approved,2026-07-02 13:51:04,26.22
+RITM20010014,EMP100,Software,Software Installation,Python 3.12,Application Support,EMP207,Closed Complete,2026-09-23 14:08:54,Approved,2026-09-24 00:18:42,10.16
+RITM20010015,EMP113,Software,Software License,MS Visio license,Application Support,EMP208,Closed Complete,2026-02-11 12:47:22,Approved,2026-02-13 14:30:52,49.73
+RITM20010016,EMP104,Software,Software Installation,Python 3.12,Application Support,EMP207,Closed Complete,2026-01-29 18:35:49,Approved,2026-01-31 17:19:22,46.73
+RITM20010017,EMP102,Software,Software Installation,Visual Studio Code,Application Support,EMP208,Closed Complete,2026-01-14 15:28:35,Approved,2026-01-16 17:03:47,49.59
+RITM20010018,EMP103,General Service,Offboarding,Leaver account deactivation,Service Desk,EMP200,Closed Complete,2026-07-08 17:02:39,Approved,2026-07-09 19:00:00,25.96
+RITM20010019,EMP104,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP212,Closed Complete,2026-04-20 17:32:39,Approved,2026-04-22 10:46:48,41.24
+RITM20010020,EMP113,Software,Software Installation,Python 3.12,Application Support,EMP208,Closed Rejected,2026-08-30 14:53:25,Rejected,2026-08-31 02:31:09,11.63
+RITM20010021,EMP117,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP211,Closed Complete,2026-09-25 17:16:13,Approved,2026-09-27 05:57:23,36.69
+RITM20010022,EMP114,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP212,Closed Complete,2026-10-19 10:20:57,Approved,2026-10-21 06:12:09,43.85
+RITM20010023,EMP108,Hardware,End-User Device,New laptop,Desktop Support,EMP209,Closed Complete,2026-01-19 11:44:47,Approved,2026-01-20 11:57:43,24.22
+RITM20010024,EMP108,Software,Software Installation,Python 3.12,Application Support,EMP208,Work in Progress,2026-03-05 14:12:19,Approved,,
+RITM20010025,EMP118,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP211,Closed Incomplete,2026-04-04 17:08:05,Approved,2026-04-05 14:29:48,21.36
+RITM20010026,EMP107,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP211,Closed Complete,2026-09-21 15:35:54,Approved,2026-09-22 07:12:18,15.61
+RITM20010027,EMP108,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP212,Closed Complete,2026-04-17 12:11:53,Approved,2026-04-18 09:33:58,21.37
+RITM20010028,EMP104,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Complete,2026-09-21 15:07:39,Approved,2026-09-22 02:17:22,11.16
+RITM20010029,EMP117,Hardware,Peripherals,Docking station,Desktop Support,EMP209,Closed Complete,2026-08-01 15:19:55,Approved,2026-08-08 03:44:54,156.42
+RITM20010030,EMP101,Hardware,End-User Device,New laptop,Desktop Support,EMP209,Closed Complete,2026-10-20 16:51:44,Approved,2026-10-28 05:54:45,181.05
+RITM20010031,EMP107,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP212,Closed Complete,2026-08-02 12:56:39,Approved,2026-08-02 19:56:39,7.0
+RITM20010032,EMP101,Hardware,End-User Device,Additional monitor,Desktop Support,EMP209,Closed Complete,2026-02-04 09:35:31,Approved,2026-02-09 21:27:14,131.86
+RITM20010033,EMP116,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP212,Closed Complete,2026-10-23 16:08:55,Approved,2026-10-24 07:35:37,15.45
+RITM20010034,EMP106,General Service,Mobile,Corporate mobile SIM,Service Desk,EMP200,Closed Complete,2026-10-15 18:21:36,Approved,2026-10-17 04:26:25,34.08
+RITM20010035,EMP106,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP212,Closed Complete,2026-08-16 18:24:32,Approved,2026-08-17 11:42:06,17.29
+RITM20010036,EMP107,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP211,Closed Complete,2026-08-05 10:32:52,Approved,2026-08-06 07:56:14,21.39
+RITM20010037,EMP111,Software,Software License,MS Visio license,Application Support,EMP208,Work in Progress,2026-06-20 16:03:47,Approved,,
+RITM20010038,EMP111,Network,Connectivity,Firewall rule change,Network Operations,EMP204,Work in Progress,2026-04-21 10:46:32,Approved,,
+RITM20010039,EMP106,General Service,Onboarding,New joiner IT setup,Service Desk,EMP201,Closed Complete,2026-05-17 09:40:16,Approved,2026-05-19 00:41:47,39.03
+RITM20010040,EMP111,Hardware,Peripherals,Wireless headset,Desktop Support,EMP210,Closed Complete,2026-09-17 18:29:19,Approved,2026-09-26 16:32:33,214.05
+RITM20010041,EMP104,Hardware,End-User Device,Additional monitor,Desktop Support,EMP209,Closed Complete,2026-10-29 11:16:25,Approved,2026-10-31 23:35:00,60.31
+RITM20010042,EMP117,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP211,Closed Complete,2026-01-27 17:09:03,Approved,2026-01-27 20:00:36,2.86
+RITM20010043,EMP114,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP212,Closed Complete,2026-08-24 10:02:23,Approved,2026-08-25 21:21:01,35.31
+RITM20010044,EMP113,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-09-11 17:33:39,Approved,2026-09-12 03:59:06,10.42
+RITM20010045,EMP111,Software,Software License,MS Visio license,Application Support,EMP207,Closed Complete,2026-01-13 10:37:06,Approved,2026-01-15 18:21:33,55.74
+RITM20010046,EMP110,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP212,Closed Complete,2026-08-15 11:13:39,Approved,2026-08-15 22:25:47,11.2
+RITM20010047,EMP118,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP211,Closed Complete,2026-01-06 14:49:34,Approved,2026-01-07 13:46:14,22.94
+RITM20010048,EMP102,Software,Software License,MS Visio license,Application Support,EMP208,Closed Complete,2026-09-05 16:14:04,Approved,2026-09-06 23:13:17,30.99
+RITM20010049,EMP109,General Service,Mobile,Corporate mobile SIM,Service Desk,EMP202,Closed Complete,2026-09-02 14:21:13,Approved,2026-09-03 22:32:07,32.18
+RITM20010050,EMP113,Software,Software License,MS Visio license,Application Support,EMP208,Closed Complete,2026-10-04 14:38:42,Approved,2026-10-05 09:26:20,18.79
+RITM20010051,EMP113,Hardware,End-User Device,Additional monitor,Desktop Support,EMP209,Work in Progress,2026-08-25 10:34:31,Approved,,
+RITM20010052,EMP115,Network,Connectivity,Static IP allocation,Network Operations,EMP204,Closed Complete,2026-08-21 16:40:27,Approved,2026-08-24 00:59:12,56.31
+RITM20010053,EMP102,General Service,Onboarding,New joiner IT setup,Service Desk,EMP201,Closed Complete,2026-05-24 10:11:04,Approved,2026-05-25 00:48:51,14.63
+RITM20010054,EMP101,Software,Software Installation,Python 3.12,Application Support,EMP208,Closed Rejected,2026-07-20 15:39:22,Rejected,2026-07-22 07:04:15,39.41
+RITM20010055,EMP107,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Complete,2026-01-08 12:46:02,Approved,2026-01-10 22:55:44,58.16
+RITM20010056,EMP117,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-05-24 18:13:12,Approved,2026-05-25 10:40:11,16.45
+RITM20010057,EMP115,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Complete,2026-10-17 11:49:55,Approved,2026-10-18 23:16:09,35.44
+RITM20010058,EMP109,General Service,Offboarding,Leaver account deactivation,Service Desk,EMP200,Closed Complete,2026-05-29 17:21:16,Approved,2026-05-31 21:34:53,52.23
+RITM20010059,EMP105,General Service,Onboarding,New joiner IT setup,Service Desk,EMP202,Closed Complete,2026-09-03 11:21:15,Approved,2026-09-03 20:05:21,8.74
+RITM20010060,EMP106,Hardware,End-User Device,Additional monitor,Desktop Support,EMP209,Closed Complete,2026-09-08 12:09:38,Approved,2026-09-12 13:41:09,97.53
+RITM20010061,EMP114,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP211,Closed Rejected,2026-01-09 09:24:02,Rejected,2026-01-10 15:08:22,29.74
+RITM20010062,EMP113,General Service,Onboarding,New joiner IT setup,Service Desk,EMP200,Closed Complete,2026-01-05 15:46:45,Approved,2026-01-08 05:43:53,61.95
+RITM20010063,EMP104,Hardware,End-User Device,New laptop,Desktop Support,EMP209,Closed Complete,2026-01-19 08:54:01,Approved,2026-01-24 15:25:23,126.52
+RITM20010064,EMP115,Hardware,End-User Device,New laptop,Desktop Support,EMP210,Closed Complete,2026-03-22 12:55:11,Approved,2026-03-26 09:00:25,92.09
+RITM20010065,EMP103,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP211,Closed Complete,2026-08-12 17:10:34,Approved,2026-08-13 15:16:24,22.1
+RITM20010066,EMP104,Software,Software Installation,Python 3.12,Application Support,EMP207,Closed Complete,2026-01-31 09:02:45,Approved,2026-02-02 19:53:24,58.84
+RITM20010067,EMP106,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Work in Progress,2026-01-14 10:52:22,Approved,,
+RITM20010068,EMP103,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP212,Closed Complete,2026-03-07 12:01:03,Approved,2026-03-09 09:24:06,45.38
+RITM20010069,EMP105,Network,Connectivity,Static IP allocation,Network Operations,EMP203,Closed Rejected,2026-06-29 18:57:03,Rejected,2026-06-30 06:43:35,11.78
+RITM20010070,EMP117,Access,User Access,VPN access,Identity & Access Mgmt,EMP212,Closed Complete,2026-09-16 11:09:53,Approved,2026-09-18 05:26:30,42.28
+RITM20010071,EMP115,Software,Software License,MS Visio license,Application Support,EMP208,Closed Incomplete,2026-04-01 18:13:41,Approved,2026-04-03 20:27:22,50.23
+RITM20010072,EMP111,Software,Software License,Adobe Acrobat Pro,Application Support,EMP208,Closed Complete,2026-06-06 14:56:33,Approved,2026-06-08 22:42:54,55.77
+RITM20010073,EMP111,Hardware,Peripherals,Docking station,Desktop Support,EMP209,Closed Complete,2026-02-19 16:01:08,Approved,2026-02-20 17:25:11,25.4
+RITM20010074,EMP115,Hardware,End-User Device,Additional monitor,Desktop Support,EMP209,Closed Complete,2026-08-22 11:56:41,Approved,2026-08-28 17:45:25,149.81
+RITM20010075,EMP112,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP212,Closed Complete,2026-10-10 17:07:39,Approved,2026-10-12 06:10:54,37.05
+RITM20010076,EMP116,Network,Connectivity,Static IP allocation,Network Operations,EMP203,Closed Complete,2026-03-08 08:25:38,Approved,2026-03-09 02:07:15,17.69
+RITM20010077,EMP114,Hardware,End-User Device,New laptop,Desktop Support,EMP210,Closed Complete,2026-10-09 08:53:20,Approved,2026-10-14 17:13:24,128.33
+RITM20010078,EMP116,Software,Software Installation,Python 3.12,Application Support,EMP207,Closed Complete,2026-10-15 16:50:06,Approved,2026-10-16 03:27:14,10.62
+RITM20010079,EMP111,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP211,Closed Complete,2026-05-08 18:42:58,Approved,2026-05-09 05:20:59,10.63
+RITM20010080,EMP116,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP211,Closed Incomplete,2026-09-04 13:47:49,Approved,2026-09-06 10:53:59,45.1
+RITM20010081,EMP119,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP212,Closed Complete,2026-03-15 14:30:46,Approved,2026-03-16 08:32:54,18.04
+RITM20010082,EMP114,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP211,Closed Complete,2026-04-07 13:50:50,Approved,2026-04-08 17:13:59,27.39
+RITM20010083,EMP103,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP211,Closed Complete,2026-06-08 14:54:34,Approved,2026-06-09 03:10:40,12.27
+RITM20010084,EMP116,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Complete,2026-07-30 14:00:03,Approved,2026-08-02 10:32:05,68.53
+RITM20010085,EMP102,Hardware,Peripherals,Wireless headset,Desktop Support,EMP210,Closed Complete,2026-03-23 11:12:36,Approved,2026-03-31 21:46:27,202.56
+RITM20010086,EMP101,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Incomplete,2026-02-02 12:26:38,Approved,2026-02-02 23:35:15,11.14
+RITM20010087,EMP119,Hardware,End-User Device,Additional monitor,Desktop Support,EMP209,Closed Complete,2026-07-28 17:24:58,Approved,2026-08-06 22:24:32,220.99
+RITM20010088,EMP110,Software,Software Installation,Python 3.12,Application Support,EMP208,Closed Complete,2026-04-19 18:51:39,Approved,2026-04-21 18:45:34,47.9
+RITM20010089,EMP100,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP211,Closed Complete,2026-06-28 10:41:09,Approved,2026-06-30 08:21:37,45.67
+RITM20010090,EMP117,Hardware,End-User Device,Additional monitor,Desktop Support,EMP210,Closed Complete,2026-10-02 09:04:13,Approved,2026-10-05 02:52:17,65.8
+RITM20010091,EMP113,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP212,Closed Complete,2026-07-04 18:46:33,Approved,2026-07-05 23:39:09,28.88
+RITM20010092,EMP112,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP211,Closed Complete,2026-04-14 18:20:57,Approved,2026-04-16 09:07:04,38.77
+RITM20010093,EMP111,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-06-27 18:43:27,Approved,2026-06-29 15:47:15,45.06
+RITM20010094,EMP106,Software,Software License,MS Visio license,Application Support,EMP208,Closed Complete,2026-04-11 14:42:38,Approved,2026-04-13 10:44:09,44.03
+RITM20010095,EMP117,General Service,Mobile,Corporate mobile SIM,Service Desk,EMP201,Closed Incomplete,2026-10-16 14:24:19,Approved,2026-10-19 04:54:36,62.5
+RITM20010096,EMP117,Hardware,End-User Device,Additional monitor,Desktop Support,EMP210,Closed Complete,2026-07-21 14:20:51,Approved,2026-07-30 15:26:57,217.1
+RITM20010097,EMP102,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP211,Closed Incomplete,2026-08-23 15:01:46,Approved,2026-08-25 12:55:59,45.9
+RITM20010098,EMP118,Hardware,Peripherals,Wireless headset,Desktop Support,EMP209,Closed Rejected,2026-08-21 15:45:43,Rejected,2026-08-23 12:27:50,44.7
+RITM20010099,EMP115,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP211,Closed Complete,2026-10-13 15:03:48,Approved,2026-10-15 01:25:08,34.36
+RITM20010100,EMP108,General Service,Onboarding,New joiner IT setup,Service Desk,EMP201,Closed Complete,2026-09-24 08:35:07,Approved,2026-09-24 21:26:17,12.85
+RITM20010101,EMP116,Network,Connectivity,Firewall rule change,Network Operations,EMP203,Closed Complete,2026-01-10 15:22:16,Approved,2026-01-12 01:40:35,34.31
+RITM20010102,EMP112,Network,Connectivity,Static IP allocation,Network Operations,EMP203,Closed Complete,2026-04-29 14:41:51,Approved,2026-05-02 14:53:07,72.19
+RITM20010103,EMP105,Hardware,Peripherals,Docking station,Desktop Support,EMP210,Closed Complete,2026-08-25 17:55:19,Approved,2026-09-02 03:02:37,177.12
+RITM20010104,EMP115,General Service,Offboarding,Leaver account deactivation,Service Desk,EMP202,Closed Complete,2026-02-17 12:53:18,Approved,2026-02-19 08:51:30,43.97
+RITM20010105,EMP104,Hardware,Peripherals,Wireless headset,Desktop Support,EMP210,Closed Complete,2026-09-02 11:20:17,Approved,2026-09-10 04:44:24,185.4
+RITM20010106,EMP107,Hardware,Peripherals,Docking station,Desktop Support,EMP210,Closed Complete,2026-03-20 18:02:05,Approved,2026-03-22 22:42:42,52.68
+RITM20010107,EMP104,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Complete,2026-01-17 13:30:56,Approved,2026-01-17 23:01:24,9.51
+RITM20010108,EMP115,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP211,Closed Complete,2026-07-28 17:09:22,Approved,2026-07-30 14:06:35,44.95
+RITM20010109,EMP101,Software,Software Installation,Python 3.12,Application Support,EMP208,Closed Complete,2026-08-28 10:35:18,Approved,2026-08-31 08:57:51,70.38
+RITM20010110,EMP107,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP211,Closed Complete,2026-06-13 09:19:52,Approved,2026-06-15 00:54:37,39.58
+RITM20010111,EMP107,Software,Software License,MS Visio license,Application Support,EMP208,Closed Complete,2026-01-07 18:17:04,Approved,2026-01-09 11:27:29,41.17
+RITM20010112,EMP118,Network,Connectivity,Static IP allocation,Network Operations,EMP204,Closed Incomplete,2026-10-30 14:49:06,Approved,2026-11-03 10:12:36,91.39
+RITM20010113,EMP107,Access,User Access,VPN access,Identity & Access Mgmt,EMP212,Closed Complete,2026-04-01 14:52:13,Approved,2026-04-02 21:49:30,30.95
+RITM20010114,EMP116,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP212,Closed Complete,2026-10-14 14:28:23,Approved,2026-10-15 02:01:34,11.55
+RITM20010115,EMP114,Hardware,End-User Device,New laptop,Desktop Support,EMP209,Closed Complete,2026-05-21 14:13:26,Approved,2026-05-31 08:18:39,234.09
+RITM20010116,EMP107,Software,Software Installation,Visual Studio Code,Application Support,EMP208,Closed Incomplete,2026-07-08 17:17:09,Approved,2026-07-10 21:51:02,52.56
+RITM20010117,EMP107,Hardware,Peripherals,Docking station,Desktop Support,EMP209,Closed Complete,2026-01-13 18:42:08,Approved,2026-01-16 20:54:56,74.21
+RITM20010118,EMP106,Hardware,Peripherals,Docking station,Desktop Support,EMP210,Closed Complete,2026-08-13 09:00:17,Approved,2026-08-21 04:22:24,187.37
+RITM20010119,EMP117,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP211,Closed Complete,2026-08-03 11:55:49,Approved,2026-08-04 20:00:10,32.07
+RITM20010120,EMP118,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP211,Closed Complete,2026-09-21 12:47:44,Approved,2026-09-22 22:05:25,33.29
+RITM20010121,EMP100,General Service,Onboarding,New joiner IT setup,Service Desk,EMP202,Closed Complete,2026-04-25 11:19:50,Approved,2026-04-26 21:54:17,34.57
+RITM20010122,EMP118,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP211,Closed Rejected,2026-09-22 09:32:15,Rejected,2026-09-23 15:27:59,29.93
+RITM20010123,EMP115,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP212,Closed Complete,2026-09-12 13:15:45,Approved,2026-09-13 00:47:58,11.54
+RITM20010124,EMP118,Software,Software License,Adobe Acrobat Pro,Application Support,EMP208,Closed Complete,2026-03-10 12:10:25,Approved,2026-03-11 10:34:28,22.4
+RITM20010125,EMP106,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-03-22 11:19:22,Approved,2026-03-23 14:14:19,26.92
+RITM20010126,EMP114,Hardware,End-User Device,Additional monitor,Desktop Support,EMP210,Closed Complete,2026-08-11 10:54:08,Approved,2026-08-15 10:40:52,95.78
+RITM20010127,EMP108,Hardware,End-User Device,Additional monitor,Desktop Support,EMP209,Closed Complete,2026-05-16 10:38:00,Approved,2026-05-26 00:32:04,229.9
+RITM20010128,EMP118,Software,Software Installation,Visual Studio Code,Application Support,EMP207,Closed Complete,2026-09-14 11:48:55,Approved,2026-09-17 08:35:13,68.77
+RITM20010129,EMP110,Network,Connectivity,Static IP allocation,Network Operations,EMP204,Closed Rejected,2026-07-16 16:32:54,Rejected,2026-07-18 15:30:15,46.96
+RITM20010130,EMP102,Software,Software License,MS Visio license,Application Support,EMP207,Closed Complete,2026-08-25 17:06:03,Approved,2026-08-27 01:29:13,32.39
+RITM20010131,EMP102,General Service,Onboarding,New joiner IT setup,Service Desk,EMP200,Closed Complete,2026-03-31 15:44:01,Approved,2026-04-01 11:27:50,19.73
+RITM20010132,EMP115,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP211,Closed Complete,2026-06-07 16:02:10,Approved,2026-06-08 00:19:05,8.28
+RITM20010133,EMP111,Hardware,End-User Device,Additional monitor,Desktop Support,EMP209,Closed Rejected,2026-10-15 18:41:51,Rejected,2026-10-17 09:42:33,39.01
+RITM20010134,EMP105,Hardware,End-User Device,Additional monitor,Desktop Support,EMP209,Closed Complete,2026-07-02 17:12:36,Approved,2026-07-10 18:09:49,192.95
+RITM20010135,EMP104,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-04-09 12:18:43,Approved,2026-04-10 04:20:40,16.03
+RITM20010136,EMP117,General Service,Mobile,Corporate mobile SIM,Service Desk,EMP200,Closed Complete,2026-10-13 14:58:54,Approved,2026-10-14 23:23:25,32.41
+RITM20010137,EMP116,Hardware,Peripherals,Wireless headset,Desktop Support,EMP209,Closed Complete,2026-08-04 16:32:48,Approved,2026-08-05 22:42:29,30.16
+RITM20010138,EMP119,Software,Software Installation,Visual Studio Code,Application Support,EMP207,Closed Complete,2026-03-18 18:56:58,Approved,2026-03-20 09:53:17,38.94
+RITM20010139,EMP100,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-05-24 17:30:03,Approved,2026-05-26 01:00:49,31.51
+RITM20010140,EMP112,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP211,Closed Complete,2026-07-05 08:09:54,Approved,2026-07-05 17:12:50,9.05
+RITM20010141,EMP114,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP211,Closed Complete,2026-03-11 17:17:11,Approved,2026-03-12 13:42:52,20.43
+RITM20010142,EMP110,General Service,Mobile,Corporate mobile SIM,Service Desk,EMP202,Closed Complete,2026-07-25 13:15:03,Approved,2026-07-27 23:14:57,58.0
+RITM20010143,EMP114,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP211,Closed Complete,2026-08-06 11:46:36,Approved,2026-08-06 20:04:21,8.3
+RITM20010144,EMP119,General Service,Mobile,Corporate mobile SIM,Service Desk,EMP202,Closed Complete,2026-04-18 12:30:02,Approved,2026-04-21 01:50:30,61.34
+RITM20010145,EMP102,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Complete,2026-10-22 12:41:51,Approved,2026-10-23 10:38:52,21.95
+RITM20010146,EMP106,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP212,Closed Complete,2026-07-24 09:50:44,Approved,2026-07-25 20:15:33,34.41
+RITM20010147,EMP109,General Service,Offboarding,Leaver account deactivation,Service Desk,EMP201,Closed Complete,2026-07-18 13:43:46,Approved,2026-07-20 04:00:17,38.28
+RITM20010148,EMP107,Software,Software Installation,Visual Studio Code,Application Support,EMP207,Closed Complete,2026-06-27 12:55:30,Approved,2026-06-30 10:23:15,69.46
+RITM20010149,EMP110,Software,Software License,Adobe Acrobat Pro,Application Support,EMP208,Closed Rejected,2026-05-15 13:02:12,Rejected,2026-05-15 23:38:13,10.6
+RITM20010150,EMP112,Hardware,End-User Device,New laptop,Desktop Support,EMP209,Closed Incomplete,2026-08-15 18:36:26,Approved,2026-08-23 06:50:19,180.23
+RITM20010151,EMP110,Hardware,End-User Device,Additional monitor,Desktop Support,EMP210,Closed Complete,2026-07-21 13:10:40,Approved,2026-07-30 12:05:38,214.92
+RITM20010152,EMP119,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP212,Closed Complete,2026-09-17 17:53:44,Approved,2026-09-17 22:57:12,5.06
+RITM20010153,EMP105,Hardware,Peripherals,Docking station,Desktop Support,EMP209,Closed Complete,2026-02-22 13:49:38,Approved,2026-02-26 13:23:16,95.56
+RITM20010154,EMP102,Access,User Access,VPN access,Identity & Access Mgmt,EMP212,Closed Complete,2026-06-01 12:44:42,Approved,2026-06-03 07:29:08,42.74
+RITM20010155,EMP102,Hardware,End-User Device,Additional monitor,Desktop Support,EMP210,Closed Rejected,2026-03-03 18:06:27,Rejected,2026-03-04 01:40:17,7.56
+RITM20010156,EMP113,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP211,Closed Complete,2026-09-02 17:56:43,Approved,2026-09-03 07:38:58,13.7
+RITM20010157,EMP111,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP211,Closed Complete,2026-06-13 10:45:39,Approved,2026-06-15 02:30:19,39.74
+RITM20010158,EMP101,Software,Software License,Adobe Acrobat Pro,Application Support,EMP208,Closed Complete,2026-05-03 17:55:48,Approved,2026-05-05 10:48:46,40.88
+RITM20010159,EMP107,Access,User Access,VPN access,Identity & Access Mgmt,EMP212,Closed Complete,2026-02-03 16:24:18,Approved,2026-02-04 03:39:31,11.25
+RITM20010160,EMP106,Network,Connectivity,Firewall rule change,Network Operations,EMP204,Closed Complete,2026-09-24 17:39:05,Approved,2026-09-25 04:54:13,11.25
+RITM20010161,EMP104,Hardware,End-User Device,New laptop,Desktop Support,EMP209,Closed Complete,2026-03-01 14:56:22,Approved,2026-03-03 23:41:32,56.75
+RITM20010162,EMP108,Software,Software Installation,Python 3.12,Application Support,EMP208,Closed Complete,2026-01-23 12:16:13,Approved,2026-01-25 02:10:59,37.91
+RITM20010163,EMP115,Software,Software License,MS Visio license,Application Support,EMP207,Closed Rejected,2026-03-22 10:26:13,Rejected,2026-03-23 20:01:57,33.6
+RITM20010164,EMP111,Network,Connectivity,Static IP allocation,Network Operations,EMP203,Closed Incomplete,2026-01-28 13:06:07,Approved,2026-02-01 10:26:02,93.33
+RITM20010165,EMP106,Network,Connectivity,Firewall rule change,Network Operations,EMP203,Closed Rejected,2026-05-25 14:38:50,Rejected,2026-05-26 05:47:35,15.15
+RITM20010166,EMP111,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP211,Closed Complete,2026-05-21 15:03:16,Approved,2026-05-23 10:01:39,42.97
+RITM20010167,EMP111,Hardware,Peripherals,Wireless headset,Desktop Support,EMP210,Closed Complete,2026-11-01 15:22:47,Approved,2026-11-04 23:36:57,80.24
+RITM20010168,EMP112,Hardware,Peripherals,Docking station,Desktop Support,EMP210,Closed Complete,2026-05-25 09:47:43,Approved,2026-05-28 20:24:27,82.61
+RITM20010169,EMP102,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-08-23 18:08:51,Approved,2026-08-24 19:01:26,24.88
+RITM20010170,EMP108,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP211,Closed Complete,2026-04-02 10:00:54,Approved,2026-04-02 15:32:10,5.52
+RITM20010171,EMP115,Hardware,Peripherals,Wireless headset,Desktop Support,EMP210,Closed Complete,2026-06-14 13:20:08,Approved,2026-06-18 08:06:11,90.77
+RITM20010172,EMP109,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP212,Closed Complete,2026-09-11 10:32:12,Approved,2026-09-12 19:15:31,32.72
+RITM20010173,EMP107,Hardware,End-User Device,New laptop,Desktop Support,EMP210,Closed Complete,2026-05-03 16:07:29,Approved,2026-05-06 05:54:22,61.78
+RITM20010174,EMP109,Software,Software Installation,Visual Studio Code,Application Support,EMP208,Closed Complete,2026-10-07 17:16:42,Approved,2026-10-09 23:58:05,54.69
+RITM20010175,EMP109,Hardware,Peripherals,Wireless headset,Desktop Support,EMP209,Closed Complete,2026-04-29 10:52:36,Approved,2026-05-02 13:33:23,74.68
+RITM20010176,EMP104,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP212,Closed Complete,2026-05-08 18:45:49,Approved,2026-05-09 00:29:06,5.72
+RITM20010177,EMP119,General Service,Mobile,Corporate mobile SIM,Service Desk,EMP201,Closed Complete,2026-04-24 11:14:13,Approved,2026-04-25 23:15:13,36.02
+RITM20010178,EMP119,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP211,Closed Complete,2026-09-22 09:17:35,Approved,2026-09-23 07:32:30,22.25
+RITM20010179,EMP102,Network,Connectivity,Static IP allocation,Network Operations,EMP204,Closed Complete,2026-10-04 13:07:06,Approved,2026-10-04 21:26:04,8.32
+RITM20010180,EMP106,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP212,Closed Complete,2026-09-26 12:05:46,Approved,2026-09-27 13:36:11,25.51
+RITM20010181,EMP109,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP212,Closed Complete,2026-04-14 12:22:15,Approved,2026-04-16 01:26:00,37.06
+RITM20010182,EMP108,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP211,Closed Complete,2026-03-23 09:55:37,Approved,2026-03-25 01:38:14,39.71
+RITM20010183,EMP110,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP212,Closed Complete,2026-07-09 17:11:26,Approved,2026-07-10 09:23:37,16.2
+RITM20010184,EMP101,Software,Software License,Adobe Acrobat Pro,Application Support,EMP208,Closed Complete,2026-09-08 15:36:26,Approved,2026-09-11 14:00:23,70.4
+RITM20010185,EMP110,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP211,Closed Complete,2026-01-05 17:08:46,Approved,2026-01-06 07:13:54,14.09
+RITM20010186,EMP102,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP211,Closed Complete,2026-02-25 17:25:42,Approved,2026-02-27 03:15:31,33.83
+RITM20010187,EMP110,Software,Software Installation,Visual Studio Code,Application Support,EMP208,Closed Complete,2026-10-30 18:23:04,Approved,2026-11-01 18:50:32,48.46
+RITM20010188,EMP112,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP212,Closed Complete,2026-09-08 18:11:47,Approved,2026-09-09 01:13:13,7.02
+RITM20010189,EMP103,Hardware,Peripherals,Docking station,Desktop Support,EMP209,Closed Complete,2026-06-08 08:02:42,Approved,2026-06-15 11:56:36,171.9
+RITM20010190,EMP100,Network,Connectivity,Firewall rule change,Network Operations,EMP203,Closed Complete,2026-05-21 15:00:31,Approved,2026-05-26 09:49:37,114.82
+RITM20010191,EMP100,Hardware,Peripherals,Docking station,Desktop Support,EMP209,Closed Complete,2026-04-30 17:46:52,Approved,2026-05-05 00:18:15,102.52
+RITM20010192,EMP104,Hardware,Peripherals,Docking station,Desktop Support,EMP210,Closed Complete,2026-05-15 10:38:30,Approved,2026-05-23 13:50:23,195.2
+RITM20010193,EMP119,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP211,Work in Progress,2026-05-07 13:22:11,Approved,,
+RITM20010194,EMP104,General Service,Offboarding,Leaver account deactivation,Service Desk,EMP200,Closed Complete,2026-05-20 16:14:38,Approved,2026-05-22 15:29:33,47.25
+RITM20010195,EMP118,Access,User Access,VPN access,Identity & Access Mgmt,EMP212,Closed Complete,2026-10-21 08:38:29,Approved,2026-10-21 12:08:04,3.49
+RITM20010196,EMP111,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP211,Closed Complete,2026-03-24 12:11:17,Approved,2026-03-25 22:26:53,34.26
+RITM20010197,EMP116,Software,Software License,MS Visio license,Application Support,EMP208,Work in Progress,2026-04-08 08:18:38,Approved,,
+RITM20010198,EMP117,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP211,Closed Complete,2026-09-26 12:48:03,Approved,2026-09-27 10:24:37,21.61
+RITM20010199,EMP108,Software,Software License,MS Visio license,Application Support,EMP207,Closed Complete,2026-06-29 10:52:47,Approved,2026-06-29 22:01:14,11.14
+RITM20010200,EMP106,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Complete,2026-08-25 11:37:19,Approved,2026-08-28 03:07:01,63.5
+RITM20010201,EMP103,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Complete,2026-06-26 16:40:31,Approved,2026-06-29 09:51:17,65.18
+RITM20010202,EMP102,General Service,Offboarding,Leaver account deactivation,Service Desk,EMP200,Closed Complete,2026-02-05 11:10:44,Approved,2026-02-07 02:30:44,39.33
+RITM20010203,EMP104,Hardware,Peripherals,Wireless headset,Desktop Support,EMP209,Closed Complete,2026-03-11 17:10:59,Approved,2026-03-16 10:11:33,113.01
+RITM20010204,EMP113,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP212,Closed Complete,2026-03-16 12:15:07,Approved,2026-03-16 23:07:46,10.88
+RITM20010205,EMP113,Hardware,End-User Device,New laptop,Desktop Support,EMP210,Work in Progress,2026-11-11 13:41:45,Approved,,
+RITM20010206,EMP109,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-06-07 13:35:59,Approved,2026-06-08 20:21:21,30.76
+RITM20010207,EMP118,Hardware,Peripherals,Wireless headset,Desktop Support,EMP210,Work in Progress,2026-11-13 18:34:36,Approved,,
+RITM20010208,EMP107,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP211,Closed Complete,2026-02-16 13:09:56,Approved,2026-02-18 03:37:38,38.46
+RITM20010209,EMP101,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP211,Closed Rejected,2026-08-17 09:42:34,Rejected,2026-08-19 07:01:49,45.32
+RITM20010210,EMP107,Hardware,End-User Device,New laptop,Desktop Support,EMP209,Closed Complete,2026-04-13 13:14:59,Approved,2026-04-16 21:04:18,79.82
+RITM20010211,EMP104,Software,Software Installation,Visual Studio Code,Application Support,EMP207,Closed Rejected,2026-10-29 11:42:18,Rejected,2026-10-30 14:30:46,26.81
+RITM20010212,EMP111,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP212,Closed Complete,2026-01-14 14:40:52,Approved,2026-01-16 07:57:10,41.27
+RITM20010213,EMP114,Hardware,End-User Device,New laptop,Desktop Support,EMP210,Closed Complete,2026-08-29 12:28:39,Approved,2026-09-04 23:06:24,154.63
+RITM20010214,EMP102,General Service,Mobile,Corporate mobile SIM,Service Desk,EMP200,Closed Complete,2026-06-22 08:14:59,Approved,2026-06-23 03:09:35,18.91
+RITM20010215,EMP117,Software,Software Installation,Visual Studio Code,Application Support,EMP208,Closed Rejected,2026-09-11 18:05:51,Rejected,2026-09-12 07:19:30,13.23
+RITM20010216,EMP102,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-03-28 09:18:14,Approved,2026-03-28 20:48:55,11.51
+RITM20010217,EMP109,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP212,Closed Complete,2026-06-25 18:22:54,Approved,2026-06-26 11:30:29,17.13
+RITM20010218,EMP111,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP211,Closed Rejected,2026-10-11 10:34:50,Rejected,2026-10-12 03:54:24,17.33
+RITM20010219,EMP102,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP212,Closed Complete,2026-03-25 14:12:44,Approved,2026-03-26 08:55:00,18.7
+RITM20010220,EMP101,Software,Software License,MS Visio license,Application Support,EMP207,Closed Complete,2026-06-22 18:05:58,Approved,2026-06-24 01:22:43,31.28
+RITM20010221,EMP105,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP212,Closed Complete,2026-01-30 14:22:45,Approved,2026-01-31 13:48:48,23.43
+RITM20010222,EMP102,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-10-09 09:56:25,Approved,2026-10-09 18:24:51,8.47
+RITM20010223,EMP106,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP212,Closed Incomplete,2026-09-13 09:25:24,Approved,2026-09-14 21:33:03,36.13
+RITM20010224,EMP102,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP212,Closed Complete,2026-05-09 13:28:31,Approved,2026-05-10 18:02:24,28.56
+RITM20010225,EMP111,Software,Software License,MS Visio license,Application Support,EMP207,Closed Incomplete,2026-07-14 18:10:39,Approved,2026-07-17 07:34:49,61.4
+RITM20010226,EMP113,Network,Connectivity,Static IP allocation,Network Operations,EMP204,Closed Complete,2026-07-30 17:07:45,Approved,2026-08-04 11:29:41,114.37
+RITM20010227,EMP100,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-07-10 11:04:23,Approved,2026-07-10 18:09:39,7.09
+RITM20010228,EMP106,Software,Software Installation,Python 3.12,Application Support,EMP207,Closed Incomplete,2026-07-30 14:12:14,Approved,2026-08-01 07:42:15,41.5
+RITM20010229,EMP118,Software,Software License,Adobe Acrobat Pro,Application Support,EMP208,Closed Complete,2026-10-21 11:21:13,Approved,2026-10-21 17:40:15,6.32
+RITM20010230,EMP117,Software,Software Installation,Visual Studio Code,Application Support,EMP207,Closed Complete,2026-07-20 08:19:11,Approved,2026-07-21 11:45:18,27.44
+RITM20010231,EMP115,General Service,Onboarding,New joiner IT setup,Service Desk,EMP201,Closed Complete,2026-09-28 09:18:00,Approved,2026-10-02 00:25:44,87.13
+RITM20010232,EMP116,General Service,Offboarding,Leaver account deactivation,Service Desk,EMP201,Closed Complete,2026-11-13 14:09:05,Approved,2026-11-16 06:41:12,64.54
+RITM20010233,EMP111,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Complete,2026-07-15 11:12:47,Approved,2026-07-18 01:27:23,62.24
+RITM20010234,EMP111,Software,Software Installation,Visual Studio Code,Application Support,EMP208,Closed Complete,2026-09-06 14:16:52,Approved,2026-09-07 03:58:22,13.69
+RITM20010235,EMP119,General Service,Mobile,Corporate mobile SIM,Service Desk,EMP200,Closed Rejected,2026-07-27 13:54:17,Rejected,2026-07-28 04:47:55,14.89
+RITM20010236,EMP115,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP211,Closed Complete,2026-04-18 14:42:34,Approved,2026-04-20 02:05:42,35.39
+RITM20010237,EMP112,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Complete,2026-11-04 16:17:59,Approved,2026-11-04 22:50:07,6.54
+RITM20010238,EMP111,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP212,Closed Complete,2026-10-14 10:34:22,Approved,2026-10-15 16:08:12,29.56
+RITM20010239,EMP105,Hardware,Peripherals,Docking station,Desktop Support,EMP209,Work in Progress,2026-03-01 12:58:25,Approved,,
+RITM20010240,EMP119,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP211,Closed Complete,2026-10-13 11:32:19,Approved,2026-10-13 22:07:25,10.59
+RITM20010241,EMP101,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP212,Closed Complete,2026-03-26 15:58:02,Approved,2026-03-27 01:04:02,9.1
+RITM20010242,EMP116,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP212,Closed Complete,2026-01-20 14:27:09,Approved,2026-01-22 12:20:09,45.88
+RITM20010243,EMP105,Software,Software License,MS Visio license,Application Support,EMP207,Closed Complete,2026-08-01 08:41:45,Approved,2026-08-01 23:57:04,15.26
+RITM20010244,EMP104,Network,Connectivity,Firewall rule change,Network Operations,EMP204,Closed Complete,2026-10-28 08:35:55,Approved,2026-10-30 14:16:17,53.67
+RITM20010245,EMP103,Software,Software License,MS Visio license,Application Support,EMP207,Closed Complete,2026-03-27 14:01:40,Approved,2026-03-29 07:05:36,41.07
+RITM20010246,EMP103,Software,Software Installation,Visual Studio Code,Application Support,EMP207,Closed Rejected,2026-07-10 16:03:17,Rejected,2026-07-11 04:46:10,12.71
+RITM20010247,EMP110,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP212,Closed Complete,2026-07-25 15:02:27,Approved,2026-07-27 08:30:53,41.47
+RITM20010248,EMP112,General Service,Offboarding,Leaver account deactivation,Service Desk,EMP202,Closed Complete,2026-02-23 09:32:46,Approved,2026-02-24 08:15:50,22.72
+RITM20010249,EMP100,Software,Software Installation,Visual Studio Code,Application Support,EMP207,Closed Complete,2026-03-07 18:33:24,Approved,2026-03-08 21:36:09,27.05
+RITM20010250,EMP112,Software,Software License,MS Visio license,Application Support,EMP208,Closed Complete,2026-04-06 08:20:07,Approved,2026-04-08 00:48:02,40.47
+RITM20010251,EMP106,Network,Connectivity,Firewall rule change,Network Operations,EMP204,Closed Complete,2026-02-24 18:46:32,Approved,2026-02-28 21:02:31,98.27
+RITM20010252,EMP116,General Service,Mobile,Corporate mobile SIM,Service Desk,EMP202,Closed Complete,2026-05-11 17:16:28,Approved,2026-05-14 10:41:17,65.41
+RITM20010253,EMP107,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP212,Closed Complete,2026-02-14 11:50:08,Approved,2026-02-16 04:01:04,40.18
+RITM20010254,EMP117,General Service,Onboarding,New joiner IT setup,Service Desk,EMP202,Closed Complete,2026-06-21 16:37:29,Approved,2026-06-22 22:09:01,29.53
+RITM20010255,EMP104,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Complete,2026-06-15 12:07:42,Approved,2026-06-16 03:35:32,15.46
+RITM20010256,EMP103,Software,Software Installation,Visual Studio Code,Application Support,EMP208,Closed Complete,2026-07-28 11:08:54,Approved,2026-07-30 08:33:11,45.4
+RITM20010257,EMP117,Software,Software License,Adobe Acrobat Pro,Application Support,EMP208,Closed Complete,2026-01-19 17:59:54,Approved,2026-01-21 19:04:10,49.07
+RITM20010258,EMP111,Hardware,End-User Device,New laptop,Desktop Support,EMP209,Closed Complete,2026-05-21 17:06:13,Approved,2026-05-30 20:50:04,219.73
+RITM20010259,EMP103,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP211,Closed Complete,2026-07-17 16:41:05,Approved,2026-07-19 12:02:16,43.35
+RITM20010260,EMP118,Software,Software License,Adobe Acrobat Pro,Application Support,EMP208,Closed Complete,2026-03-23 16:14:04,Approved,2026-03-25 09:00:01,40.77
+RITM20010261,EMP115,Software,Software License,Adobe Acrobat Pro,Application Support,EMP208,Closed Complete,2026-01-26 12:47:44,Approved,2026-01-27 10:49:45,22.03
+RITM20010262,EMP112,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP212,Closed Incomplete,2026-10-07 18:05:33,Approved,2026-10-08 15:37:01,21.52
+RITM20010263,EMP105,Software,Software Installation,Visual Studio Code,Application Support,EMP208,Closed Complete,2026-08-01 08:07:04,Approved,2026-08-01 12:45:38,4.64
+RITM20010264,EMP104,General Service,Mobile,Corporate mobile SIM,Service Desk,EMP200,Closed Complete,2026-07-20 13:15:13,Approved,2026-07-21 13:45:28,24.5
+RITM20010265,EMP108,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-09-03 09:20:09,Approved,2026-09-04 04:27:18,19.12
+RITM20010266,EMP102,Software,Software License,Adobe Acrobat Pro,Application Support,EMP208,Closed Complete,2026-05-04 15:36:51,Approved,2026-05-05 18:15:11,26.64
+RITM20010267,EMP112,Access,Application Access,Salesforce license,Identity & Access Mgmt,,Pending Approval,2026-11-13 15:24:15,Pending,,
+RITM20010268,EMP105,Hardware,End-User Device,Additional monitor,Desktop Support,EMP210,Closed Complete,2026-03-21 09:43:25,Approved,2026-03-22 13:18:57,27.59
+RITM20010269,EMP115,Software,Software Installation,Python 3.12,Application Support,EMP207,Closed Complete,2026-03-07 13:33:37,Approved,2026-03-10 03:23:22,61.83
+RITM20010270,EMP107,Software,Software Installation,Python 3.12,Application Support,EMP207,Closed Incomplete,2026-01-30 16:18:19,Approved,2026-02-01 10:17:00,41.98
+RITM20010271,EMP112,Software,Software Installation,Python 3.12,Application Support,EMP208,Closed Complete,2026-06-21 14:45:54,Approved,2026-06-23 14:18:54,47.55
+RITM20010272,EMP105,Hardware,Peripherals,Wireless headset,Desktop Support,EMP210,Closed Complete,2026-09-12 18:46:48,Approved,2026-09-17 15:54:49,117.13
+RITM20010273,EMP113,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP212,Closed Rejected,2026-01-28 16:30:01,Rejected,2026-01-29 06:12:16,13.7
+RITM20010274,EMP115,Software,Software Installation,Python 3.12,Application Support,EMP207,Closed Complete,2026-06-16 17:37:47,Approved,2026-06-19 12:22:56,66.75
+RITM20010275,EMP112,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Complete,2026-03-14 08:49:21,Approved,2026-03-16 07:55:18,47.1
+RITM20010276,EMP102,Network,Connectivity,Firewall rule change,Network Operations,EMP204,Closed Complete,2026-04-11 10:03:03,Approved,2026-04-15 07:47:59,93.75
+RITM20010277,EMP108,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Complete,2026-05-22 12:41:21,Approved,2026-05-23 05:25:59,16.74
+RITM20010278,EMP114,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP212,Work in Progress,2026-09-21 15:28:19,Approved,,
+RITM20010279,EMP107,Software,Software License,MS Visio license,Application Support,EMP208,Closed Complete,2026-10-26 09:23:19,Approved,2026-10-27 14:29:49,29.11
+RITM20010280,EMP103,Access,User Access,VPN access,Identity & Access Mgmt,EMP212,Closed Complete,2026-09-29 15:49:03,Approved,2026-09-29 19:52:55,4.06
+RITM20010281,EMP110,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP211,Work in Progress,2026-06-03 10:10:45,Approved,,
+RITM20010282,EMP103,General Service,Offboarding,Leaver account deactivation,Service Desk,EMP200,Closed Complete,2026-05-09 17:50:14,Approved,2026-05-13 09:35:29,87.75
+RITM20010283,EMP102,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP211,Closed Incomplete,2026-04-21 12:34:18,Approved,2026-04-21 18:16:10,5.7
+RITM20010284,EMP113,Software,Software Installation,Visual Studio Code,Application Support,EMP207,Closed Complete,2026-06-14 10:22:05,Approved,2026-06-14 20:27:52,10.1
+RITM20010285,EMP109,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-04-24 10:18:01,Approved,2026-04-25 03:06:06,16.8
+RITM20010286,EMP115,Software,Software License,MS Visio license,Application Support,EMP208,Closed Complete,2026-02-06 08:21:14,Approved,2026-02-06 13:32:28,5.19
+RITM20010287,EMP105,General Service,Onboarding,New joiner IT setup,Service Desk,EMP200,Closed Complete,2026-02-04 18:43:32,Approved,2026-02-07 11:34:46,64.85
+RITM20010288,EMP119,Hardware,End-User Device,New laptop,Desktop Support,EMP210,Closed Complete,2026-03-13 18:55:07,Approved,2026-03-21 04:46:52,177.86
+RITM20010289,EMP119,General Service,Onboarding,New joiner IT setup,Service Desk,EMP201,Work in Progress,2026-05-03 13:27:26,Approved,,
+RITM20010290,EMP100,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP211,Closed Complete,2026-01-27 15:13:39,Approved,2026-01-29 04:33:50,37.34
+RITM20010291,EMP106,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP212,Closed Rejected,2026-10-19 16:03:33,Rejected,2026-10-21 08:58:15,40.91
+RITM20010292,EMP114,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP211,Closed Complete,2026-05-18 14:52:36,Approved,2026-05-20 10:33:29,43.68
+RITM20010293,EMP109,Hardware,Peripherals,Wireless headset,Desktop Support,EMP210,Closed Complete,2026-06-04 11:04:47,Approved,2026-06-05 11:36:48,24.53
+RITM20010294,EMP114,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP212,Closed Rejected,2026-07-03 08:37:49,Rejected,2026-07-03 18:54:55,10.29
+RITM20010295,EMP114,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-08-14 17:56:40,Approved,2026-08-16 03:01:11,33.08
+RITM20010296,EMP109,Hardware,End-User Device,New laptop,Desktop Support,EMP210,Closed Complete,2026-06-30 13:26:33,Approved,2026-07-08 01:26:48,180.0
+RITM20010297,EMP113,Access,User Access,VPN access,Identity & Access Mgmt,EMP212,Closed Rejected,2026-03-03 10:14:52,Rejected,2026-03-03 13:58:32,3.73
+RITM20010298,EMP119,Hardware,End-User Device,Additional monitor,Desktop Support,EMP210,Closed Complete,2026-05-08 10:08:52,Approved,2026-05-18 06:21:03,236.2
+RITM20010299,EMP100,Network,Connectivity,Static IP allocation,Network Operations,EMP204,Closed Complete,2026-01-09 11:17:18,Approved,2026-01-12 00:40:20,61.38
+RITM20010300,EMP117,General Service,Mobile,Corporate mobile SIM,Service Desk,EMP201,Closed Complete,2026-04-16 08:14:18,Approved,2026-04-19 12:56:07,76.7
+RITM20010301,EMP107,Access,User Access,VPN access,Identity & Access Mgmt,EMP212,Closed Complete,2026-08-17 17:06:42,Approved,2026-08-18 05:48:19,12.69
+RITM20010302,EMP101,Hardware,End-User Device,New laptop,Desktop Support,EMP209,Closed Complete,2026-02-25 09:58:07,Approved,2026-02-28 07:30:34,69.54
+RITM20010303,EMP116,Access,User Access,VPN access,Identity & Access Mgmt,EMP212,Closed Complete,2026-01-13 15:59:05,Approved,2026-01-14 17:39:16,25.67
+RITM20010304,EMP103,Software,Software Installation,Visual Studio Code,Application Support,EMP208,Closed Complete,2026-08-31 17:01:01,Approved,2026-09-02 00:42:04,31.68
+RITM20010305,EMP113,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Complete,2026-01-28 12:17:56,Approved,2026-01-31 01:51:34,61.56
+RITM20010306,EMP115,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP212,Closed Complete,2026-03-25 10:59:43,Approved,2026-03-27 05:38:07,42.64
+RITM20010307,EMP115,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP211,Closed Complete,2026-10-29 15:20:34,Approved,2026-10-30 10:19:47,18.99
+RITM20010308,EMP102,Access,User Access,VPN access,Identity & Access Mgmt,EMP212,Closed Complete,2026-10-14 15:56:56,Approved,2026-10-14 20:00:01,4.05
+RITM20010309,EMP110,Software,Software Installation,Python 3.12,Application Support,EMP208,Closed Complete,2026-09-23 17:01:08,Approved,2026-09-25 00:20:04,31.32
+RITM20010310,EMP105,Access,User Access,VPN access,Identity & Access Mgmt,EMP212,Closed Complete,2026-02-16 13:50:47,Approved,2026-02-17 16:23:50,26.55
+RITM20010311,EMP100,General Service,Mobile,Corporate mobile SIM,Service Desk,EMP202,Work in Progress,2026-06-25 18:16:02,Approved,,
+RITM20010312,EMP113,Software,Software Installation,Visual Studio Code,Application Support,EMP208,Closed Complete,2026-05-07 09:41:00,Approved,2026-05-09 04:45:43,43.08
+RITM20010313,EMP113,General Service,Onboarding,New joiner IT setup,Service Desk,EMP201,Closed Complete,2026-04-22 18:59:37,Approved,2026-04-24 03:00:45,32.02
+RITM20010314,EMP102,Network,Connectivity,Static IP allocation,Network Operations,EMP203,Work in Progress,2026-07-09 15:09:45,Approved,,
+RITM20010315,EMP100,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP211,Closed Complete,2026-09-04 11:46:43,Approved,2026-09-04 14:17:29,2.51
+RITM20010316,EMP100,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP211,Closed Complete,2026-05-04 16:09:36,Approved,2026-05-06 10:51:28,42.7
+RITM20010317,EMP117,Hardware,End-User Device,Additional monitor,Desktop Support,EMP210,Closed Complete,2026-10-23 08:09:15,Approved,2026-10-30 12:22:33,172.22
+RITM20010318,EMP108,Hardware,Peripherals,Docking station,Desktop Support,EMP209,Closed Complete,2026-07-29 16:41:30,Approved,2026-08-02 11:56:13,91.25
+RITM20010319,EMP106,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP211,Closed Complete,2026-09-15 17:53:20,Approved,2026-09-17 15:27:18,45.57
+RITM20010320,EMP119,Hardware,Peripherals,Docking station,Desktop Support,EMP209,Closed Complete,2026-01-25 15:14:43,Approved,2026-01-29 03:56:34,84.7
+RITM20010321,EMP100,General Service,Onboarding,New joiner IT setup,Service Desk,EMP201,Closed Rejected,2026-05-26 11:22:58,Rejected,2026-05-27 03:09:39,15.78
+RITM20010322,EMP118,General Service,Mobile,Corporate mobile SIM,Service Desk,EMP200,Closed Complete,2026-04-23 12:45:22,Approved,2026-04-27 07:49:49,91.07
+RITM20010323,EMP104,General Service,Mobile,Corporate mobile SIM,Service Desk,EMP202,Closed Complete,2026-06-12 13:02:51,Approved,2026-06-15 21:55:02,80.87
+RITM20010324,EMP100,Hardware,End-User Device,Additional monitor,Desktop Support,EMP209,Closed Complete,2026-05-16 12:26:29,Approved,2026-05-26 02:45:20,230.31
+RITM20010325,EMP107,Software,Software Installation,Visual Studio Code,Application Support,EMP208,Closed Complete,2026-02-14 16:33:06,Approved,2026-02-15 14:29:39,21.94
+RITM20010326,EMP111,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Complete,2026-06-17 10:00:21,Approved,2026-06-19 16:09:17,54.15
+RITM20010327,EMP119,Software,Software License,MS Visio license,Application Support,EMP208,Closed Complete,2026-05-05 14:59:16,Approved,2026-05-06 20:47:24,29.8
+RITM20010328,EMP113,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP212,Closed Complete,2026-04-14 16:22:00,Approved,2026-04-16 03:05:51,34.73
+RITM20010329,EMP111,Software,Software Installation,Visual Studio Code,Application Support,EMP208,Closed Rejected,2026-08-12 15:14:18,Rejected,2026-08-13 12:30:51,21.28
+RITM20010330,EMP118,General Service,Offboarding,Leaver account deactivation,Service Desk,EMP201,Closed Complete,2026-11-08 13:10:29,Approved,2026-11-10 02:22:38,37.2
+RITM20010331,EMP103,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP212,Closed Complete,2026-05-14 09:17:10,Approved,2026-05-16 00:08:53,38.86
+RITM20010332,EMP100,Hardware,Peripherals,Wireless headset,Desktop Support,EMP210,Closed Complete,2026-06-15 17:27:37,Approved,2026-06-19 01:47:21,80.33
+RITM20010333,EMP113,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP211,Closed Rejected,2026-09-06 17:25:47,Rejected,2026-09-07 00:42:09,7.27
+RITM20010334,EMP119,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP211,Closed Complete,2026-08-17 09:39:34,Approved,2026-08-18 00:22:57,14.72
+RITM20010335,EMP116,Access,User Access,VPN access,Identity & Access Mgmt,EMP212,Closed Complete,2026-10-05 16:47:32,Approved,2026-10-06 16:19:33,23.53
+RITM20010336,EMP111,Access,User Access,VPN access,Identity & Access Mgmt,EMP212,Closed Complete,2026-04-27 10:20:34,Approved,2026-04-27 17:24:02,7.06
+RITM20010337,EMP103,Software,Software Installation,Python 3.12,Application Support,EMP207,Closed Complete,2026-03-17 09:36:42,Approved,2026-03-18 12:20:09,26.72
+RITM20010338,EMP103,Software,Software License,MS Visio license,Application Support,EMP208,Closed Complete,2026-02-03 13:12:32,Approved,2026-02-04 10:02:22,20.83
+RITM20010339,EMP114,Software,Software License,MS Visio license,Application Support,EMP208,Closed Complete,2026-05-25 08:14:37,Approved,2026-05-28 03:19:11,67.08
+RITM20010340,EMP118,Hardware,End-User Device,New laptop,Desktop Support,EMP210,Closed Complete,2026-03-25 13:47:06,Approved,2026-04-01 09:19:18,163.54
+RITM20010341,EMP111,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP212,Closed Complete,2026-09-25 16:26:16,Approved,2026-09-27 07:24:48,38.98
+RITM20010342,EMP108,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP211,Work in Progress,2026-07-02 09:09:38,Approved,,
+RITM20010343,EMP116,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-04-24 13:50:01,Approved,2026-04-26 09:23:08,43.55
+RITM20010344,EMP102,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP211,Closed Rejected,2026-07-30 08:37:19,Rejected,2026-07-30 19:25:01,10.8
+RITM20010345,EMP110,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP211,Closed Complete,2026-06-08 14:35:48,Approved,2026-06-08 23:17:31,8.7
+RITM20010346,EMP103,Network,Connectivity,Firewall rule change,Network Operations,EMP204,Closed Complete,2026-09-10 18:39:35,Approved,2026-09-12 01:50:12,31.18
+RITM20010347,EMP103,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-06-26 16:45:08,Approved,2026-06-28 07:29:52,38.75
+RITM20010348,EMP107,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Rejected,2026-06-22 10:26:08,Rejected,2026-06-23 21:00:04,34.57
+RITM20010349,EMP118,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP211,Closed Complete,2026-06-21 10:32:15,Approved,2026-06-22 11:18:09,24.77
+RITM20010350,EMP109,Software,Software License,MS Visio license,Application Support,EMP207,Closed Complete,2026-06-22 15:05:26,Approved,2026-06-23 06:04:02,14.98
+RITM20010351,EMP111,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP212,Closed Complete,2026-07-04 15:06:20,Approved,2026-07-05 10:02:22,18.93
+RITM20010352,EMP107,Software,Software Installation,Python 3.12,Application Support,EMP208,Closed Complete,2026-09-19 09:53:07,Approved,2026-09-21 02:16:43,40.39
+RITM20010353,EMP101,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP212,Closed Complete,2026-09-15 18:23:03,Approved,2026-09-16 17:28:08,23.08
+RITM20010354,EMP103,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-05-31 09:28:27,Approved,2026-06-01 05:38:21,20.17
+RITM20010355,EMP108,General Service,Offboarding,Leaver account deactivation,Service Desk,EMP201,Closed Complete,2026-03-13 15:21:21,Approved,2026-03-14 16:41:49,25.34
+RITM20010356,EMP100,Software,Software License,Adobe Acrobat Pro,Application Support,EMP208,Closed Complete,2026-06-14 14:23:42,Approved,2026-06-16 18:54:13,52.51
+RITM20010357,EMP106,Software,Software Installation,Visual Studio Code,Application Support,EMP207,Closed Complete,2026-01-30 13:46:31,Approved,2026-01-31 01:42:43,11.94
+RITM20010358,EMP113,Hardware,Peripherals,Wireless headset,Desktop Support,EMP210,Closed Complete,2026-04-23 11:17:39,Approved,2026-04-30 19:04:22,175.78
+RITM20010359,EMP104,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP212,Closed Complete,2026-09-21 10:40:46,Approved,2026-09-22 01:04:33,14.4
+RITM20010360,EMP103,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP211,Closed Complete,2026-09-06 15:39:49,Approved,2026-09-07 14:34:37,22.91
+RITM20010361,EMP115,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-11-12 13:49:54,Approved,2026-11-13 08:47:01,18.95
+RITM20010362,EMP110,Software,Software License,MS Visio license,Application Support,EMP207,Closed Complete,2026-09-26 14:06:42,Approved,2026-09-27 08:18:17,18.19
+RITM20010363,EMP108,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP212,Closed Complete,2026-05-31 12:54:15,Approved,2026-05-31 18:23:27,5.49
+RITM20010364,EMP117,General Service,Offboarding,Leaver account deactivation,Service Desk,EMP200,Closed Complete,2026-08-11 15:50:22,Approved,2026-08-12 09:53:40,18.06
+RITM20010365,EMP107,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP212,Closed Complete,2026-08-29 17:42:28,Approved,2026-08-30 20:12:20,26.5
+RITM20010366,EMP118,Software,Software License,MS Visio license,Application Support,EMP208,Closed Complete,2026-01-28 12:49:12,Approved,2026-01-28 18:33:15,5.73
+RITM20010367,EMP117,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Complete,2026-03-20 14:22:00,Approved,2026-03-23 02:30:42,60.15
+RITM20010368,EMP115,General Service,Mobile,Corporate mobile SIM,Service Desk,EMP200,Closed Complete,2026-10-09 14:19:45,Approved,2026-10-11 16:56:57,50.62
+RITM20010369,EMP101,Hardware,Peripherals,Wireless headset,Desktop Support,EMP209,Closed Complete,2026-03-16 10:15:08,Approved,2026-03-25 20:17:31,226.04
+RITM20010370,EMP116,Software,Software Installation,Python 3.12,Application Support,EMP207,Closed Complete,2026-08-01 08:04:00,Approved,2026-08-04 05:16:42,69.21
+RITM20010371,EMP103,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP211,Closed Complete,2026-01-10 14:35:28,Approved,2026-01-11 23:39:14,33.06
+RITM20010372,EMP114,Software,Software Installation,Python 3.12,Application Support,EMP207,Closed Rejected,2026-03-03 15:29:21,Rejected,2026-03-04 01:31:21,10.03
+RITM20010373,EMP107,Hardware,End-User Device,Additional monitor,Desktop Support,EMP209,Closed Complete,2026-07-19 13:45:57,Approved,2026-07-29 00:09:07,226.39
+RITM20010374,EMP107,Access,User Access,VPN access,Identity & Access Mgmt,EMP212,Closed Complete,2026-08-16 11:07:09,Approved,2026-08-17 00:30:04,13.38
+RITM20010375,EMP108,Software,Software Installation,Python 3.12,Application Support,EMP207,Closed Complete,2026-02-11 15:08:19,Approved,2026-02-12 04:41:16,13.55
+RITM20010376,EMP105,General Service,Offboarding,Leaver account deactivation,Service Desk,EMP201,Closed Complete,2026-09-04 08:01:54,Approved,2026-09-05 04:43:56,20.7
+RITM20010377,EMP102,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP211,Closed Complete,2026-06-29 12:29:56,Approved,2026-06-29 16:10:16,3.67
+RITM20010378,EMP100,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP212,Closed Rejected,2026-07-17 16:09:16,Rejected,2026-07-18 09:52:37,17.72
+RITM20010379,EMP113,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP212,Closed Complete,2026-04-20 09:39:14,Approved,2026-04-22 03:58:31,42.32
+RITM20010380,EMP107,Software,Software Installation,Visual Studio Code,Application Support,EMP207,Closed Complete,2026-06-23 14:15:44,Approved,2026-06-24 19:30:47,29.25
+RITM20010381,EMP105,Software,Software License,Adobe Acrobat Pro,Application Support,EMP207,Closed Incomplete,2026-07-07 16:12:38,Approved,2026-07-09 09:29:56,41.29
+RITM20010382,EMP119,Network,Connectivity,Static IP allocation,Network Operations,EMP204,Closed Complete,2026-03-31 10:35:37,Approved,2026-04-04 20:12:06,105.61
+RITM20010383,EMP114,Access,Application Access,Jira project access,Identity & Access Mgmt,EMP212,Closed Complete,2026-09-22 12:28:27,Approved,2026-09-23 03:47:26,15.32
+RITM20010384,EMP117,Access,User Access,VPN access,Identity & Access Mgmt,EMP211,Closed Complete,2026-03-07 10:15:02,Approved,2026-03-08 01:09:34,14.91
+RITM20010385,EMP101,Software,Software License,MS Visio license,Application Support,EMP208,Closed Complete,2026-03-05 18:30:15,Approved,2026-03-08 01:24:36,54.91
+RITM20010386,EMP103,Access,User Access,Shared drive access,Identity & Access Mgmt,,Pending Approval,2026-11-12 17:55:31,Pending,,
+RITM20010387,EMP107,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP212,Closed Complete,2026-02-11 08:17:58,Approved,2026-02-12 21:32:30,37.24
+RITM20010388,EMP113,Software,Software Installation,Visual Studio Code,Application Support,EMP207,Closed Complete,2026-11-12 10:02:42,Approved,2026-11-13 20:14:07,34.19
+RITM20010389,EMP105,Access,Application Access,Databricks workspace access,Identity & Access Mgmt,EMP212,Closed Complete,2026-03-05 08:03:26,Approved,2026-03-06 17:35:00,33.53
+RITM20010390,EMP100,Network,Connectivity,Static IP allocation,Network Operations,EMP204,Closed Complete,2026-07-06 09:58:54,Approved,2026-07-08 10:20:30,48.36
+RITM20010391,EMP117,Network,Connectivity,Firewall rule change,Network Operations,EMP204,Closed Complete,2026-08-06 08:05:08,Approved,2026-08-08 01:46:38,41.69
+RITM20010392,EMP100,General Service,Mobile,Corporate mobile SIM,Service Desk,EMP202,Closed Complete,2026-10-21 15:29:17,Approved,2026-10-23 22:14:26,54.75
+RITM20010393,EMP111,Hardware,Peripherals,Docking station,Desktop Support,EMP210,Closed Complete,2026-06-22 14:21:47,Approved,2026-06-28 10:18:24,139.94
+RITM20010394,EMP107,Access,User Access,Shared drive access,Identity & Access Mgmt,EMP211,Closed Incomplete,2026-10-19 15:05:05,Approved,2026-10-20 00:20:21,9.25
+RITM20010395,EMP112,Access,Application Access,Salesforce license,Identity & Access Mgmt,EMP211,Closed Complete,2026-09-08 15:53:02,Approved,2026-09-09 17:29:01,25.6
+RITM20010396,EMP113,Hardware,End-User Device,Additional monitor,Desktop Support,EMP209,Closed Complete,2026-07-21 14:38:20,Approved,2026-07-30 20:38:03,222.0
+RITM20010397,EMP111,Hardware,Peripherals,Wireless headset,Desktop Support,EMP210,Closed Complete,2026-07-06 08:09:37,Approved,2026-07-10 20:55:35,108.77
+RITM20010398,EMP116,Hardware,End-User Device,Additional monitor,Desktop Support,EMP209,Work in Progress,2026-11-10 14:16:01,Approved,,
+RITM20010399,EMP112,Hardware,Peripherals,Wireless headset,Desktop Support,EMP210,Closed Complete,2026-09-28 13:10:08,Approved,2026-10-01 08:39:51,67.5
+RITM20010400,EMP115,Software,Software Installation,Python 3.12,Application Support,EMP208,Work in Progress,2026-01-30 11:53:29,Approved,,
