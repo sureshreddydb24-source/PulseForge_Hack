@@ -1,0 +1,117 @@
+goal_id,employee_id,goal_title,goal_description,goal_category,start_date,target_date,completion_percentage,goal_status,manager_id,last_updated_date
+GOAL00001,EMP002,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-03-06,2026-08-21,100,Completed,EMP001,2026-06-09
+GOAL00002,EMP002,Lead a cross-team initiative,Own and drive one cross-functional improvement initiative,Leadership,2026-02-20,2026-12-28,95,In Progress,EMP001,2026-09-23
+GOAL00003,EMP003,Lead a cross-team initiative,Own and drive one cross-functional improvement initiative,Leadership,2026-01-28,2026-08-27,100,Completed,EMP002,2026-02-16
+GOAL00004,EMP003,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-02-07,2026-06-23,100,Completed,EMP002,2026-05-01
+GOAL00005,EMP003,Improve test coverage,Raise unit test coverage of owned modules to 80%,Technical,2026-01-08,2026-10-24,100,Completed,EMP002,2026-01-31
+GOAL00006,EMP004,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-02-21,2026-09-02,100,Completed,EMP002,2026-04-19
+GOAL00007,EMP004,Lead a cross-team initiative,Own and drive one cross-functional improvement initiative,Leadership,2026-03-05,2026-11-13,100,Completed,EMP002,2026-05-01
+GOAL00008,EMP005,Complete Databricks certification,Obtain Databricks Data Engineer Associate certification,Technical,2026-01-26,2026-09-22,100,Completed,EMP001,2026-02-20
+GOAL00009,EMP005,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-02-09,2026-09-09,100,Completed,EMP001,2026-08-27
+GOAL00010,EMP006,Deliver sprint commitments,Achieve at least 85% of committed story points across FY2026 sprints,Delivery,2026-01-18,2026-07-29,100,Completed,EMP005,2026-05-07
+GOAL00011,EMP006,Run knowledge-sharing sessions,Host quarterly knowledge-sharing sessions for the department,Leadership,2026-02-17,2026-07-09,100,Completed,EMP005,2026-06-29
+GOAL00012,EMP007,Lead a cross-team initiative,Own and drive one cross-functional improvement initiative,Leadership,2026-01-09,2026-05-07,100,Completed,EMP001,2026-01-26
+GOAL00013,EMP007,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-02-10,2026-08-07,100,Completed,EMP001,2026-04-28
+GOAL00014,EMP007,Complete Databricks certification,Obtain Databricks Data Engineer Associate certification,Technical,2026-01-13,2026-11-02,100,Completed,EMP001,2026-05-21
+GOAL00015,EMP008,Complete Databricks certification,Obtain Databricks Data Engineer Associate certification,Technical,2026-01-06,2026-04-29,100,Completed,EMP001,2026-02-16
+GOAL00016,EMP008,Run knowledge-sharing sessions,Host quarterly knowledge-sharing sessions for the department,Leadership,2026-01-17,2026-07-06,69,In Progress,EMP001,2026-05-08
+GOAL00017,EMP100,Mentor a junior colleague,Provide regular mentoring sessions to one junior team member,Leadership,2026-02-06,2026-06-04,100,Completed,EMP003,2026-03-02
+GOAL00018,EMP100,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-01-05,2026-05-04,100,Completed,EMP003,2026-04-17
+GOAL00019,EMP100,Complete Databricks certification,Obtain Databricks Data Engineer Associate certification,Technical,2026-03-02,2026-09-06,100,Completed,EMP003,2026-06-29
+GOAL00020,EMP101,Improve test coverage,Raise unit test coverage of owned modules to 80%,Technical,2026-01-10,2026-08-28,100,Completed,EMP003,2026-02-01
+GOAL00021,EMP101,Run knowledge-sharing sessions,Host quarterly knowledge-sharing sessions for the department,Leadership,2026-02-04,2026-10-01,100,Completed,EMP003,2026-03-03
+GOAL00022,EMP101,Reduce incident resolution time,Bring average resolution time within SLA for assigned incidents,Delivery,2026-02-21,2026-12-07,70,In Progress,EMP003,2026-10-16
+GOAL00023,EMP102,Mentor a junior colleague,Provide regular mentoring sessions to one junior team member,Leadership,2026-02-16,2026-06-20,69,In Progress,EMP003,2026-03-07
+GOAL00024,EMP102,Improve test coverage,Raise unit test coverage of owned modules to 80%,Technical,2026-02-04,2026-11-07,100,Completed,EMP003,2026-05-29
+GOAL00025,EMP102,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-02-14,2026-05-16,100,Completed,EMP003,2026-04-07
+GOAL00026,EMP103,Lead a cross-team initiative,Own and drive one cross-functional improvement initiative,Leadership,2026-03-02,2026-10-21,100,Completed,EMP003,2026-10-09
+GOAL00027,EMP103,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-02-20,2026-12-19,100,Completed,EMP003,2026-05-06
+GOAL00028,EMP104,Improve test coverage,Raise unit test coverage of owned modules to 80%,Technical,2026-01-22,2026-09-22,80,In Progress,EMP003,2026-02-07
+GOAL00029,EMP104,Deliver sprint commitments,Achieve at least 85% of committed story points across FY2026 sprints,Delivery,2026-02-23,2027-01-07,70,In Progress,EMP003,2026-10-10
+GOAL00030,EMP105,Complete Databricks certification,Obtain Databricks Data Engineer Associate certification,Technical,2026-01-20,2026-08-03,100,Completed,EMP003,2026-03-27
+GOAL00031,EMP105,Reduce incident resolution time,Bring average resolution time within SLA for assigned incidents,Delivery,2026-02-21,2026-11-07,76,In Progress,EMP003,2026-03-26
+GOAL00032,EMP106,Improve test coverage,Raise unit test coverage of owned modules to 80%,Technical,2026-02-14,2026-12-10,100,Completed,EMP003,2026-06-26
+GOAL00033,EMP106,Mentor a junior colleague,Provide regular mentoring sessions to one junior team member,Leadership,2026-02-13,2026-08-02,100,Completed,EMP003,2026-05-06
+GOAL00034,EMP106,Reduce incident resolution time,Bring average resolution time within SLA for assigned incidents,Delivery,2026-01-24,2026-07-13,82,In Progress,EMP003,2026-05-18
+GOAL00035,EMP107,Lead a cross-team initiative,Own and drive one cross-functional improvement initiative,Leadership,2026-02-18,2026-11-30,90,In Progress,EMP003,2026-05-17
+GOAL00036,EMP107,Improve test coverage,Raise unit test coverage of owned modules to 80%,Technical,2026-02-03,2026-10-21,100,Completed,EMP003,2026-05-28
+GOAL00037,EMP107,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-01-18,2026-04-24,100,Completed,EMP003,2026-03-25
+GOAL00038,EMP108,Mentor a junior colleague,Provide regular mentoring sessions to one junior team member,Leadership,2026-02-09,2026-06-13,100,Completed,EMP003,2026-05-23
+GOAL00039,EMP108,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-02-04,2026-12-17,100,Completed,EMP003,2026-03-02
+GOAL00040,EMP108,Complete Databricks certification,Obtain Databricks Data Engineer Associate certification,Technical,2026-01-16,2026-07-28,95,In Progress,EMP003,2026-04-23
+GOAL00041,EMP109,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-01-14,2026-10-13,100,Completed,EMP003,2026-06-16
+GOAL00042,EMP109,Complete Databricks certification,Obtain Databricks Data Engineer Associate certification,Technical,2026-02-07,2026-08-25,100,Completed,EMP003,2026-06-13
+GOAL00043,EMP110,Mentor a junior colleague,Provide regular mentoring sessions to one junior team member,Leadership,2026-02-07,2026-06-28,100,Completed,EMP004,2026-05-28
+GOAL00044,EMP110,Complete Databricks certification,Obtain Databricks Data Engineer Associate certification,Technical,2026-02-19,2026-07-23,100,Completed,EMP004,2026-04-09
+GOAL00045,EMP110,Deliver sprint commitments,Achieve at least 85% of committed story points across FY2026 sprints,Delivery,2026-01-27,2026-08-20,100,Completed,EMP004,2026-05-05
+GOAL00046,EMP111,Lead a cross-team initiative,Own and drive one cross-functional improvement initiative,Leadership,2026-02-11,2026-09-24,66,In Progress,EMP004,2026-06-22
+GOAL00047,EMP111,Automate manual runbooks,Automate at least three recurring operational runbooks,Technical,2026-01-17,2026-05-26,100,Completed,EMP004,2026-01-30
+GOAL00048,EMP112,Reduce incident resolution time,Bring average resolution time within SLA for assigned incidents,Delivery,2026-02-12,2026-07-16,100,Completed,EMP004,2026-05-04
+GOAL00049,EMP112,Automate manual runbooks,Automate at least three recurring operational runbooks,Technical,2026-01-23,2026-08-07,100,Completed,EMP004,2026-02-15
+GOAL00050,EMP113,Improve test coverage,Raise unit test coverage of owned modules to 80%,Technical,2026-02-19,2026-09-29,100,Completed,EMP004,2026-07-17
+GOAL00051,EMP113,Mentor a junior colleague,Provide regular mentoring sessions to one junior team member,Leadership,2026-02-13,2026-09-28,100,Completed,EMP004,2026-09-01
+GOAL00052,EMP114,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-03-01,2026-11-15,100,Completed,EMP004,2026-11-11
+GOAL00053,EMP114,Automate manual runbooks,Automate at least three recurring operational runbooks,Technical,2026-01-28,2026-12-05,85,In Progress,EMP004,2026-03-08
+GOAL00054,EMP115,Lead a cross-team initiative,Own and drive one cross-functional improvement initiative,Leadership,2026-02-03,2026-07-04,100,Completed,EMP004,2026-06-10
+GOAL00055,EMP115,Automate manual runbooks,Automate at least three recurring operational runbooks,Technical,2026-02-11,2026-07-13,100,Completed,EMP004,2026-06-10
+GOAL00056,EMP116,Reduce incident resolution time,Bring average resolution time within SLA for assigned incidents,Delivery,2026-01-30,2026-07-10,100,Completed,EMP004,2026-02-12
+GOAL00057,EMP116,Run knowledge-sharing sessions,Host quarterly knowledge-sharing sessions for the department,Leadership,2026-02-08,2026-08-16,100,Completed,EMP004,2026-06-23
+GOAL00058,EMP117,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-01-14,2026-06-19,100,Completed,EMP004,2026-02-22
+GOAL00059,EMP117,Lead a cross-team initiative,Own and drive one cross-functional improvement initiative,Leadership,2026-02-18,2026-06-21,100,Completed,EMP004,2026-05-11
+GOAL00060,EMP118,Deliver sprint commitments,Achieve at least 85% of committed story points across FY2026 sprints,Delivery,2026-03-03,2026-09-12,100,Completed,EMP004,2026-07-06
+GOAL00061,EMP118,Run knowledge-sharing sessions,Host quarterly knowledge-sharing sessions for the department,Leadership,2026-01-21,2026-07-16,100,Completed,EMP004,2026-04-03
+GOAL00062,EMP119,Complete Databricks certification,Obtain Databricks Data Engineer Associate certification,Technical,2026-01-28,2026-11-17,100,Completed,EMP004,2026-10-23
+GOAL00063,EMP119,Run knowledge-sharing sessions,Host quarterly knowledge-sharing sessions for the department,Leadership,2026-02-22,2026-12-25,100,Completed,EMP004,2026-02-24
+GOAL00064,EMP200,Lead a cross-team initiative,Own and drive one cross-functional improvement initiative,Leadership,2026-01-22,2026-10-09,95,In Progress,EMP006,2026-04-03
+GOAL00065,EMP200,Improve test coverage,Raise unit test coverage of owned modules to 80%,Technical,2026-02-12,2026-08-08,100,Completed,EMP006,2026-02-15
+GOAL00066,EMP200,Reduce incident resolution time,Bring average resolution time within SLA for assigned incidents,Delivery,2026-01-31,2026-09-19,100,Completed,EMP006,2026-04-11
+GOAL00067,EMP201,Mentor a junior colleague,Provide regular mentoring sessions to one junior team member,Leadership,2026-02-16,2026-08-01,100,Completed,EMP006,2026-07-17
+GOAL00068,EMP201,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-01-11,2026-11-14,94,In Progress,EMP006,2026-05-03
+GOAL00069,EMP202,Lead a cross-team initiative,Own and drive one cross-functional improvement initiative,Leadership,2026-01-20,2026-07-04,93,In Progress,EMP006,2026-02-08
+GOAL00070,EMP202,Automate manual runbooks,Automate at least three recurring operational runbooks,Technical,2026-02-17,2026-07-17,100,Completed,EMP006,2026-07-09
+GOAL00071,EMP203,Run knowledge-sharing sessions,Host quarterly knowledge-sharing sessions for the department,Leadership,2026-01-23,2026-08-07,100,Completed,EMP006,2026-03-29
+GOAL00072,EMP203,Reduce incident resolution time,Bring average resolution time within SLA for assigned incidents,Delivery,2026-02-20,2026-11-25,70,In Progress,EMP006,2026-04-03
+GOAL00073,EMP204,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-02-06,2026-06-26,100,Completed,EMP006,2026-03-04
+GOAL00074,EMP204,Mentor a junior colleague,Provide regular mentoring sessions to one junior team member,Leadership,2026-01-16,2026-08-12,60,In Progress,EMP006,2026-03-29
+GOAL00075,EMP205,Run knowledge-sharing sessions,Host quarterly knowledge-sharing sessions for the department,Leadership,2026-02-21,2026-10-10,100,Completed,EMP006,2026-04-03
+GOAL00076,EMP205,Reduce incident resolution time,Bring average resolution time within SLA for assigned incidents,Delivery,2026-01-21,2026-04-26,100,Completed,EMP006,2026-04-04
+GOAL00077,EMP205,Improve test coverage,Raise unit test coverage of owned modules to 80%,Technical,2026-01-21,2026-10-26,100,Completed,EMP006,2026-01-29
+GOAL00078,EMP206,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-02-23,2026-07-07,86,In Progress,EMP006,2026-04-09
+GOAL00079,EMP206,Automate manual runbooks,Automate at least three recurring operational runbooks,Technical,2026-03-01,2026-08-03,100,Completed,EMP006,2026-06-04
+GOAL00080,EMP207,Lead a cross-team initiative,Own and drive one cross-functional improvement initiative,Leadership,2026-01-21,2026-05-09,100,Completed,EMP006,2026-04-07
+GOAL00081,EMP207,Automate manual runbooks,Automate at least three recurring operational runbooks,Technical,2026-01-20,2026-06-18,100,Completed,EMP006,2026-04-01
+GOAL00082,EMP207,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-01-25,2026-05-12,70,In Progress,EMP006,2026-02-25
+GOAL00083,EMP208,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-02-09,2026-12-27,0,Not Started,EMP006,2026-02-09
+GOAL00084,EMP208,Run knowledge-sharing sessions,Host quarterly knowledge-sharing sessions for the department,Leadership,2026-01-16,2026-12-01,75,In Progress,EMP006,2026-05-31
+GOAL00085,EMP208,Complete Databricks certification,Obtain Databricks Data Engineer Associate certification,Technical,2026-01-14,2026-04-26,100,Completed,EMP006,2026-04-25
+GOAL00086,EMP209,Improve test coverage,Raise unit test coverage of owned modules to 80%,Technical,2026-02-24,2026-11-09,100,Completed,EMP006,2026-07-31
+GOAL00087,EMP209,Reduce incident resolution time,Bring average resolution time within SLA for assigned incidents,Delivery,2026-02-09,2026-06-22,100,Completed,EMP006,2026-04-01
+GOAL00088,EMP210,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-01-06,2026-07-24,100,Completed,EMP006,2026-02-12
+GOAL00089,EMP210,Improve test coverage,Raise unit test coverage of owned modules to 80%,Technical,2026-02-05,2026-07-19,100,Completed,EMP006,2026-04-13
+GOAL00090,EMP211,Automate manual runbooks,Automate at least three recurring operational runbooks,Technical,2026-02-05,2026-05-07,100,Completed,EMP006,2026-03-06
+GOAL00091,EMP211,Deliver sprint commitments,Achieve at least 85% of committed story points across FY2026 sprints,Delivery,2026-03-06,2027-01-12,85,In Progress,EMP006,2026-08-11
+GOAL00092,EMP211,Lead a cross-team initiative,Own and drive one cross-functional improvement initiative,Leadership,2026-01-11,2026-09-21,100,Completed,EMP006,2026-02-03
+GOAL00093,EMP212,Complete Databricks certification,Obtain Databricks Data Engineer Associate certification,Technical,2026-02-02,2026-11-07,100,Completed,EMP006,2026-11-01
+GOAL00094,EMP212,Run knowledge-sharing sessions,Host quarterly knowledge-sharing sessions for the department,Leadership,2026-01-11,2026-07-26,100,Completed,EMP006,2026-04-22
+GOAL00095,EMP300,Lead a cross-team initiative,Own and drive one cross-functional improvement initiative,Leadership,2026-01-29,2026-11-25,100,Completed,EMP007,2026-03-01
+GOAL00096,EMP300,Automate manual runbooks,Automate at least three recurring operational runbooks,Technical,2026-02-08,2026-12-15,95,In Progress,EMP007,2026-03-19
+GOAL00097,EMP310,Lead a cross-team initiative,Own and drive one cross-functional improvement initiative,Leadership,2026-02-04,2026-05-15,79,In Progress,EMP008,2026-03-15
+GOAL00098,EMP310,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-02-27,2026-10-03,100,Completed,EMP008,2026-05-10
+GOAL00099,EMP310,Improve test coverage,Raise unit test coverage of owned modules to 80%,Technical,2026-02-03,2026-06-19,100,Completed,EMP008,2026-02-16
+GOAL00100,EMP301,Complete Databricks certification,Obtain Databricks Data Engineer Associate certification,Technical,2026-01-19,2026-07-07,100,Completed,EMP007,2026-06-20
+GOAL00101,EMP301,Deliver sprint commitments,Achieve at least 85% of committed story points across FY2026 sprints,Delivery,2026-02-19,2026-10-04,100,Completed,EMP007,2026-08-02
+GOAL00102,EMP311,Run knowledge-sharing sessions,Host quarterly knowledge-sharing sessions for the department,Leadership,2026-01-24,2026-11-08,100,Completed,EMP008,2026-08-21
+GOAL00103,EMP311,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-02-11,2026-11-28,60,In Progress,EMP008,2026-08-25
+GOAL00104,EMP302,Automate manual runbooks,Automate at least three recurring operational runbooks,Technical,2026-02-26,2026-07-11,100,Completed,EMP007,2026-03-04
+GOAL00105,EMP302,Mentor a junior colleague,Provide regular mentoring sessions to one junior team member,Leadership,2026-01-10,2026-11-29,85,In Progress,EMP007,2026-02-07
+GOAL00106,EMP302,Deliver sprint commitments,Achieve at least 85% of committed story points across FY2026 sprints,Delivery,2026-01-29,2026-06-06,100,Completed,EMP007,2026-05-09
+GOAL00107,EMP312,Mentor a junior colleague,Provide regular mentoring sessions to one junior team member,Leadership,2026-01-10,2026-08-04,100,Completed,EMP008,2026-06-13
+GOAL00108,EMP312,Deliver sprint commitments,Achieve at least 85% of committed story points across FY2026 sprints,Delivery,2026-02-14,2026-11-28,100,Completed,EMP008,2026-02-23
+GOAL00109,EMP303,Ship quarterly roadmap items,Deliver assigned roadmap features on schedule each quarter,Delivery,2026-02-08,2026-11-18,100,Completed,EMP007,2026-05-08
+GOAL00110,EMP303,Lead a cross-team initiative,Own and drive one cross-functional improvement initiative,Leadership,2026-01-19,2026-11-11,93,In Progress,EMP007,2026-08-11
+GOAL00111,EMP304,Run knowledge-sharing sessions,Host quarterly knowledge-sharing sessions for the department,Leadership,2026-03-06,2026-12-19,80,In Progress,EMP007,2026-10-22
+GOAL00112,EMP304,Reduce incident resolution time,Bring average resolution time within SLA for assigned incidents,Delivery,2026-01-10,2026-08-23,100,Completed,EMP007,2026-08-13
+GOAL00113,EMP314,Automate manual runbooks,Automate at least three recurring operational runbooks,Technical,2026-03-03,2026-09-17,100,Completed,EMP008,2026-07-22
+GOAL00114,EMP314,Deliver sprint commitments,Achieve at least 85% of committed story points across FY2026 sprints,Delivery,2026-02-26,2026-11-04,100,Completed,EMP008,2026-02-28
+GOAL00115,EMP315,Reduce incident resolution time,Bring average resolution time within SLA for assigned incidents,Delivery,2026-02-04,2026-11-13,100,Completed,EMP008,2026-04-19
+GOAL00116,EMP315,Mentor a junior colleague,Provide regular mentoring sessions to one junior team member,Leadership,2026-01-07,2026-04-28,100,Completed,EMP008,2026-03-23
